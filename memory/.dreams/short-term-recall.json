@@ -1,0 +1,187 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-07T02:52:26.463Z",
+  "entries": {
+    "memory:memory/2026-04-04.md:238:256": {
+      "key": "memory:memory/2026-04-04.md:238:256",
+      "path": "memory/2026-04-04.md",
+      "startLine": 238,
+      "endLine": 256,
+      "source": "memory",
+      "snippet": "6. **摘要 prompt**：原本強制輸出「水單：已提供/未提供」，改成只輸出對話中實際提到的欄位 7. **轉接目標**：LiveChat transfer 從 Group 0 改 Group 11（測試期間），Telegram 通知改發到 PERA CSR Test 群 - 部署檔案：livechat-v3.js、poller-v3.js、handler-v2.js → VPS `/opt/cs-bot/src/` - **現在 E2E 流程可用**：客戶開 chat → 填表 → bot 歡迎 → 客戶發訊息 → AI 回覆 → 需要時 escalate 到 Telegram test 群 - 韋瀚正在持續測試中 ## CS-Bot 路由修復 & 全面 Review（18:00-19:30） - **核心 bug**：所有 chat（包括用 `direct.lc.chat/15555654/11` 進入的）都被路由到 Group 0，而非 Group 11 - 原因：`continuous_chat=1` 和 `chat_between_groups=1` 設定讓有歷史的客戶繼續分配到上次的 group（Group 0） - 新客戶（無歷史）正確進 Group 11；有歷史的全部到 Group 0 - **修復動作**： 1. 關閉 `continuous_chat` 和 `chat_between_groups`（LiveChat API v2） 2. Poller 加 botMember 過濾 — 只處理 bot 是成員的 chat，避免",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "totalScore": 0.7946787983179092,
+      "maxScore": 0.4299069941043854,
+      "firstRecalledAt": "2026-04-07T00:41:04.061Z",
+      "lastRecalledAt": "2026-04-07T02:52:26.463Z",
+      "queryHashes": [
+        "21439cc64380",
+        "33a7994d0e58"
+      ],
+      "recallDays": [
+        "2026-04-07"
+      ],
+      "conceptTags": [
+        "已提供/未提供",
+        "livechat-v3.js",
+        "poller-v3.js",
+        "handler-v2.js",
+        "opt/cs-bot/src",
+        "cs-bot",
+        "00-19",
+        "direct.lc.chat/15555654/11"
+      ]
+    },
+    "memory:memory/2026-04-04.md:226:240": {
+      "key": "memory:memory/2026-04-04.md:226:240",
+      "path": "memory/2026-04-04.md",
+      "startLine": 226,
+      "endLine": 240,
+      "source": "memory",
+      "snippet": "- 明文敏感檔案：openclaw.json（API keys）、cs-bot/.env、memory/、main.sqlite - 重要習慣：關機 > 睡眠（睡眠狀態金鑰在記憶體） - 狀態：韋瀚考慮中，尚未安裝 VeraCrypt ## CS-Bot 重大突破（17:00-17:35） - **Bot 成功回覆客戶訊息！** 韋瀚確認收到 bot 回覆 - 修復的 bug 清單： 1. **Bearer auth**：從 Basic（owner PAT）改為 Bearer（bot JWT token），解決 403 \"Requester is not user of the chat\" 2. **事件偵測**：`list_chats` 的 `last_thread_summary.last_event_id` 在 v3.6 永遠是 null，改用 `last_event_per_type` 取最新 event ID 3. **get_chat 回傳格式**：v3.6 回傳 `thread`（單數）不是 `threads`（複數），導致取不到 events → bot 偵測到新訊息但讀不到內容 4. **Token 互搶**：每次 `issue_bot_token` 會讓舊 token 失效，加了 apiCall wrapper 遇 401 自動 refresh 5. **客戶名稱**：sync 時沒抓 customer name，fallback 到 \"Customer\"。加了 `setCustomerName` 在 sync 時設定 6. **摘",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.42371184229850767,
+      "maxScore": 0.42371184229850767,
+      "firstRecalledAt": "2026-04-07T00:41:04.061Z",
+      "lastRecalledAt": "2026-04-07T00:41:04.061Z",
+      "queryHashes": [
+        "21439cc64380"
+      ],
+      "recallDays": [
+        "2026-04-07"
+      ],
+      "conceptTags": [
+        "openclaw.json",
+        "cs-bot",
+        "main.sqlite",
+        "00-17",
+        "list-chats",
+        "v3.6",
+        "last-event-per-type",
+        "get-chat"
+      ]
+    },
+    "memory:memory/2026-04-04.md:352:367": {
+      "key": "memory:memory/2026-04-04.md:352:367",
+      "path": "memory/2026-04-04.md",
+      "startLine": 352,
+      "endLine": 367,
+      "source": "memory",
+      "snippet": "4. **Token 互搶**：每次 `issue_bot_token` 會讓舊 token 失效，加了 apiCall wrapper 遇 401 自動 refresh 5. **客戶名稱**：sync 時沒抓 customer name，fallback 到 \"Customer\"。加了 `setCustomerName` 在 sync 時設定 6. **摘要 prompt**：原本強制輸出「水單：已提供/未提供」，改成只輸出對話中實際提到的欄位 7. **轉接目標**：LiveChat transfer 從 Group 0 改 Group 11（測試期間），Telegram 通知改發到 PERA CSR Test 群 - 部署檔案：livechat-v3.js、poller-v3.js、handler-v2.js → VPS `/opt/cs-bot/src/` - **現在 E2E 流程可用**：客戶開 chat → 填表 → bot 歡迎 → 客戶發訊息 → AI 回覆 → 需要時 escalate 到 Telegram test 群 - 韋瀚正在持續測試中 ## CS-Bot 路由修復 & 全面 Review（18:00-19:30） - **核心 bug**：所有 chat（包括用 `direct.lc.chat/15555654/11` 進入的）都被路由到 Group 0，而非 Group 11 - 原因：`continuous_chat=1` 和 `chat_between_groups=1` 設定讓有歷史的客戶繼續分配到上次的 group",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.41124122142791747,
+      "maxScore": 0.41124122142791747,
+      "firstRecalledAt": "2026-04-07T00:41:04.061Z",
+      "lastRecalledAt": "2026-04-07T00:41:04.061Z",
+      "queryHashes": [
+        "21439cc64380"
+      ],
+      "recallDays": [
+        "2026-04-07"
+      ],
+      "conceptTags": [
+        "issue-bot-token",
+        "已提供/未提供",
+        "livechat-v3.js",
+        "poller-v3.js",
+        "handler-v2.js",
+        "opt/cs-bot/src",
+        "cs-bot",
+        "00-19"
+      ]
+    },
+    "memory:memory/2026-04-04.md:45:72": {
+      "key": "memory:memory/2026-04-04.md:45:72",
+      "path": "memory/2026-04-04.md",
+      "startLine": 45,
+      "endLine": 72,
+      "source": "memory",
+      "snippet": "- 韋瀚選擇方案 B（品質優先+GPT-5 當第二順位） - OpenAI API key 已接：gpt-4o-transcribe（STT）、gpt-image-1（圖片）、text-embedding-3-small（記憶） ## 語音功能（16:08-16:18） - TTS 測試：Grok TTS 中文 > ElevenLabs（Grok 較自然） - 安裝 voice-message skill（edge-tts + ffmpeg），支援台灣中文 `zh-TW-HsiaoChenNeural` - 設定 STT：gpt-4o-transcribe（從 mini 升級完整版），Discord 語音訊息可辨識 - voice-message = 發語音（嘴巴），audio config = 收語音（耳朵） ## 餐廳訂位（16:03） - 韋瀚要訂闊火鍋（大直），今晚 6 點，2 大 2 小，電話 0926208099 - 無法自動訂位（需表單互動），提供電話 02-8502-5857 - 線上訂位：inline.app ## OpenAI 服務盤點（16:22） - 已用：gpt-4o-transcribe、gpt-image-1、text-embedding-3-small - 新增：GPT-5 作為 fallback 模型 - 不需要額外開的：DALL·E 3（已有 gpt-image-1）、OpenAI TTS（已有免費 edge-tts） ## 資安需求 — 本地加密（16:29） - 韋瀚從事博彩行業，擔心電腦被搜查時明文資訊外洩 - FileVaul",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.3526744395494461,
+      "maxScore": 0.3526744395494461,
+      "firstRecalledAt": "2026-04-07T01:11:05.679Z",
+      "lastRecalledAt": "2026-04-07T01:11:05.679Z",
+      "queryHashes": [
+        "44f25bda1468"
+      ],
+      "recallDays": [
+        "2026-04-07"
+      ],
+      "conceptTags": [
+        "embedding",
+        "gpt",
+        "openai",
+        "gpt-5",
+        "gpt-4o-transcribe",
+        "gpt-image-1",
+        "text-embedding-3-small",
+        "08-16"
+      ]
+    },
+    "memory:memory/2026-04-04.md:207:232": {
+      "key": "memory:memory/2026-04-04.md:207:232",
+      "path": "memory/2026-04-04.md",
+      "startLine": 207,
+      "endLine": 232,
+      "source": "memory",
+      "snippet": "- TTS 測試：Grok TTS 中文 > ElevenLabs（Grok 較自然） - 安裝 voice-message skill（edge-tts + ffmpeg），支援台灣中文 `zh-TW-HsiaoChenNeural` - 設定 STT：gpt-4o-transcribe（從 mini 升級完整版），Discord 語音訊息可辨識 - voice-message = 發語音（嘴巴），audio config = 收語音（耳朵） ## 餐廳訂位（16:03） - 韋瀚要訂闊火鍋（大直），今晚 6 點，2 大 2 小，電話 0926208099 - 無法自動訂位（需表單互動），提供電話 02-8502-5857 - 線上訂位：inline.app ## OpenAI 服務盤點（16:22） - 已用：gpt-4o-transcribe、gpt-image-1、text-embedding-3-small - 新增：GPT-5 作為 fallback 模型 - 不需要額外開的：DALL·E 3（已有 gpt-image-1）、OpenAI TTS（已有免費 edge-tts） ## 資安需求 — 本地加密（16:29） - 韋瀚從事博彩行業，擔心電腦被搜查時明文資訊外洩 - FileVault 已開啟（全磁碟加密） - 建議方案：VeraCrypt 隱藏磁區（Hidden Volume，雙密碼，合理推諉） - 明文敏感檔案：openclaw.json（API keys）、cs-bot/.env、memory/、main.sqlite - 重要習慣：關機 > 睡",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.36479913294315336,
+      "maxScore": 0.36479913294315336,
+      "firstRecalledAt": "2026-04-07T02:52:26.463Z",
+      "lastRecalledAt": "2026-04-07T02:52:26.463Z",
+      "queryHashes": [
+        "33a7994d0e58"
+      ],
+      "recallDays": [
+        "2026-04-07"
+      ],
+      "conceptTags": [
+        "embedding",
+        "gpt",
+        "openai",
+        "voice-message",
+        "edge-tts",
+        "zh-tw-hsiaochenneural",
+        "gpt-4o-transcribe",
+        "02-8502-5857"
+      ]
+    },
+    "memory:memory/2026-04-04.md:251:281": {
+      "key": "memory:memory/2026-04-04.md:251:281",
+      "path": "memory/2026-04-04.md",
+      "startLine": 251,
+      "endLine": 281,
+      "source": "memory",
+      "snippet": "3. Bot 啟動時自動設 routing status = accepting_chats - **完整 Review 結果（19:13）**： - ✅ Docker 運行正常、health check OK - ✅ Bot token 自動簽發 + 401 自動刷新 - ✅ Group 11 設定正確（PERA57 bot = first priority） - ✅ Group 11 Greetings 文字都是 PERA57 GAMING - ✅ Telegram bot 在線、能發訊息到 CSR Test 群 - ✅ Knowledge base 8 個檔案已載入 - ✅ AI system prompt + 升級規則 + 摘要邏輯正確 - ✅ 最近 30 分鐘 0 error - ⚠️ 粗口過濾只用 exact match，拼錯的（fuxk、fck）可繞過 - ⚠️ 舊 chat 留在 Group 0，bot 無法處理（已知限制） - **等主管用連結重新測試**：`https://direct.lc.chat/15555654/11` - 韋瀚說「好 通知到 #cs-test」，正在等回覆「發佈」才發更新到 #cs-test ## Discord #cs-test 頻道 - 私人頻道 ID：`1489924139635576842` - CS-Test role ID：`1489924112234184704` - 成員：mnnnweinnnm、swe883110、kang_03716 - 永久邀請連結：`https:/",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.35970474481582637,
+      "maxScore": 0.35970474481582637,
+      "firstRecalledAt": "2026-04-07T02:52:26.463Z",
+      "lastRecalledAt": "2026-04-07T02:52:26.463Z",
+      "queryHashes": [
+        "33a7994d0e58"
+      ],
+      "recallDays": [
+        "2026-04-07"
+      ],
+      "conceptTags": [
+        "accepting-chats",
+        "direct.lc.chat/15555654/11",
+        "cs-test",
+        "kang-03716",
+        "bot",
+        "啟動",
+        "自動",
+        "routing"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+# 同步記憶和共用檔案，但各自保留身份
+*
+!.gitignore
+!MEMORY.md
+!SOUL.md
+!USER.md
+!AGENTS.md
+!TOOLS.md
+!HEARTBEAT.md
+!memory/
+!memory/**
+# 排除身份檔案，各自維護
+IDENTITY.md
