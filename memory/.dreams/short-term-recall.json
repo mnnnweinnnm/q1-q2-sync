@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T02:52:26.463Z",
+  "updatedAt": "2026-04-07T02:58:24.771Z",
   "entries": {
     "memory:memory/2026-04-04.md:238:256": {
       "key": "memory:memory/2026-04-04.md:238:256",
@@ -181,6 +181,36 @@
         "啟動",
         "自動",
         "routing"
+      ]
+    },
+    "memory:memory/2026-04-07.md:51:75": {
+      "key": "memory:memory/2026-04-07.md:51:75",
+      "path": "memory/2026-04-07.md",
+      "startLine": 51,
+      "endLine": 75,
+      "source": "memory",
+      "snippet": "1. **端口衝突**：8080 被 Caddy 占用，改為 8081 2. **環境變數衝突**：移除 `AUTO_RECEIVE_SCHEDULE`（與 json-rpc 模式不相容） 3. **Docker Compose 版本**：VPS 使用 v2 需要 `docker compose`（空格） ### 註冊 Signal 號碼進行中 - **號碼**：+527711647956（墨西哥） - **狀態**：需要 Captcha 驗證 - **步驟**：韋瀚需完成 https://signalcaptchas.org/registration/generate.html 驗證 ### 整合架構確認 - **CS-Bot**：/opt/cs-bot/ + port 3000（客服，已上線） - **Reporting-Bot**：/opt/pera57-reporting-bot/ + port 3001（回報，待部署） - **Signal API**：/opt/signal-api/ + port 8081（通知 API，已部署） - **完全隔離**：三個系統互不影響 ### 下一步 1. 完成 Signal 號碼註冊（待 Captcha） 2. 建立 PERA57 回報群組 3. 測試 Signal 訊息發送 4. 設定 PERA57 網站連接資訊 5. 完整測試並部署回報機器人 --- *記錄時間：09:30* *狀態：Signal API 部署完成，等待註冊完成*",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.3793299853801727,
+      "maxScore": 0.3793299853801727,
+      "firstRecalledAt": "2026-04-07T02:58:24.771Z",
+      "lastRecalledAt": "2026-04-07T02:58:24.771Z",
+      "queryHashes": [
+        "ba213f69d522"
+      ],
+      "recallDays": [
+        "2026-04-07"
+      ],
+      "conceptTags": [
+        "auto-receive-schedule",
+        "json-rpc",
+        "cs-bot",
+        "opt/cs-bot",
+        "reporting-bot",
+        "opt/pera57-reporting-bot",
+        "opt/signal-api",
+        "衝突"
       ]
     }
   }
