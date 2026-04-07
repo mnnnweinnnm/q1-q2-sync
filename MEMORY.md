@@ -22,6 +22,21 @@
 - 狀態：**AI 客服已上線運作**（Group 11 測試中），webhook 2026-04-06 架設完成
 - 待辦：TCG relay 開通、BO Puppeteer、6 類新查詢、粗口 fuzzy match
 
+### PERA57 回報機器人（營運數據自動回報）
+- **目標**：定時回報 PERA57 財務數據、網站狀態、入金成功率，異常即時警報
+- **建立日期**：2026-04-07
+- **架構**：數據收集層（API / Puppeteer 爬蟲）→ 處理分析層 → 通知推送層
+- **技術棧**：Node.js + Express + node-cron + Puppeteer + Docker
+- **VPS 部署**：`/opt/pera57-reporting-bot/` port 3001（待部署）
+- **通知管道**：Signal（主要）、Telegram（備用）、Discord（輔助）
+- **排程**：每小時回報（:00）、每日匯總（09:00）、網站監控（每 15 分鐘）
+- **警報門檻**：入金成功率 <85%、網站回應 >5s、錯誤率 >5%
+- **Signal API**：已部署 VPS `/opt/signal-api/` port 8081 ✅
+- **Signal 號碼**：+527711647956（墨西哥），🔴 卡在 Captcha 驗證（需韋瀚手動完成）
+- **VPS 架構**：CS-Bot(:3000) / Reporting-Bot(:3001) / Signal API(:8081) 完全隔離
+- **狀態**：✅ 程式架構完成 → 🔴 等 Signal 註冊 → 待部署到 VPS → 待連接 PERA57 網站 → 待系統測試
+- **詳細記錄**：`memory/projects/pera57-reporting-bot.md`
+
 ### 網頁主機管理
 - Cloudflare 183 zone 整理完、後門已清、Origin Cert 已簽
 - 🔴 usdt-bet.com 管理員密碼未重設、FTP 密碼太弱
@@ -76,4 +91,4 @@
 - 2026-04-05: Ars Technica 報導 OpenClaw 未驗證遠端 admin 漏洞，建議假設已被入侵、輪換憑證
 - 已通知韋瀚，待他決定要不要執行輪換
 
-*最後更新：2026-04-06*
+*最後更新：2026-04-07*
