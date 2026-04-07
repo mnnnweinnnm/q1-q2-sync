@@ -28,7 +28,9 @@
 - **架構**：數據收集層（API / Puppeteer 爬蟲）→ 處理分析層 → 通知推送層
 - **技術棧**：Node.js + Express + node-cron + Puppeteer + Docker
 - **VPS 部署**：`/opt/pera57-reporting-bot/` port 3001（待部署）
-- **通知管道**：Signal（主要）、Telegram（備用）、Discord（輔助）
+- **通知管道**：Signal（主要）、Telegram（備用，已設定）、Discord（輔助）
+- **Telegram Bot**：@pera57_report_bot（token: 8764224944:AAHNTxmGsfCr77ct_wHaOWApg1Pe6q3vR2Q）
+- **Telegram 群組**：P57回報機器人開發測試（ID: -5160138768）
 - **排程**：每小時回報（:00）、每日匯總（09:00）、網站監控（每 15 分鐘）
 - **警報門檻**：入金成功率 <85%、網站回應 >5s、錯誤率 >5%
 - **Signal API**：已部署 VPS `/opt/signal-api/` port 8081 ✅

@@ -31,8 +31,15 @@
 
 ### 通知管道
 - ✅ **Signal**：主要通知管道（PERA57 優先）
-- 🔄 **Telegram**：備用通知
+- ✅ **Telegram**：備用通知（已設定）
 - 🔄 **Discord**：輔助通知（可選）
+
+### Telegram 設定
+- **Bot**：@pera57_report_bot
+- **Token**：8764224944:AAHNTxmGsfCr77ct_wHaOWApg1Pe6q3vR2Q
+- **群組**：P57回報機器人開發測試
+- **群組 ID**：-5160138768
+- **狀態**：✅ 測試成功，可發送財務報告
 
 ### 資料來源策略
 - **優先**：API 呼叫（如果可用）
