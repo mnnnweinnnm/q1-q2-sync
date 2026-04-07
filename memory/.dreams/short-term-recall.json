@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T03:17:01.942Z",
+  "updatedAt": "2026-04-07T15:04:03.893Z",
   "entries": {
     "memory:memory/2026-04-04.md:238:256": {
       "key": "memory:memory/2026-04-04.md:238:256",
@@ -41,14 +41,15 @@
       "endLine": 240,
       "source": "memory",
       "snippet": "- 明文敏感檔案：openclaw.json（API keys）、cs-bot/.env、memory/、main.sqlite - 重要習慣：關機 > 睡眠（睡眠狀態金鑰在記憶體） - 狀態：韋瀚考慮中，尚未安裝 VeraCrypt ## CS-Bot 重大突破（17:00-17:35） - **Bot 成功回覆客戶訊息！** 韋瀚確認收到 bot 回覆 - 修復的 bug 清單： 1. **Bearer auth**：從 Basic（owner PAT）改為 Bearer（bot JWT token），解決 403 \"Requester is not user of the chat\" 2. **事件偵測**：`list_chats` 的 `last_thread_summary.last_event_id` 在 v3.6 永遠是 null，改用 `last_event_per_type` 取最新 event ID 3. **get_chat 回傳格式**：v3.6 回傳 `thread`（單數）不是 `threads`（複數），導致取不到 events → bot 偵測到新訊息但讀不到內容 4. **Token 互搶**：每次 `issue_bot_token` 會讓舊 token 失效，加了 apiCall wrapper 遇 401 自動 refresh 5. **客戶名稱**：sync 時沒抓 customer name，fallback 到 \"Customer\"。加了 `setCustomerName` 在 sync 時設定 6. **摘",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
-      "totalScore": 0.42371184229850767,
-      "maxScore": 0.42371184229850767,
+      "totalScore": 0.9751428980338653,
+      "maxScore": 0.5514310557353577,
       "firstRecalledAt": "2026-04-07T00:41:04.061Z",
-      "lastRecalledAt": "2026-04-07T00:41:04.061Z",
+      "lastRecalledAt": "2026-04-07T15:04:03.893Z",
       "queryHashes": [
-        "21439cc64380"
+        "21439cc64380",
+        "104f6c3a3d10"
       ],
       "recallDays": [
         "2026-04-07"
@@ -161,14 +162,15 @@
       "endLine": 281,
       "source": "memory",
       "snippet": "3. Bot 啟動時自動設 routing status = accepting_chats - **完整 Review 結果（19:13）**： - ✅ Docker 運行正常、health check OK - ✅ Bot token 自動簽發 + 401 自動刷新 - ✅ Group 11 設定正確（PERA57 bot = first priority） - ✅ Group 11 Greetings 文字都是 PERA57 GAMING - ✅ Telegram bot 在線、能發訊息到 CSR Test 群 - ✅ Knowledge base 8 個檔案已載入 - ✅ AI system prompt + 升級規則 + 摘要邏輯正確 - ✅ 最近 30 分鐘 0 error - ⚠️ 粗口過濾只用 exact match，拼錯的（fuxk、fck）可繞過 - ⚠️ 舊 chat 留在 Group 0，bot 無法處理（已知限制） - **等主管用連結重新測試**：`https://direct.lc.chat/15555654/11` - 韋瀚說「好 通知到 #cs-test」，正在等回覆「發佈」才發更新到 #cs-test ## Discord #cs-test 頻道 - 私人頻道 ID：`1489924139635576842` - CS-Test role ID：`1489924112234184704` - 成員：mnnnweinnnm、swe883110、kang_03716 - 永久邀請連結：`https:/",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
-      "totalScore": 0.35970474481582637,
-      "maxScore": 0.35970474481582637,
+      "totalScore": 0.8812174381219355,
+      "maxScore": 0.5215126933061092,
       "firstRecalledAt": "2026-04-07T02:52:26.463Z",
-      "lastRecalledAt": "2026-04-07T02:52:26.463Z",
+      "lastRecalledAt": "2026-04-07T15:04:03.893Z",
       "queryHashes": [
-        "33a7994d0e58"
+        "33a7994d0e58",
+        "104f6c3a3d10"
       ],
       "recallDays": [
         "2026-04-07"
@@ -242,6 +244,36 @@
         "歷史",
         "正確",
         "group"
+      ]
+    },
+    "memory:memory/2026-04-04.md:134:151": {
+      "key": "memory:memory/2026-04-04.md:134:151",
+      "path": "memory/2026-04-04.md",
+      "startLine": 134,
+      "endLine": 151,
+      "source": "memory",
+      "snippet": "- 不需要額外開的：DALL·E 3（已有 gpt-image-1）、OpenAI TTS（已有免費 edge-tts） ## 資安需求 — 本地加密（16:29） - 韋瀚從事博彩行業，擔心電腦被搜查時明文資訊外洩 - FileVault 已開啟（全磁碟加密） - 建議方案：VeraCrypt 隱藏磁區（Hidden Volume，雙密碼，合理推諉） - 明文敏感檔案：openclaw.json（API keys）、cs-bot/.env、memory/、main.sqlite - 重要習慣：關機 > 睡眠（睡眠狀態金鑰在記憶體） - 狀態：韋瀚考慮中，尚未安裝 VeraCrypt ## CS-Bot 重大突破（17:00-17:35） - **Bot 成功回覆客戶訊息！** 韋瀚確認收到 bot 回覆 - 修復的 bug 清單： 1. **Bearer auth**：從 Basic（owner PAT）改為 Bearer（bot JWT token），解決 403 \"Requester is not user of the chat\" 2. **事件偵測**：`list_chats` 的 `last_thread_summary.last_event_id` 在 v3.6 永遠是 null，改用 `last_event_per_type` 取最新 event ID 3. **get_chat 回傳格式**：v3.6 回傳 `thread`（單數）不是 `threads`（複數），導致取不到 events → bot 偵測到新訊息但讀不到內容 4. **T",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.5177929072260281,
+      "maxScore": 0.5177929072260281,
+      "firstRecalledAt": "2026-04-07T15:04:03.893Z",
+      "lastRecalledAt": "2026-04-07T15:04:03.893Z",
+      "queryHashes": [
+        "104f6c3a3d10"
+      ],
+      "recallDays": [
+        "2026-04-07"
+      ],
+      "conceptTags": [
+        "gpt",
+        "openai",
+        "gpt-image-1",
+        "edge-tts",
+        "openclaw.json",
+        "cs-bot",
+        "main.sqlite",
+        "00-17"
       ]
     }
   }
