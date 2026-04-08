@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T01:15:50.820Z",
+  "updatedAt": "2026-04-08T05:29:54.942Z",
   "entries": {
     "memory:memory/2026-04-04.md:238:256": {
       "key": "memory:memory/2026-04-04.md:238:256",
@@ -364,6 +364,36 @@
         "error-log",
         "7-bet.biz",
         "mini88bet.com"
+      ]
+    },
+    "memory:memory/2026-04-07.md:23:29": {
+      "key": "memory:memory/2026-04-07.md:23:29",
+      "path": "memory/2026-04-07.md",
+      "startLine": 23,
+      "endLine": 29,
+      "source": "memory",
+      "snippet": "- **Token 異常消耗監控**：未發現異常（所有 session 使用率：main 36%, cron 16%, discord 48%, 均低於 50%） - **Anthropic OAuth 健康檢查**：使用 env API key，無 OAuth token 錯誤 - **Puppeteer 殭屍清理**：執行清理指令，無超過 30 分鐘的 Chrome for Testing 進程 - **Session 滿載檢查**：最高使用率 71k/150k (48%)，未超過 75%，無需建立摘要 - **舊摘要清理**：session-summaries/ 中檔案均為 4/6-4/7，未超過 7 天 - **模型配置更新**：DeepSeek Reasoner 為預設，Gemini 3 Flash 已加入 fallback 順序",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.37811625599861143,
+      "maxScore": 0.37811625599861143,
+      "firstRecalledAt": "2026-04-08T05:29:54.942Z",
+      "lastRecalledAt": "2026-04-08T05:29:54.942Z",
+      "queryHashes": [
+        "c2cd6c69f5b6"
+      ],
+      "recallDays": [
+        "2026-04-08"
+      ],
+      "conceptTags": [
+        "71k/150k",
+        "session-summaries",
+        "4/6-4/7",
+        "token",
+        "異常",
+        "消耗",
+        "發現",
+        "所有"
       ]
     }
   }
