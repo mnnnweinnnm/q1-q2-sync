@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T06:06:36.878Z",
+  "updatedAt": "2026-04-08T06:23:20.364Z",
   "entries": {
     "memory:memory/2026-04-04.md:238:256": {
       "key": "memory:memory/2026-04-04.md:238:256",
@@ -9,19 +9,21 @@
       "endLine": 256,
       "source": "memory",
       "snippet": "6. **摘要 prompt**：原本強制輸出「水單：已提供/未提供」，改成只輸出對話中實際提到的欄位 7. **轉接目標**：LiveChat transfer 從 Group 0 改 Group 11（測試期間），Telegram 通知改發到 PERA CSR Test 群 - 部署檔案：livechat-v3.js、poller-v3.js、handler-v2.js → VPS `/opt/cs-bot/src/` - **現在 E2E 流程可用**：客戶開 chat → 填表 → bot 歡迎 → 客戶發訊息 → AI 回覆 → 需要時 escalate 到 Telegram test 群 - 韋瀚正在持續測試中 ## CS-Bot 路由修復 & 全面 Review（18:00-19:30） - **核心 bug**：所有 chat（包括用 `direct.lc.chat/15555654/11` 進入的）都被路由到 Group 0，而非 Group 11 - 原因：`continuous_chat=1` 和 `chat_between_groups=1` 設定讓有歷史的客戶繼續分配到上次的 group（Group 0） - 新客戶（無歷史）正確進 Group 11；有歷史的全部到 Group 0 - **修復動作**： 1. 關閉 `continuous_chat` 和 `chat_between_groups`（LiveChat API v2） 2. Poller 加 botMember 過濾 — 只處理 bot 是成員的 chat，避免",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
-      "totalScore": 1.1528481483459472,
+      "totalScore": 1.5437861055135726,
       "maxScore": 0.4299069941043854,
       "firstRecalledAt": "2026-04-07T00:41:04.061Z",
-      "lastRecalledAt": "2026-04-07T03:17:01.942Z",
+      "lastRecalledAt": "2026-04-08T06:23:20.364Z",
       "queryHashes": [
         "21439cc64380",
         "33a7994d0e58",
-        "3e7bcc070334"
+        "3e7bcc070334",
+        "0bc35a35fa04"
       ],
       "recallDays": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ],
       "conceptTags": [
         "已提供/未提供",
