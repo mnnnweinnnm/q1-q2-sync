@@ -1,30 +1,31 @@
-# 2026-04-04~05 · Main Session (webchat/heartbeat) 摘要
+# Main Session 摘要 (2026-04-07)
 
-- 狀態：context 120k/150k（80%）
+## 已完成事項
 
-## 近期完成
-- OpenAI API key 收斂到 openclaw.json `env` 單一處 + Keychain 備份（providers/plist 明文已移除）
-- 模型 fallback 方案 B：Opus 4-6 → GPT-5 → Sonnet 4
-- STT：gpt-4o-transcribe（Discord 語音可辨識，約 $0.006/分鐘）
-- TTS：voice-message skill（edge-tts + ffmpeg），台灣語音 `zh-TW-HsiaoChenNeural`
-- Q1 頭像更新為寫實版仿生人風格（`~/.openclaw/workspace/q1-avatar.png`）
-  - Discord bot 頭像已換
-  - Webchat 透過 `openclaw agents set-identity --avatar q1-avatar.png` 已換
-- 記憶架構維持現狀，2-3 週後再評估
+### 電源設定 (MacBook Air)
+- 展開螢幕時：系統不休眠，螢幕 5 分鐘後自動關閉
+- 闔上螢幕時：系統進入休眠
+- 設定值：sleep 30, displaysleep 5, hibernatemode 3（皆為預設值，無需 sudo 修改）
 
-## 韋瀚的資安需求
-- 從事博彩業，擔心電腦被搜查
-- FileVault 已開；機器 24h 運行不能關機
-- VeraCrypt 不適合（加密磁區不能一直掛載）
-- 改善方向：Keychain 存 API keys、螢幕鎖快捷鍵 `Ctrl+Cmd+Q`、短自動鎖定時間
+### 模型設定更新
+- 全域模型優先順序：Gemini 2.5 Pro > DeepSeek Reasoner > Claude Opus > GPT-5 > Claude Sonnet
+- API Key 來源：從 Mac Mini（Q1）SSH 取得 DEEPSEEK_API_KEY 和 GOOGLE_API_KEY
+- 所有 7 個 session 已全部切換至 default（Gemini 2.5 Pro）
+- tools.sessions.visibility 從 tree 改為 all（允許跨 session 操作）
 
-## 待辦（延續）
-- [ ] cs-bot/.env 的 token 可考慮移進 Keychain
-- [ ] 瀏覽器/iCloud 敏感資料檢查（韋瀚按原排程，先不做）
-- [ ] Discord #trading 自動回報 PnL 尚未設定
-- [ ] 同事伺服器 Bot 邀請
-- [ ] Binance Testnet 領測試幣
+### Discord 頭像更新
+- 生成新頭像：q2-new-avatar---358a4cc9-337f-42e3-9726-994a72ef580d.jpg
+- 已通過 Discord API PATCH /users/@me 更新 Bot 頭像
+- 已更新 IDENTITY.md 和 openclaw.json 中的 avatar 設定
+- 圖片已複製到 workspace 目錄（修復 webchat 破圖問題）
 
-## 教訓
-- gateway restart 連續觸發會讓 Gateway 卡在 draining 狀態
-- 修改 launchd plist 會被 `openclaw gateway install` 覆寫，不要自改 plist
+### 模型比較表
+- 為韋瀚製作了 Claude Opus 4.6 / Sonnet 4.6 / Gemini 2.5 Pro / Gemini 2.0 Flash / DeepSeek-V3.2 / GPT-4o 的比較表
+- 資訊來源：pecollective.com（2026年4月更新）
+
+## 待處理 / 已知問題
+- Gateway pairing 問題：sudo 指令無法透過 exec 執行（pairing required 錯誤）
+- 身份健康檢查腳本已建立（~/scripts/check_agent_identity.sh），cron 排程尚未設定（Q1 已處理）
+
+## SSH 連線
+- Mac Mini (Q1): zhendeweihan@192.168.68.107（SSH 免密碼連線正常）
