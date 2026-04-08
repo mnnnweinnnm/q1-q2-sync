@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-07T15:04:03.893Z",
+  "updatedAt": "2026-04-08T01:15:50.820Z",
   "entries": {
     "memory:memory/2026-04-04.md:238:256": {
       "key": "memory:memory/2026-04-04.md:238:256",
@@ -274,6 +274,96 @@
         "cs-bot",
         "main.sqlite",
         "00-17"
+      ]
+    },
+    "memory:memory/2026-04-05.md:1:38": {
+      "key": "memory:memory/2026-04-05.md:1:38",
+      "path": "memory/2026-04-05.md",
+      "startLine": 1,
+      "endLine": 38,
+      "source": "memory",
+      "snippet": "# 2026-04-05 ## AI Trading 網格策略狀態（第 5 天） ### 損益進展 - 4/01 啟動：10,000 USDT + 1 BTC @ 68,553（初始估值 78,553.78） - 4/01 23:35：+638 USDT（+0.81%） - 4/02 00:49：+776 USDT（+0.99%）高點 - 4/02 14:00：-1,856 USDT（BTC 下跌拖累） - 4/03 21:36：-1,790 USDT - 4/04 17:00：-1,453 USDT，純策略 +175 - **4/05 09:18：-1,172 USDT，純策略 +213** ✅ - **4/05 17:54：-（約 -1,170）**，BTC 現價 67,032 ### 關鍵操作 - **4/03 21:39** 重新調整賣單：撤掉遠處 5 筆（69,145~71,884），改掛 66,946~68,278（距現價 +0.5%~+2.5%） - 調整後已陸續成交 2~3 筆賣單，網格重新活絡 - 平均買入成本：65,769 USDT - 新賣單全部高於成本，不會造成淨虧損 ### 目前持倉（4/05） - 買單 2 筆 / 賣單 3 筆 - 總成交 96 筆（買 71 / 賣 25） - 純策略獲利 +213 USDT（不含 BTC 漲跌） ## BTC 市場分析（4/05 17:54） - 現價 67,032，24h +0.09%，狹幅震盪 - 近 7 天淨 +1.5%，橫盤為主 - MA7: 67,342 / MA20: 68,709（現價在均",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.3805905282497406,
+      "maxScore": 0.3805905282497406,
+      "firstRecalledAt": "2026-04-08T01:15:50.820Z",
+      "lastRecalledAt": "2026-04-08T01:15:50.820Z",
+      "queryHashes": [
+        "59660e608ad9"
+      ],
+      "recallDays": [
+        "2026-04-08"
+      ],
+      "conceptTags": [
+        "4/01",
+        "553.78",
+        "0.81",
+        "4/02",
+        "0.99",
+        "4/03",
+        "4/04",
+        "4/05"
+      ]
+    },
+    "memory:memory/2026-04-05.md:32:65": {
+      "key": "memory:memory/2026-04-05.md:32:65",
+      "path": "memory/2026-04-05.md",
+      "startLine": 32,
+      "endLine": 65,
+      "source": "memory",
+      "snippet": "- 宏觀：Fed 3/18 鷹派暫停降息，打壓 BTC 從 71k 跌到 66k 區間 - 預期區間 65,500~68,500，適合網格策略 - 我們賣單都在區間內，成交機率高 ## 使用者意向 - 詢問過「接真實錢包」流程，給過方案建議（獨立 API Key + 小金額測試） - 目前仍在 Testnet 觀察 - 不要主動推播損益，使用者查詢時再回報 - 需要時會主動問「損益報告」「獲利狀況」 ## 建立的檔案 - scripts/check-pnl.ts（用固定初始快照避免 Testnet 價格閃動） - data/initial-snapshot.json（10000 USDT + 1 BTC @ 68553.78） ## 待辦 / 觀察 - 繼續觀察至少 1-2 週看不同行情表現 - 若使用者決定接主網：需建 API Key、改 .env、調降 tradeRatio、重建 snapshot # 2026-04-05 ## AI Trading 網格策略狀態（第 5 天） ### 損益進展 - 4/01 啟動：10,000 USDT + 1 BTC @ 68,553（初始估值 78,553.78） - 4/01 23:35：+638 USDT（+0.81%） - 4/02 00:49：+776 USDT（+0.99%）高點 - 4/02 14:00：-1,856 USDT（BTC 下跌拖累） - 4/03 21:36：-1,790 USDT - 4/04 17:00：-1,453 USDT，純策略 +175 - **4/05 09:18：-1,172 USD",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.3784862577915191,
+      "maxScore": 0.3784862577915191,
+      "firstRecalledAt": "2026-04-08T01:15:50.820Z",
+      "lastRecalledAt": "2026-04-08T01:15:50.820Z",
+      "queryHashes": [
+        "59660e608ad9"
+      ],
+      "recallDays": [
+        "2026-04-08"
+      ],
+      "conceptTags": [
+        "3/18",
+        "scripts/check-pnl.ts",
+        "data/initial-snapshot.json",
+        "68553.78",
+        "1-2",
+        "4/01",
+        "553.78",
+        "0.81"
+      ]
+    },
+    "memory:memory/2026-04-05.md:158:196": {
+      "key": "memory:memory/2026-04-05.md:158:196",
+      "path": "memory/2026-04-05.md",
+      "startLine": 158,
+      "endLine": 196,
+      "source": "memory",
+      "snippet": "- 輪換 wp-config.php 的 8 組 SALT KEYS → 強制登出所有 session - 刪除 7 個曝露的 `wp-config.bak-a2.php`（A2 合法備份但含 DB 密碼） ### 其他清理 - 停用 3 站壞掉的 WSAL 外掛（改名 .disabled）：7bet-casino.com、pera57.bet、usdt-bet.com - → 信箱不再被 WSAL migration error 轟炸 - 清空 3 個 error_log（7-bet.biz、mini88bet.com、walo88.bet） ### 未完成（用戶暫緩） - 重設 usdt-bet.com 6 位合法管理員密碼（駭客可能有 hash） - 加 uploads 目錄 .htaccess 禁 PHP 執行 - 重裝 WP core ### inode 狀況 - 574,944 / 600,000 (95.8%) — 快取清理對 inode 沒用 - 主要佔用是 42 個 addon domain 本身的檔案結構 # 2026-04-05 ## AI Trading 網格策略狀態（第 5 天） ### 損益進展 [169 more lines in file. Use offset=6 to continue.] # 2026-04-05 ## AI Trading 網格策略狀態（第 5 天） ### 損益進展 - 4/01 啟動：10,000 USDT + 1 BTC @ 68,553（初始估值 78,553.78） - 4/01 23:35：",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.3503597170114517,
+      "maxScore": 0.3503597170114517,
+      "firstRecalledAt": "2026-04-08T01:15:50.820Z",
+      "lastRecalledAt": "2026-04-08T01:15:50.820Z",
+      "queryHashes": [
+        "59660e608ad9"
+      ],
+      "recallDays": [
+        "2026-04-08"
+      ],
+      "conceptTags": [
+        "wp-config.php",
+        "wp-config.bak-a2.php",
+        "7bet-casino.com",
+        "pera57.bet",
+        "usdt-bet.com",
+        "error-log",
+        "7-bet.biz",
+        "mini88bet.com"
       ]
     }
   }
