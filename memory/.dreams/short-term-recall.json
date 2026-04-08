@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T08:42:30.334Z",
+  "updatedAt": "2026-04-08T08:49:46.498Z",
   "entries": {
     "memory:memory/2026-04-04.md:238:256": {
       "key": "memory:memory/2026-04-04.md:238:256",
@@ -9,17 +9,19 @@
       "endLine": 256,
       "source": "memory",
       "snippet": "6. **摘要 prompt**：原本強制輸出「水單：已提供/未提供」，改成只輸出對話中實際提到的欄位 7. **轉接目標**：LiveChat transfer 從 Group 0 改 Group 11（測試期間），Telegram 通知改發到 PERA CSR Test 群 - 部署檔案：livechat-v3.js、poller-v3.js、handler-v2.js → VPS `/opt/cs-bot/src/` - **現在 E2E 流程可用**：客戶開 chat → 填表 → bot 歡迎 → 客戶發訊息 → AI 回覆 → 需要時 escalate 到 Telegram test 群 - 韋瀚正在持續測試中 ## CS-Bot 路由修復 & 全面 Review（18:00-19:30） - **核心 bug**：所有 chat（包括用 `direct.lc.chat/15555654/11` 進入的）都被路由到 Group 0，而非 Group 11 - 原因：`continuous_chat=1` 和 `chat_between_groups=1` 設定讓有歷史的客戶繼續分配到上次的 group（Group 0） - 新客戶（無歷史）正確進 Group 11；有歷史的全部到 Group 0 - **修復動作**： 1. 關閉 `continuous_chat` 和 `chat_between_groups`（LiveChat API v2） 2. Poller 加 botMember 過濾 — 只處理 bot 是成員的 chat，避免",
-      "recallCount": 4,
+      "recallCount": 6,
       "dailyCount": 0,
-      "totalScore": 1.5437861055135726,
+      "totalScore": 2.341467747092247,
       "maxScore": 0.4299069941043854,
       "firstRecalledAt": "2026-04-07T00:41:04.061Z",
-      "lastRecalledAt": "2026-04-08T06:23:20.364Z",
+      "lastRecalledAt": "2026-04-08T08:49:06.746Z",
       "queryHashes": [
         "21439cc64380",
         "33a7994d0e58",
         "3e7bcc070334",
-        "0bc35a35fa04"
+        "0bc35a35fa04",
+        "9f898b58d73f",
+        "4b86d97783ba"
       ],
       "recallDays": [
         "2026-04-07",
@@ -43,17 +45,21 @@
       "endLine": 240,
       "source": "memory",
       "snippet": "- 明文敏感檔案：openclaw.json（API keys）、cs-bot/.env、memory/、main.sqlite - 重要習慣：關機 > 睡眠（睡眠狀態金鑰在記憶體） - 狀態：韋瀚考慮中，尚未安裝 VeraCrypt ## CS-Bot 重大突破（17:00-17:35） - **Bot 成功回覆客戶訊息！** 韋瀚確認收到 bot 回覆 - 修復的 bug 清單： 1. **Bearer auth**：從 Basic（owner PAT）改為 Bearer（bot JWT token），解決 403 \"Requester is not user of the chat\" 2. **事件偵測**：`list_chats` 的 `last_thread_summary.last_event_id` 在 v3.6 永遠是 null，改用 `last_event_per_type` 取最新 event ID 3. **get_chat 回傳格式**：v3.6 回傳 `thread`（單數）不是 `threads`（複數），導致取不到 events → bot 偵測到新訊息但讀不到內容 4. **Token 互搶**：每次 `issue_bot_token` 會讓舊 token 失效，加了 apiCall wrapper 遇 401 自動 refresh 5. **客戶名稱**：sync 時沒抓 customer name，fallback 到 \"Customer\"。加了 `setCustomerName` 在 sync 時設定 6. **摘",
-      "recallCount": 4,
+      "recallCount": 8,
       "dailyCount": 0,
-      "totalScore": 1.9837727055875816,
+      "totalScore": 3.480215959343151,
       "maxScore": 0.6124914226154761,
       "firstRecalledAt": "2026-04-07T00:41:04.061Z",
-      "lastRecalledAt": "2026-04-08T08:42:30.334Z",
+      "lastRecalledAt": "2026-04-08T08:49:46.498Z",
       "queryHashes": [
         "21439cc64380",
         "104f6c3a3d10",
         "974811f8149c",
-        "70d82ce1dba7"
+        "70d82ce1dba7",
+        "9f898b58d73f",
+        "4b86d97783ba",
+        "97ba18f1da1d",
+        "b401020ddbd5"
       ],
       "recallDays": [
         "2026-04-07",
@@ -77,17 +83,19 @@
       "endLine": 367,
       "source": "memory",
       "snippet": "4. **Token 互搶**：每次 `issue_bot_token` 會讓舊 token 失效，加了 apiCall wrapper 遇 401 自動 refresh 5. **客戶名稱**：sync 時沒抓 customer name，fallback 到 \"Customer\"。加了 `setCustomerName` 在 sync 時設定 6. **摘要 prompt**：原本強制輸出「水單：已提供/未提供」，改成只輸出對話中實際提到的欄位 7. **轉接目標**：LiveChat transfer 從 Group 0 改 Group 11（測試期間），Telegram 通知改發到 PERA CSR Test 群 - 部署檔案：livechat-v3.js、poller-v3.js、handler-v2.js → VPS `/opt/cs-bot/src/` - **現在 E2E 流程可用**：客戶開 chat → 填表 → bot 歡迎 → 客戶發訊息 → AI 回覆 → 需要時 escalate 到 Telegram test 群 - 韋瀚正在持續測試中 ## CS-Bot 路由修復 & 全面 Review（18:00-19:30） - **核心 bug**：所有 chat（包括用 `direct.lc.chat/15555654/11` 進入的）都被路由到 Group 0，而非 Group 11 - 原因：`continuous_chat=1` 和 `chat_between_groups=1` 設定讓有歷史的客戶繼續分配到上次的 group",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
-      "totalScore": 0.41124122142791747,
+      "totalScore": 0.8009693711996078,
       "maxScore": 0.41124122142791747,
       "firstRecalledAt": "2026-04-07T00:41:04.061Z",
-      "lastRecalledAt": "2026-04-07T00:41:04.061Z",
+      "lastRecalledAt": "2026-04-08T08:46:58.917Z",
       "queryHashes": [
-        "21439cc64380"
+        "21439cc64380",
+        "9f898b58d73f"
       ],
       "recallDays": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ],
       "conceptTags": [
         "issue-bot-token",
@@ -521,6 +529,36 @@
         "nasa11.vip",
         "okebet.biz",
         "okebet.live"
+      ]
+    },
+    "memory:memory/2026-04-04.md:339:354": {
+      "key": "memory:memory/2026-04-04.md:339:354",
+      "path": "memory/2026-04-04.md",
+      "startLine": 339,
+      "endLine": 354,
+      "source": "memory",
+      "snippet": "- 韋瀚從事博彩行業，擔心電腦被搜查時明文資訊外洩 - FileVault 已開啟（全磁碟加密） - 建議方案：VeraCrypt 隱藏磁區（Hidden Volume，雙密碼，合理推諉） - 明文敏感檔案：openclaw.json（API keys）、cs-bot/.env、memory/、main.sqlite - 重要習慣：關機 > 睡眠（睡眠狀態金鑰在記憶體） - 狀態：韋瀚考慮中，尚未安裝 VeraCrypt ## CS-Bot 重大突破（17:00-17:35） - **Bot 成功回覆客戶訊息！** 韋瀚確認收到 bot 回覆 - 修復的 bug 清單： 1. **Bearer auth**：從 Basic（owner PAT）改為 Bearer（bot JWT token），解決 403 \"Requester is not user of the chat\" 2. **事件偵測**：`list_chats` 的 `last_thread_summary.last_event_id` 在 v3.6 永遠是 null，改用 `last_event_per_type` 取最新 event ID 3. **get_chat 回傳格式**：v3.6 回傳 `thread`（單數）不是 `threads`（複數），導致取不到 events → bot 偵測到新訊息但讀不到內容 4. **Token 互搶**：每次 `issue_bot_token` 會讓舊 token 失效，加了 apiCall wrapper 遇 401 自動 refresh 5.",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.35865722000598904,
+      "maxScore": 0.35865722000598904,
+      "firstRecalledAt": "2026-04-08T08:49:46.498Z",
+      "lastRecalledAt": "2026-04-08T08:49:46.498Z",
+      "queryHashes": [
+        "b401020ddbd5"
+      ],
+      "recallDays": [
+        "2026-04-08"
+      ],
+      "conceptTags": [
+        "openclaw.json",
+        "cs-bot",
+        "main.sqlite",
+        "00-17",
+        "list-chats",
+        "v3.6",
+        "last-event-per-type",
+        "get-chat"
       ]
     }
   }
