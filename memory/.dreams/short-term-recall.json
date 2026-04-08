@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T08:49:46.498Z",
+  "updatedAt": "2026-04-08T08:52:40.736Z",
   "entries": {
     "memory:memory/2026-04-04.md:238:256": {
       "key": "memory:memory/2026-04-04.md:238:256",
@@ -45,12 +45,12 @@
       "endLine": 240,
       "source": "memory",
       "snippet": "- 明文敏感檔案：openclaw.json（API keys）、cs-bot/.env、memory/、main.sqlite - 重要習慣：關機 > 睡眠（睡眠狀態金鑰在記憶體） - 狀態：韋瀚考慮中，尚未安裝 VeraCrypt ## CS-Bot 重大突破（17:00-17:35） - **Bot 成功回覆客戶訊息！** 韋瀚確認收到 bot 回覆 - 修復的 bug 清單： 1. **Bearer auth**：從 Basic（owner PAT）改為 Bearer（bot JWT token），解決 403 \"Requester is not user of the chat\" 2. **事件偵測**：`list_chats` 的 `last_thread_summary.last_event_id` 在 v3.6 永遠是 null，改用 `last_event_per_type` 取最新 event ID 3. **get_chat 回傳格式**：v3.6 回傳 `thread`（單數）不是 `threads`（複數），導致取不到 events → bot 偵測到新訊息但讀不到內容 4. **Token 互搶**：每次 `issue_bot_token` 會讓舊 token 失效，加了 apiCall wrapper 遇 401 自動 refresh 5. **客戶名稱**：sync 時沒抓 customer name，fallback 到 \"Customer\"。加了 `setCustomerName` 在 sync 時設定 6. **摘",
-      "recallCount": 8,
+      "recallCount": 9,
       "dailyCount": 0,
-      "totalScore": 3.480215959343151,
+      "totalScore": 3.83085555592461,
       "maxScore": 0.6124914226154761,
       "firstRecalledAt": "2026-04-07T00:41:04.061Z",
-      "lastRecalledAt": "2026-04-08T08:49:46.498Z",
+      "lastRecalledAt": "2026-04-08T08:52:40.736Z",
       "queryHashes": [
         "21439cc64380",
         "104f6c3a3d10",
@@ -59,7 +59,8 @@
         "9f898b58d73f",
         "4b86d97783ba",
         "97ba18f1da1d",
-        "b401020ddbd5"
+        "b401020ddbd5",
+        "cffed344c535"
       ],
       "recallDays": [
         "2026-04-07",
@@ -145,17 +146,19 @@
       "endLine": 232,
       "source": "memory",
       "snippet": "- TTS 測試：Grok TTS 中文 > ElevenLabs（Grok 較自然） - 安裝 voice-message skill（edge-tts + ffmpeg），支援台灣中文 `zh-TW-HsiaoChenNeural` - 設定 STT：gpt-4o-transcribe（從 mini 升級完整版），Discord 語音訊息可辨識 - voice-message = 發語音（嘴巴），audio config = 收語音（耳朵） ## 餐廳訂位（16:03） - 韋瀚要訂闊火鍋（大直），今晚 6 點，2 大 2 小，電話 0926208099 - 無法自動訂位（需表單互動），提供電話 02-8502-5857 - 線上訂位：inline.app ## OpenAI 服務盤點（16:22） - 已用：gpt-4o-transcribe、gpt-image-1、text-embedding-3-small - 新增：GPT-5 作為 fallback 模型 - 不需要額外開的：DALL·E 3（已有 gpt-image-1）、OpenAI TTS（已有免費 edge-tts） ## 資安需求 — 本地加密（16:29） - 韋瀚從事博彩行業，擔心電腦被搜查時明文資訊外洩 - FileVault 已開啟（全磁碟加密） - 建議方案：VeraCrypt 隱藏磁區（Hidden Volume，雙密碼，合理推諉） - 明文敏感檔案：openclaw.json（API keys）、cs-bot/.env、memory/、main.sqlite - 重要習慣：關機 > 睡",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
-      "totalScore": 0.36479913294315336,
+      "totalScore": 0.7239808142185211,
       "maxScore": 0.36479913294315336,
       "firstRecalledAt": "2026-04-07T02:52:26.463Z",
-      "lastRecalledAt": "2026-04-07T02:52:26.463Z",
+      "lastRecalledAt": "2026-04-08T08:52:40.736Z",
       "queryHashes": [
-        "33a7994d0e58"
+        "33a7994d0e58",
+        "cffed344c535"
       ],
       "recallDays": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ],
       "conceptTags": [
         "embedding",
