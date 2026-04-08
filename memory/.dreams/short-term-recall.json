@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08T05:55:20.658Z",
+  "updatedAt": "2026-04-08T06:06:36.878Z",
   "entries": {
     "memory:memory/2026-04-04.md:238:256": {
       "key": "memory:memory/2026-04-04.md:238:256",
@@ -41,18 +41,20 @@
       "endLine": 240,
       "source": "memory",
       "snippet": "- 明文敏感檔案：openclaw.json（API keys）、cs-bot/.env、memory/、main.sqlite - 重要習慣：關機 > 睡眠（睡眠狀態金鑰在記憶體） - 狀態：韋瀚考慮中，尚未安裝 VeraCrypt ## CS-Bot 重大突破（17:00-17:35） - **Bot 成功回覆客戶訊息！** 韋瀚確認收到 bot 回覆 - 修復的 bug 清單： 1. **Bearer auth**：從 Basic（owner PAT）改為 Bearer（bot JWT token），解決 403 \"Requester is not user of the chat\" 2. **事件偵測**：`list_chats` 的 `last_thread_summary.last_event_id` 在 v3.6 永遠是 null，改用 `last_event_per_type` 取最新 event ID 3. **get_chat 回傳格式**：v3.6 回傳 `thread`（單數）不是 `threads`（複數），導致取不到 events → bot 偵測到新訊息但讀不到內容 4. **Token 互搶**：每次 `issue_bot_token` 會讓舊 token 失效，加了 apiCall wrapper 遇 401 自動 refresh 5. **客戶名稱**：sync 時沒抓 customer name，fallback 到 \"Customer\"。加了 `setCustomerName` 在 sync 時設定 6. **摘",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
-      "totalScore": 0.9751428980338653,
+      "totalScore": 1.3712812829721055,
       "maxScore": 0.5514310557353577,
       "firstRecalledAt": "2026-04-07T00:41:04.061Z",
-      "lastRecalledAt": "2026-04-07T15:04:03.893Z",
+      "lastRecalledAt": "2026-04-08T06:06:36.878Z",
       "queryHashes": [
         "21439cc64380",
-        "104f6c3a3d10"
+        "104f6c3a3d10",
+        "974811f8149c"
       ],
       "recallDays": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ],
       "conceptTags": [
         "openclaw.json",
@@ -223,17 +225,19 @@
       "endLine": 391,
       "source": "memory",
       "snippet": "- 新客戶（無歷史）正確進 Group 11；有歷史的全部到 Group 0 - **修復動作**： 1. 關閉 `continuous_chat` 和 `chat_between_groups`（LiveChat API v2） 2. Poller 加 botMember 過濾 — 只處理 bot 是成員的 chat，避免處理 Group 0 的 chat 導致 403 3. Bot 啟動時自動設 routing status = accepting_chats - **完整 Review 結果（19:13）**： - ✅ Docker 運行正常、health check OK - ✅ Bot token 自動簽發 + 401 自動刷新 - ✅ Group 11 設定正確（PERA57 bot = first priority） - ✅ Group 11 Greetings 文字都是 PERA57 GAMING - ✅ Telegram bot 在線、能發訊息到 CSR Test 群 - ✅ Knowledge base 8 個檔案已載入 - ✅ AI system prompt + 升級規則 + 摘要邏輯正確 - ✅ 最近 30 分鐘 0 error - ⚠️ 粗口過濾只用 exact match，拼錯的（fuxk、fck）可繞過 - ⚠️ 舊 chat 留在 Group 0，bot 無法處理（已知限制） - **等主管用連結重新測試**：`https://direct.lc.chat/15555654/11` - 韋",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
-      "totalScore": 0.3563447713851928,
-      "maxScore": 0.3563447713851928,
+      "totalScore": 0.7706976294517516,
+      "maxScore": 0.4143528580665588,
       "firstRecalledAt": "2026-04-07T03:17:01.942Z",
-      "lastRecalledAt": "2026-04-07T03:17:01.942Z",
+      "lastRecalledAt": "2026-04-08T06:06:36.878Z",
       "queryHashes": [
-        "3e7bcc070334"
+        "3e7bcc070334",
+        "974811f8149c"
       ],
       "recallDays": [
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-08"
       ],
       "conceptTags": [
         "continuous-chat",
