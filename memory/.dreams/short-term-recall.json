@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T03:21:24.848Z",
+  "updatedAt": "2026-04-09T04:05:32.958Z",
   "entries": {
     "memory:memory/2026-04-04.md:238:256": {
       "key": "memory:memory/2026-04-04.md:238:256",
@@ -49698,6 +49698,126 @@
         "2.8",
         "4.7gb",
         "asia/taipei"
+      ]
+    },
+    "memory:memory/2026-04-06.md:244:275": {
+      "key": "memory:memory/2026-04-06.md:244:275",
+      "path": "memory/2026-04-06.md",
+      "startLine": 244,
+      "endLine": 275,
+      "source": "memory",
+      "snippet": "- 檔案弄亂了他會不爽（之前誤貼模板頁 + undo）→ 以後操作 Sheet 要更小心 --- ## OpenClaw 同事安裝教學（#龍蝦導入 頻道，下午） ### 背景 - 韋瀚想幫同事安裝 OpenClaw，需要教學材料 - 同事零技術背景（可能連 Terminal 都沒開過） - 先做 Mac 版，Windows 之後再說 ### 已完成 - 製作 16 頁 HTML 投影片：`~/.openclaw/workspace/openclaw-setup-guide.html` - 包含：開啟終端機教學、API Key 申請、安裝步驟、複製貼上教學、密碼不顯示是正常的、疑難排解 - 匯出 PDF：`~/.openclaw/workspace/openclaw-setup-guide.pdf`（71KB） - 嘗試上傳到免費檔案分享（file.io / 0x0.st / transfer.sh / temp.sh / oshi.at）全部失敗 - 最後直接把文字版教程貼在 Discord 頻道 ### 關鍵資訊 - 頻道：#龍蝦導入（channel id: 1489162204484730910） - 每人各自安裝 OpenClaw，可共用 API key 但不建議 - Mac 原生支援；Windows 建議用 WSL2 - 官方文件：docs.openclaw.ai/start/getting-started, /install, /platforms/macos # 2026-04-06 Memory ## Cloudflare 大整理（2026-04-",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.4003178864717483,
+      "maxScore": 0.4003178864717483,
+      "firstRecalledAt": "2026-04-09T04:05:32.958Z",
+      "lastRecalledAt": "2026-04-09T04:05:32.958Z",
+      "queryHashes": [
+        "616c0b9cfb04"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "file.io",
+        "0x0.st",
+        "transfer.sh",
+        "temp.sh",
+        "oshi.at",
+        "platforms/macos",
+        "2026-04",
+        "檔案"
+      ]
+    },
+    "memory:memory/2026-04-09.md:443:451": {
+      "key": "memory:memory/2026-04-09.md:443:451",
+      "path": "memory/2026-04-09.md",
+      "startLine": 443,
+      "endLine": 451,
+      "source": "memory",
+      "snippet": "- - TTS 測試：Grok TTS 中文 > ElevenLabs（Grok 較自然） - 安裝 voice-message skill（edge-tts + ffmpeg），支援台灣中文 `zh-TW-HsiaoChenNeural` - 設定 STT：gpt-4o-transcribe（從 mini 升級完整版），Discord 語音訊息可辨識 - voice-message = 發語音（嘴巴），audio config = 收語音（耳朵） ## 餐廳訂位（16:03） - 韋瀚要訂闊火鍋（大直），今晚 6 點，2 大 2 小，電話 0926208099 - 無法自動訂位（需表單互動），提供電話 02-8502-5857 - 線上訂位：inline.app ## OpenAI 服務盤點（16:22） - 已用：gpt-4o-transcribe、gpt-image-1、text-embedding-3-small - 新增：GPT-5 作為 fallback 模型 - 不需要額外開的：DALL·E 3（已有 gpt-image-1）、OpenAI TTS（已有免費 edge-tts） ## 資安需求 — 本地加密（16:29） - 韋瀚從事博彩行業，擔心電腦被搜查時明文資訊外洩 - FileVault 已開啟（全磁碟加密） - 建議方案：VeraCrypt 隱藏磁區（Hidden Volume，雙密碼，合理推諉） - 明文敏感檔案：openclaw.json（API keys）、cs-bot/.env、memory/、main.sqlite - 重要習慣：關機 > 睡",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.37355957627296443,
+      "maxScore": 0.37355957627296443,
+      "firstRecalledAt": "2026-04-09T04:05:32.958Z",
+      "lastRecalledAt": "2026-04-09T04:05:32.958Z",
+      "queryHashes": [
+        "616c0b9cfb04"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "embedding",
+        "gpt",
+        "openai",
+        "voice-message",
+        "edge-tts",
+        "zh-tw-hsiaochenneural",
+        "gpt-4o-transcribe",
+        "02-8502-5857"
+      ]
+    },
+    "memory:memory/2026-04-09.md:610:618": {
+      "key": "memory:memory/2026-04-09.md:610:618",
+      "path": "memory/2026-04-09.md",
+      "startLine": 610,
+      "endLine": 618,
+      "source": "memory",
+      "snippet": "- - TTS 測試：Grok TTS 中文 > ElevenLabs（Grok 較自然） - 安裝 voice-message skill（edge-tts + ffmpeg），支援台灣中文 `zh-TW-HsiaoChenNeural` - 設定 STT：gpt-4o-transcribe（從 mini 升級完整版），Discord 語音訊息可辨識 - voice-message = 發語音（嘴巴），audio config = 收語音（耳朵） ## 餐廳訂位（16:03） - 韋瀚要訂闊火鍋（大直），今晚 6 點，2 大 2 小，電話 0926208099 - 無法自動訂位（需表單互動），提供電話 02-8502-5857 - 線上訂位：inline.app ## OpenAI 服務盤點（16:22） - 已用：gpt-4o-transcribe、gpt-image-1、text-embedding-3-small - 新增：GPT-5 作為 fallback 模型 - 不需要額外開的：DALL·E 3（已有 gpt-image-1）、OpenAI TTS（已有免費 edge-tts） ## 資安需求 — 本地加密（16:29） - 韋瀚從事博彩行業，擔心電腦被搜查時明文資訊外洩 - FileVault 已開啟（全磁碟加密） - 建議方案：VeraCrypt 隱藏磁區（Hidden Volume，雙密碼，合理推諉） - 明文敏感檔案：openclaw.json（API keys）、cs-bot/.env、memory/、main.sqlite - 重要習慣：關機 > 睡",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.37355957627296443,
+      "maxScore": 0.37355957627296443,
+      "firstRecalledAt": "2026-04-09T04:05:32.958Z",
+      "lastRecalledAt": "2026-04-09T04:05:32.958Z",
+      "queryHashes": [
+        "616c0b9cfb04"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "embedding",
+        "gpt",
+        "openai",
+        "voice-message",
+        "edge-tts",
+        "zh-tw-hsiaochenneural",
+        "gpt-4o-transcribe",
+        "02-8502-5857"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1222:1230": {
+      "key": "memory:memory/2026-04-09.md:1222:1230",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1222,
+      "endLine": 1230,
+      "source": "memory",
+      "snippet": "- - TTS 測試：Grok TTS 中文 > ElevenLabs（Grok 較自然） - 安裝 voice-message skill（edge-tts + ffmpeg），支援台灣中文 `zh-TW-HsiaoChenNeural` - 設定 STT：gpt-4o-transcribe（從 mini 升級完整版），Discord 語音訊息可辨識 - voice-message = 發語音（嘴巴），audio config = 收語音（耳朵） ## 餐廳訂位（16:03） - 韋瀚要訂闊火鍋（大直），今晚 6 點，2 大 2 小，電話 0926208099 - 無法自動訂位（需表單互動），提供電話 02-8502-5857 - 線上訂位：inline.app ## OpenAI 服務盤點（16:22） - 已用：gpt-4o-transcribe、gpt-image-1、text-embedding-3-small - 新增：GPT-5 作為 fallback 模型 - 不需要額外開的：DALL·E 3（已有 gpt-image-1）、OpenAI TTS（已有免費 edge-tts） ## 資安需求 — 本地加密（16:29） - 韋瀚從事博彩行業，擔心電腦被搜查時明文資訊外洩 - FileVault 已開啟（全磁碟加密） - 建議方案：VeraCrypt 隱藏磁區（Hidden Volume，雙密碼，合理推諉） - 明文敏感檔案：openclaw.json（API keys）、cs-bot/.env、memory/、main.sqlite - 重要習慣：關機 > 睡",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.37355957627296443,
+      "maxScore": 0.37355957627296443,
+      "firstRecalledAt": "2026-04-09T04:05:32.958Z",
+      "lastRecalledAt": "2026-04-09T04:05:32.958Z",
+      "queryHashes": [
+        "616c0b9cfb04"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "embedding",
+        "gpt",
+        "openai",
+        "voice-message",
+        "edge-tts",
+        "zh-tw-hsiaochenneural",
+        "gpt-4o-transcribe",
+        "02-8502-5857"
       ]
     }
   }
