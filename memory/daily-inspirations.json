@@ -1,0 +1,112 @@
+[
+  {
+    "title": "天氣提醒機器人",
+    "description": "每天早上自動檢查天氣，降雨機率 >50% 時發送提醒",
+    "features": ["weather skill", "Discord message", "cron job"],
+    "steps": [
+      "1. 使用 weather skill 查詢當天氣象",
+      "2. 寫一個腳本判斷降雨機率",
+      "3. 如果 >50%，用 message 工具發到 Discord",
+      "4. 設定 cron 每天 7:00 執行"
+    ]
+  },
+  {
+    "title": "庫存監控儀表板",
+    "description": "定時檢查 Google Sheets，庫存低於警戒線時 alert",
+    "features": ["gog skill (Sheets)", "cron job", "Discord/Signal alert"],
+    "steps": [
+      "1. 用 gog 讀取 Google Sheets 庫存資料",
+      "2. 腳本比對庫存與警戒線",
+      "3. 低於警戒線時發送通知",
+      "4. 設定 cron 每小時檢查一次"
+    ]
+  },
+  {
+    "title": "GitHub Issue 摘要助手",
+    "description": "每天早上抓取指定 repo 的 open issues，回傳摘要",
+    "features": ["gh-issues skill", "cron job", "Discord message"],
+    "steps": [
+      "1. 用 gh-issues skill 查詢 open issues",
+      "2. 讓 AI 濃縮成 3 點摘要",
+      "3. 發送到 Discord 頻道",
+      "4. 設定 cron 每天 9:00 執行"
+    ]
+  },
+  {
+    "title": "長輩圖產生器",
+    "description": "輸入文字，產生帶有祝福標語的圖片",
+    "features": ["image_generate skill", "Discord message"],
+    "steps": [
+      "1. 用戶傳送文字到 Discord",
+      "2. 腳本抓取文字內容",
+      "3. 用 image_generate 產生祝福圖",
+      "4. 回傳圖片給用戶"
+    ]
+  },
+  {
+    "title": "會議摘要機器人",
+    "description": "定時抓取 Google Calendar 會議，回傳今日議程",
+    "features": ["gog skill (Calendar)", "cron job", "Discord message"],
+    "steps": [
+      "1. 用 gog 查詢今日 Calendar 事件",
+      "2. 格式化為清單",
+      "3. 早上 9:00 發到 Discord",
+      "4. 設定 cron 每天執行"
+    ]
+  },
+  {
+    "title": "定期健康檢查報告",
+    "description": "每週一生成 OpenClaw 系統狀態報告",
+    "features": ["openclaw status", "cron job", "Discord message"],
+    "steps": [
+      "1. 用 exec 執行 openclaw status",
+      "2. 解析輸出成易讀格式",
+      "3. 發送到 #系統設定 頻道",
+      "4. 設定 cron 每週一 10:00"
+    ]
+  },
+  {
+    "title": "AI 交易每日提醒",
+    "description": "每天收盤後回報當日交易損益",
+    "features": ["exec (Node.js script)", "cron job", "Discord message"],
+    "steps": [
+      "1. 執行 ai-trading 損益腳本",
+      "2. 格式化損益數據",
+      "3. 發送到 #trading 頻道",
+      "4. 設定 cron 每天 17:00"
+    ]
+  },
+  {
+    "title": "網站 uptime 監控",
+    "description": "每 15 分鐘檢查網站是否正常，失敗 alert",
+    "features": ["web_fetch", "cron job", "Signal/Discord alert"],
+    "steps": [
+      "1. 用 web_fetch 檢查網站回應",
+      "2. 如果 status != 200，觸發 alert",
+      "3. 發送到監控頻道",
+      "4. 設定 cron */15 * * * *"
+    ]
+  },
+  {
+    "title": "每日一句毒雞湯",
+    "description": "每天早上送上一碗心靈毒雞湯",
+    "features": ["web_fetch", "cron job", "Discord message"],
+    "steps": [
+      "1. 從 API 抓取毒雞湯文字",
+      "2. 加上 emoji 裝飾",
+      "3. 發到 #每日靈感 頻道",
+      "4. 設定 cron 每天 10:00"
+    ]
+  },
+  {
+    "title": "鐵人賽文章追蹤",
+    "description": "追蹤指定 GitHub repo 的 commit 活動",
+    "features": ["github skill", "cron job", "Discord message"],
+    "steps": [
+      "1. 用 gh 查詢近期 commits",
+      "2. 濃縮成每小時摘要",
+      "3. 發送到專案頻道",
+      "4. 設定 cron 每小時執行"
+    ]
+  }
+]
