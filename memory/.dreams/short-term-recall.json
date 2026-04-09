@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T19:00:03.267Z",
+  "updatedAt": "2026-04-09T19:30:00.482Z",
   "entries": {
     "memory:memory/2026-04-04.md:238:256": {
       "key": "memory:memory/2026-04-04.md:238:256",
@@ -68270,6 +68270,66 @@
       "conceptTags": [
         "assistant",
         "caddy"
+      ]
+    },
+    "memory:memory/2026-04-10.md:298:301": {
+      "key": "memory:memory/2026-04-10.md:298:301",
+      "path": "memory/2026-04-10.md",
+      "startLine": 298,
+      "endLine": 301,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 1111 memories.; confidence: 0.99; evidence: memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:30:00.482Z",
+      "lastRecalledAt": "2026-04-09T19:30:00.482Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "0.99",
+        "3-3",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-10.md:304:306": {
+      "key": "memory:memory/2026-04-10.md:304:306",
+      "path": "memory/2026-04-10.md",
+      "startLine": 304,
+      "endLine": 306,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: 4. **Token 互搶**：每次 `issue_bot_token` 會讓舊 token 失效，加了 apiCall wrapper 遇 401 自動 refresh 5. **客戶名稱**：sync 時沒抓 customer name，fallback 到 \"Customer\"。加了 `setCustomerName` 在 sync 時設定 6. **摘要 prompt**：原本強制輸出「水單：已提供/未提供」，改成只輸出對話中實際提到的欄位 7. **轉接目標**：LiveChat transfe",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:30:00.482Z",
+      "lastRecalledAt": "2026-04-09T19:30:00.482Z",
+      "queryHashes": [
+        "ed3026e16517"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "issue-bot-token",
+        "已提供/未提供",
+        "possible",
+        "lasting",
+        "truths",
+        "token",
+        "每次",
+        "失效"
       ]
     }
   }
