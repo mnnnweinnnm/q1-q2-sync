@@ -1,0 +1,2 @@
+[main/sessions/13b882a7-1de3-4080-a68c-d580bbb4b2ac.jsonl#L5] User: [cron:f172c008-3bd5-49e1-850e-d8709036ab80 CSR 群知識學習] 讀取 VPS 上 /opt/cs-bot/data/csr-buffer.jsonl 的所有 CSR 群訊息（ssh root@128.199.249.195 'cat /opt/cs-bot/data/csr-buffer.jsonl && > /opt/cs-bot/data/csr-buffer.jsonl'）。 任務： 1. 如果 buffer 是空的 → 回報『無新訊息，略過』，結束 2. 若有訊息 → 掃一遍找出「可沉澱成知
+[main/sessions/13b882a7-1de3-4080-a68c-d580bbb4b2ac.jsonl#L8] Assistant: 無新知識（皆為網站巡檢回報，無新客戶問題或 SOP）
