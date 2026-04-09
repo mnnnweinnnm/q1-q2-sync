@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T04:05:32.958Z",
+  "updatedAt": "2026-04-09T07:42:20.272Z",
   "entries": {
     "memory:memory/2026-04-04.md:238:256": {
       "key": "memory:memory/2026-04-04.md:238:256",
@@ -49818,6 +49818,36 @@
         "zh-tw-hsiaochenneural",
         "gpt-4o-transcribe",
         "02-8502-5857"
+      ]
+    },
+    "memory:memory/2026-04-09.md:360:376": {
+      "key": "memory:memory/2026-04-09.md:360:376",
+      "path": "memory/2026-04-09.md",
+      "startLine": 360,
+      "endLine": 376,
+      "source": "memory",
+      "snippet": "- Candidate: User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1491012688027979867\", \"sender_id\": \"515130023532036096\", \"conversation_label\": \"Guild #回報機器人 channel id:1490873797358911631\", \"sender\": \"mnnnweinnnm\", \"timestamp\": \"Tue 2026-04-07 17:52 GMT+8\", \"group_space\": - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-07.txt:875-875 - recalls: 0 - status: staged - Candidate: Assistant: [[reply_to_current]] **👍 收到！** - ✅ 機器人不自稱 PERA57，改用通用名稱（例如「營運回報機器人」或簡單的「回報機器人」） - ✅ 設計上會支援多站共用 **您忙完後隨時叫我，我們繼續設置自動排程和報告格式。** 👋 - confidence: 0.00 - evidence: memory/.dreams/session-corpus/2026-04-07.txt:876-876 - recalls: 0 - status: staged - Candidat",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.3854958057403564,
+      "maxScore": 0.3854958057403564,
+      "firstRecalledAt": "2026-04-09T07:42:20.272Z",
+      "lastRecalledAt": "2026-04-09T07:42:20.272Z",
+      "queryHashes": [
+        "e810ef841503"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "conversation-label",
+        "group-space",
+        "0.00",
+        "875-875",
+        "reply-to-current",
+        "876-876"
       ]
     }
   }
