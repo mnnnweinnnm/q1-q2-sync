@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T00:30:01.872Z",
+  "updatedAt": "2026-04-09T01:00:00.781Z",
   "entries": {
     "memory:memory/2026-04-04.md:238:256": {
       "key": "memory:memory/2026-04-04.md:238:256",
@@ -612,7 +612,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T00:30:00.756Z",
+      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -643,7 +643,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T00:30:00.756Z",
+      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -674,7 +674,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T00:30:00.756Z",
+      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -705,7 +705,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T00:30:00.756Z",
+      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -736,7 +736,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T00:30:00.756Z",
+      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -767,7 +767,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T00:30:00.756Z",
+      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -798,7 +798,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T00:30:00.756Z",
+      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -829,7 +829,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T00:30:00.756Z",
+      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -860,7 +860,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T00:30:00.756Z",
+      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -44978,6 +44978,66 @@
         "可能",
         "原因",
         "解決"
+      ]
+    },
+    "memory:memory/2026-04-09.md:420:423": {
+      "key": "memory:memory/2026-04-09.md:420:423",
+      "path": "memory/2026-04-09.md",
+      "startLine": 420,
+      "endLine": 423,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 789 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "1.00",
+        "3-3",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-09.md:426:428": {
+      "key": "memory:memory/2026-04-09.md:426:428",
+      "path": "memory/2026-04-09.md",
+      "startLine": 426,
+      "endLine": 428,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: 4. **Token 互搶**：每次 `issue_bot_token` 會讓舊 token 失效，加了 apiCall wrapper 遇 401 自動 refresh 5. **客戶名稱**：sync 時沒抓 customer name，fallback 到 \"Customer\"。加了 `setCustomerName` 在 sync 時設定 6. **摘要 prompt**：原本強制輸出「水單：已提供/未提供」，改成只輸出對話中實際提到的欄位 7. **轉接目標**：LiveChat transfe",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "issue-bot-token",
+        "已提供/未提供",
+        "possible",
+        "lasting",
+        "truths",
+        "token",
+        "每次",
+        "失效"
       ]
     }
   }
