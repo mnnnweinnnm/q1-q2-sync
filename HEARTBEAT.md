@@ -5,7 +5,7 @@
 - [ ] **Tailscale 安裝 (Q1 及 Q2)**：建立跨網域私有連線 (重新安排至 2026-04-09 10:00)
 - [ ] **模型配置確認**：Gemini Flash ($3.50/M) 比 DeepSeek Reasoner ($0.70/M) 貴5倍，但支援圖片；維持目前配置合理
 - [x] **主機安全修補**：重設 usdt-bet.com 管理員密碼、加 uploads/.htaccess、更改 FTP 弱密碼 (不再提醒)
-- [ ] **Google Sheets OAuth**：等待韋瀚點授權連結完成請款單自動化
+- [x] **Google Sheets OAuth**：✅ 韋瀚已完成授權，請款單自動化就緒
 
 ### Token 異常消耗監控 🚨
 - 檢查近 2 小時內是否有異常大量 token 消耗（>50k tokens/hour）
