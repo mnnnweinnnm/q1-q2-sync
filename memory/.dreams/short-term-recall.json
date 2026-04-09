@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T07:42:20.272Z",
+  "updatedAt": "2026-04-09T19:00:00.419Z",
   "entries": {
     "memory:memory/2026-04-04.md:238:256": {
       "key": "memory:memory/2026-04-04.md:238:256",
@@ -612,7 +612,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -643,7 +643,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -674,7 +674,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -705,7 +705,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -736,7 +736,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -767,7 +767,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -798,7 +798,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -823,13 +823,13 @@
       "startLine": 42,
       "endLine": 44,
       "source": "memory",
-      "snippet": "Heartbeat 檢查（00:49）: **Tailscale 安裝**：排程於 2026-04-09 10:00 執行; **Google Sheets OAuth**：仍等待韋瀚點擊授權連結; **系統效能**：Mac mini 負載偏高（2.8），記憶體壓縮 4.7GB，建議近期重啟系統",
+      "snippet": "Heartbeat 檢查（00:49）: **Tailscale 安裝**：排程於 2026-04-09 10:00 執行; **Google Sheets OAuth**：✅ 韋瀚已完成授權（10:39 確認）; **系統效能**：Mac mini 負載偏高（2.8），記憶體壓縮 4.7GB，建議近期重啟系統",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -860,7 +860,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -890,7 +890,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-08T19:00:00.411Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
       "queryHashes": [
         "4320a7af2f21"
       ],
@@ -49848,6 +49848,3739 @@
         "875-875",
         "reply-to-current",
         "876-876"
+      ]
+    },
+    "memory:memory/2026-04-09.md:435:438": {
+      "key": "memory:memory/2026-04-09.md:435:438",
+      "path": "memory/2026-04-09.md",
+      "startLine": 435,
+      "endLine": 438,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 854 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "1.00",
+        "3-3",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-09.md:441:443": {
+      "key": "memory:memory/2026-04-09.md:441:443",
+      "path": "memory/2026-04-09.md",
+      "startLine": 441,
+      "endLine": 443,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: 4. **Token 互搶**：每次 `issue_bot_token` 會讓舊 token 失效，加了 apiCall wrapper 遇 401 自動 refresh 5. **客戶名稱**：sync 時沒抓 customer name，fallback 到 \"Customer\"。加了 `setCustomerName` 在 sync 時設定 6. **摘要 prompt**：原本強制輸出「水單：已提供/未提供」，改成只輸出對話中實際提到的欄位 7. **轉接目標**：LiveChat transfe",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "issue-bot-token",
+        "已提供/未提供",
+        "possible",
+        "lasting",
+        "truths",
+        "token",
+        "每次",
+        "失效"
+      ]
+    },
+    "memory:memory/2026-04-09.md:450:452": {
+      "key": "memory:memory/2026-04-09.md:450:452",
+      "path": "memory/2026-04-09.md",
+      "startLine": 450,
+      "endLine": 452,
+      "source": "memory",
+      "snippet": "重大更新: **OpenClaw 版本升級**：2026.4.5 → 2026.4.8（穩定性修復版本）; **修復核心崩潰**：解決 `Unhandled promise rejection: Error: Agent listener invoked outside active run` 錯誤（Gateway 頻繁重啟主因）; **Gateway 重啟**：PID 50803 穩定運行",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "2026.4.5",
+        "2026.4.8",
+        "重大",
+        "更新",
+        "openclaw",
+        "版本",
+        "升級"
+      ]
+    },
+    "memory:memory/2026-04-09.md:455:458": {
+      "key": "memory:memory/2026-04-09.md:455:458",
+      "path": "memory/2026-04-09.md",
+      "startLine": 455,
+      "endLine": 458,
+      "source": "memory",
+      "snippet": "夢境功能（Dreaming）: **已啟用**：`memory-core.config.dreaming.enabled: true`; **排程時間**：每天凌晨 3:00（Asia/Taipei）; **首次執行**：2026-04-09 03:00（今夜）; **輸出**：將生成 `DREAMS.md`、更新 `MEMORY.md`、`memory/dreaming/` 目錄報告",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "asia/taipei",
+        "dreams.md",
+        "memory.md",
+        "memory/dreaming",
+        "夢境",
+        "功能",
+        "dreaming",
+        "啟用"
+      ]
+    },
+    "memory:memory/2026-04-09.md:462:463": {
+      "key": "memory:memory/2026-04-09.md:462:463",
+      "path": "memory/2026-04-09.md",
+      "startLine": 462,
+      "endLine": 463,
+      "source": "memory",
+      "snippet": "✅ 已自動修復: Discord 串流配置遷移（legacy keys）; Gateway 服務路徑重新安裝",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "自動",
+        "修復",
+        "discord",
+        "配置",
+        "遷移",
+        "legacy",
+        "keys"
+      ]
+    },
+    "memory:memory/2026-04-09.md:466:469": {
+      "key": "memory:memory/2026-04-09.md:466:469",
+      "path": "memory/2026-04-09.md",
+      "startLine": 466,
+      "endLine": 469,
+      "source": "memory",
+      "snippet": "🟡 待優化項目: **MiniMax API 路徑**：`baseUrl` 仍含 `?GroupId=` 參數（應移除，改用 OpenAI 相容端點）; **安全設定**：`tools.exec.security=\"full\"` 建議改為 `\"allowlist\"`; **WhatsApp 配置**：`groupPolicy=\"allowlist\"` 但未設定允許發送者（訊息會被靜默丟棄）; **反向代理信任**：`gateway.trustedProxies` 為空（僅本地使用可忽略）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "openai",
+        "tools.exec.security",
+        "gateway.trustedproxies",
+        "項目",
+        "minimax",
+        "api",
+        "路徑"
+      ]
+    },
+    "memory:memory/2026-04-09.md:472:474": {
+      "key": "memory:memory/2026-04-09.md:472:474",
+      "path": "memory/2026-04-09.md",
+      "startLine": 472,
+      "endLine": 474,
+      "source": "memory",
+      "snippet": "決策: 暫不執行 MiniMax API 路徑修正，等待用戶確認; 保持當前安全設定，用戶了解潛在風險; WhatsApp 非主要頻道，忽略配置警告",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "決策",
+        "執行",
+        "minimax",
+        "api",
+        "路徑",
+        "修正",
+        "等待",
+        "用戶"
+      ]
+    },
+    "memory:memory/2026-04-09.md:477:479": {
+      "key": "memory:memory/2026-04-09.md:477:479",
+      "path": "memory/2026-04-09.md",
+      "startLine": 477,
+      "endLine": 479,
+      "source": "memory",
+      "snippet": "備註: 更新過程中 Gateway 重啟正常，所有頻道（Discord、WebChat）連線穩定; 夢境功能將在深夜自動執行，預計消耗少量 API tokens（10-30 秒運行時間）; 系統目前一切正常，崩潰問題應已解決",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "10-30",
+        "備註",
+        "更新",
+        "過程",
+        "正常",
+        "所有",
+        "頻道"
+      ]
+    },
+    "memory:memory/2026-04-09.md:482:485": {
+      "key": "memory:memory/2026-04-09.md:482:485",
+      "path": "memory/2026-04-09.md",
+      "startLine": 482,
+      "endLine": 485,
+      "source": "memory",
+      "snippet": "Heartbeat 檢查（00:49）: **Puppeteer 殭屍清理**：無超過 30 分鐘的 Chrome for Testing 進程; **Session 滿載檢查**：最高使用率 81%（gemini-3.1-pro-preview Discord 頻道），未達 90% 警報線; **Token 異常消耗監控**：近 2 小時無異常大量 token 消耗（未發現 >50k tokens/hour）; **Anthropic OAuth Token 健康**：使用 env API key（非 OAuth），狀態正常",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gemini-3.1-pro-preview",
+        "tokens/hour",
+        "heartbeat",
+        "檢查",
+        "puppeteer",
+        "殭屍",
+        "清理",
+        "超過"
+      ]
+    },
+    "memory:memory/2026-04-09.md:486:488": {
+      "key": "memory:memory/2026-04-09.md:486:488",
+      "path": "memory/2026-04-09.md",
+      "startLine": 486,
+      "endLine": 488,
+      "source": "memory",
+      "snippet": "Heartbeat 檢查（00:49）: **Tailscale 安裝**：排程於 2026-04-09 10:00 執行; **Google Sheets OAuth**：仍等待韋瀚點擊授權連結; **系統效能**：Mac mini 負載偏高（2.8），記憶體壓縮 4.7GB，建議近期重啟系統",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "2.8",
+        "4.7gb",
+        "heartbeat",
+        "檢查",
+        "tailscale",
+        "安裝",
+        "執行",
+        "google"
+      ]
+    },
+    "memory:memory/2026-04-09.md:490:490": {
+      "key": "memory:memory/2026-04-09.md:490:490",
+      "path": "memory/2026-04-09.md",
+      "startLine": 490,
+      "endLine": 490,
+      "source": "memory",
+      "snippet": "Heartbeat 檢查（00:49）: *記錄時間：2026-04-09 00:15（Asia/Taipei）*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "asia/taipei",
+        "heartbeat",
+        "檢查",
+        "記錄",
+        "時間",
+        "asia",
+        "taipei"
+      ]
+    },
+    "memory:memory/2026-04-09.md:495:497": {
+      "key": "memory:memory/2026-04-09.md:495:497",
+      "path": "memory/2026-04-09.md",
+      "startLine": 495,
+      "endLine": 497,
+      "source": "memory",
+      "snippet": "問題: **06:00 首次 cron 即時回報數據錯誤**：報的是 4/8 昨天的數據，不是 4/9 今天的; 存款 158,414、註冊 36 — 明顯是昨天整天的累積數據; **充值方式和支付渠道也是錯的**（同樣日期問題）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "4/8",
+        "4/9",
+        "問題",
+        "首次",
+        "cron",
+        "即時",
+        "回報",
+        "數據"
+      ]
+    },
+    "memory:memory/2026-04-09.md:500:501": {
+      "key": "memory:memory/2026-04-09.md:500:501",
+      "path": "memory/2026-04-09.md",
+      "startLine": 500,
+      "endLine": 501,
+      "source": "memory",
+      "snippet": "根本原因: **腳本未主動設日期**：依賴後台預設值，但 06:00 cron 在 UTC 22:00 跑，後台 session 可能帶前一天快取; **`/21170` 渠道監控是累積數據**：沒有日期篩選功能，顯示的是全期累積的成功率，不是當天的",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "根本",
+        "原因",
+        "腳本",
+        "主動",
+        "日期",
+        "依賴",
+        "後台",
+        "預設"
+      ]
+    },
+    "memory:memory/2026-04-09.md:504:507": {
+      "key": "memory:memory/2026-04-09.md:504:507",
+      "path": "memory/2026-04-09.md",
+      "startLine": 504,
+      "endLine": 507,
+      "source": "memory",
+      "snippet": "修復（v5 → v6）: **新增 `setDatePickers()` 函數**：每個頁面搜索前強制設定日期選擇器為台北的今天; **新增 `getTaipeiToday()`**：UTC + 8 計算台北日期，不依賴 VPS 系統時區; **數據行匹配改用 `todayStr`**：`cells[0].includes(todayStr)` 確保只抓指定日期的行; **棄用 `/21170` 渠道監控**：改用 `/31690` 支付渠道 Tab（有日期篩選）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "修復",
+        "新增",
+        "setdatepickers",
+        "函數",
+        "每個",
+        "搜索",
+        "強制",
+        "設定"
+      ]
+    },
+    "memory:memory/2026-04-09.md:508:509": {
+      "key": "memory:memory/2026-04-09.md:508:509",
+      "path": "memory/2026-04-09.md",
+      "startLine": 508,
+      "endLine": 509,
+      "source": "memory",
+      "snippet": "修復（v5 → v6）: **充值方式仍用 `/39081` 按方式 Tab**（有日期篩選，數據準確）; **批次間加 5 秒延遲**：避免同時登入被踢",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "修復",
+        "方式",
+        "tab",
+        "日期",
+        "篩選",
+        "數據",
+        "準確",
+        "批次"
+      ]
+    },
+    "memory:memory/2026-04-09.md:512:514": {
+      "key": "memory:memory/2026-04-09.md:512:514",
+      "path": "memory/2026-04-09.md",
+      "startLine": 512,
+      "endLine": 514,
+      "source": "memory",
+      "snippet": "測試結果: v5 測試：批次1 正確（4/9 數據），批次2 登入失敗（同時登入限制）; v6 測試：全部正確，存款 54,691、註冊 16、首充 5、充值方式 128/145（88.28%）; **已發到韋瀚個人 Signal 確認**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "4/9",
+        "128/145",
+        "88.28",
+        "測試",
+        "結果",
+        "批次",
+        "正確",
+        "數據"
+      ]
+    },
+    "memory:memory/2026-04-09.md:517:518": {
+      "key": "memory:memory/2026-04-09.md:517:518",
+      "path": "memory/2026-04-09.md",
+      "startLine": 517,
+      "endLine": 518,
+      "source": "memory",
+      "snippet": "部署: v6 腳本：`/tmp/intraday-report-v6.js`; **等韋瀚確認數字正確後部署到 `/opt/pera57-reporting-bot/intraday-report.js`**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "tmp/intraday-report-v6.js",
+        "部署",
+        "腳本",
+        "tmp",
+        "intraday",
+        "report",
+        "確認",
+        "數字"
+      ]
+    },
+    "memory:memory/2026-04-09.md:521:522": {
+      "key": "memory:memory/2026-04-09.md:521:522",
+      "path": "memory/2026-04-09.md",
+      "startLine": 521,
+      "endLine": 522,
+      "source": "memory",
+      "snippet": "額外動作: **發了更正通知到 PERA57後勤群**：「06:00 數據有誤請忽略」; **發了正確的即時數據到群組**（09:48 台北時間）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "額外",
+        "動作",
+        "發了",
+        "更正",
+        "通知",
+        "pera57",
+        "後勤",
+        "數據"
+      ]
+    },
+    "memory:memory/2026-04-09.md:525:528": {
+      "key": "memory:memory/2026-04-09.md:525:528",
+      "path": "memory/2026-04-09.md",
+      "startLine": 525,
+      "endLine": 528,
+      "source": "memory",
+      "snippet": "充值方式/渠道數據源確認: | 數據 | 正確來源 | 原錯誤來源 | |---|---|---| | 充值方式（到賬/申請/成功率）| `/39081` 按方式 Tab | 同（但沒設日期）| | 支付渠道 | `/31690` 支付渠道 Tab | `/21170`（累積數據，無日期篩選）|",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "充值方式/渠道數據源確認",
+        "到賬/申請/成功率",
+        "方式",
+        "渠道",
+        "數據",
+        "確認",
+        "正確",
+        "來源"
+      ]
+    },
+    "memory:memory/2026-04-09.md:531:534": {
+      "key": "memory:memory/2026-04-09.md:531:534",
+      "path": "memory/2026-04-09.md",
+      "startLine": 531,
+      "endLine": 534,
+      "source": "memory",
+      "snippet": "`/39081` Tab 結構確認: Tab 0: 按日期（預設）; Tab 1: 按方式 ✅; Tab 2: 按金額; Tab 3: 異常IP",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "tab",
+        "結構",
+        "確認",
+        "日期",
+        "預設",
+        "方式",
+        "金額",
+        "異常"
+      ]
+    },
+    "memory:memory/2026-04-09.md:535:536": {
+      "key": "memory:memory/2026-04-09.md:535:536",
+      "path": "memory/2026-04-09.md",
+      "startLine": 535,
+      "endLine": 536,
+      "source": "memory",
+      "snippet": "`/39081` Tab 結構確認: Tab 4: 異常用户; **沒有「按渠道」Tab**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "tab",
+        "結構",
+        "確認",
+        "異常",
+        "用户",
+        "沒有",
+        "渠道"
+      ]
+    },
+    "memory:memory/2026-04-09.md:538:538": {
+      "key": "memory:memory/2026-04-09.md:538:538",
+      "path": "memory/2026-04-09.md",
+      "startLine": 538,
+      "endLine": 538,
+      "source": "memory",
+      "snippet": "`/39081` Tab 結構確認: *記錄時間：2026-04-09 10:09（Asia/Taipei）*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "asia/taipei",
+        "tab",
+        "結構",
+        "確認",
+        "記錄",
+        "時間",
+        "asia",
+        "taipei"
+      ]
+    },
+    "memory:memory/2026-04-09.md:602:605": {
+      "key": "memory:memory/2026-04-09.md:602:605",
+      "path": "memory/2026-04-09.md",
+      "startLine": 602,
+      "endLine": 605,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 854 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "1.00",
+        "3-3",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-09.md:608:610": {
+      "key": "memory:memory/2026-04-09.md:608:610",
+      "path": "memory/2026-04-09.md",
+      "startLine": 608,
+      "endLine": 610,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: 4. **Token 互搶**：每次 `issue_bot_token` 會讓舊 token 失效，加了 apiCall wrapper 遇 401 自動 refresh 5. **客戶名稱**：sync 時沒抓 customer name，fallback 到 \"Customer\"。加了 `setCustomerName` 在 sync 時設定 6. **摘要 prompt**：原本強制輸出「水單：已提供/未提供」，改成只輸出對話中實際提到的欄位 7. **轉接目標**：LiveChat transfe",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "issue-bot-token",
+        "已提供/未提供",
+        "possible",
+        "lasting",
+        "truths",
+        "token",
+        "每次",
+        "失效"
+      ]
+    },
+    "memory:memory/2026-04-09.md:617:619": {
+      "key": "memory:memory/2026-04-09.md:617:619",
+      "path": "memory/2026-04-09.md",
+      "startLine": 617,
+      "endLine": 619,
+      "source": "memory",
+      "snippet": "重大更新: **OpenClaw 版本升級**：2026.4.5 → 2026.4.8（穩定性修復版本）; **修復核心崩潰**：解決 `Unhandled promise rejection: Error: Agent listener invoked outside active run` 錯誤（Gateway 頻繁重啟主因）; **Gateway 重啟**：PID 50803 穩定運行",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "2026.4.5",
+        "2026.4.8",
+        "重大",
+        "更新",
+        "openclaw",
+        "版本",
+        "升級"
+      ]
+    },
+    "memory:memory/2026-04-09.md:627:629": {
+      "key": "memory:memory/2026-04-09.md:627:629",
+      "path": "memory/2026-04-09.md",
+      "startLine": 627,
+      "endLine": 629,
+      "source": "memory",
+      "snippet": "問題: 韋瀚回報 v6/v7 的**支付渠道沒有成功率**; v6 用 `/31690` 支付渠道 Tab → 只有到賬筆數/金額，沒有成功率; v7 恢復用 `/21170` 渠道監控 → 韋瀚指出 `/21170` 只能按時間區段篩選，不是當日數據",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "v6/v7",
+        "只有到賬筆數/金額",
+        "問題",
+        "回報",
+        "支付",
+        "渠道",
+        "沒有",
+        "成功"
+      ]
+    },
+    "memory:memory/2026-04-09.md:632:634": {
+      "key": "memory:memory/2026-04-09.md:632:634",
+      "path": "memory/2026-04-09.md",
+      "startLine": 632,
+      "endLine": 634,
+      "source": "memory",
+      "snippet": "韋瀚指示: **正確方法**：在 `/39081` 按方式 Tab，上方有「充值渠道」下拉選單; 選擇各渠道（UNF_M、MSY_YS 等）→ 點搜索 → 就能看到該渠道的到賬/申請/成功率; 截圖確認：UNF_M 渠道下 Maya 23/19（82.61%）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "unf-m",
+        "msy-ys",
+        "就能看到該渠道的到賬/申請/成功率",
+        "23/19",
+        "82.61",
+        "指示",
+        "正確",
+        "方法"
+      ]
+    },
+    "memory:memory/2026-04-09.md:637:640": {
+      "key": "memory:memory/2026-04-09.md:637:640",
+      "path": "memory/2026-04-09.md",
+      "startLine": 637,
+      "endLine": 640,
+      "source": "memory",
+      "snippet": "調查發現: `/39081` 按方式 Tab 有 5 個 ant-select：日期選擇器 ×2 + 充值方式 + **充值渠道** + ?; 渠道下拉選項：全部、Masaya、AILE_M、UNF_M、AILE_G、FB、MSY_YS、UNIPAY、MYPAY、SPROUTPAY; **關鍵 bug**：用 `evaluate` 找搜索按鈕會點到隱藏的按鈕（idx 0），真正可見的是 idx 1; 改用 `getBoundingClientRect()` 找可見搜索按鈕後，渠道切換+搜索才生效",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "ant-select",
+        "aile-m",
+        "unf-m",
+        "aile-g",
+        "msy-ys",
+        "調查",
+        "發現",
+        "方式"
+      ]
+    },
+    "memory:memory/2026-04-09.md:643:646": {
+      "key": "memory:memory/2026-04-09.md:643:646",
+      "path": "memory/2026-04-09.md",
+      "startLine": 643,
+      "endLine": 646,
+      "source": "memory",
+      "snippet": "v8 修復: 批次2 改為：先查「全部」→ 充值方式數據，再逐個渠道查詢 → 讀 总计 行; 新增 `clickVisibleSearch()` 函數：用座標點擊可見的搜索按鈕; 渠道迴圈：打開下拉 → 選渠道 → 搜索 → 讀 总计 → 只保留有數據的（申請筆數 > 0）; 渠道格式改為：`到賬/申請（成功率）`，跟充值方式一致",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "到賬/申請",
+        "修復",
+        "批次",
+        "改為",
+        "全部",
+        "方式",
+        "數據",
+        "逐個"
+      ]
+    },
+    "memory:memory/2026-04-09.md:649:652": {
+      "key": "memory:memory/2026-04-09.md:649:652",
+      "path": "memory/2026-04-09.md",
+      "startLine": 649,
+      "endLine": 652,
+      "source": "memory",
+      "snippet": "測試結果: UNF_M：19/23（82.61%）✅ 跟韋瀚截圖吻合; FB：0/1（0.00%）; MSY_YS：32/34（94.12%）; 其他渠道申請 0 筆被過濾掉",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "unf-m",
+        "19/23",
+        "82.61",
+        "0/1",
+        "0.00",
+        "msy-ys",
+        "32/34",
+        "94.12"
+      ]
+    },
+    "memory:memory/2026-04-09.md:653:653": {
+      "key": "memory:memory/2026-04-09.md:653:653",
+      "path": "memory/2026-04-09.md",
+      "startLine": 653,
+      "endLine": 653,
+      "source": "memory",
+      "snippet": "測試結果: **已發到韋瀚個人 Signal 待確認**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "測試",
+        "結果",
+        "發到",
+        "個人",
+        "signal",
+        "確認"
+      ]
+    },
+    "memory:memory/2026-04-09.md:656:657": {
+      "key": "memory:memory/2026-04-09.md:656:657",
+      "path": "memory/2026-04-09.md",
+      "startLine": 656,
+      "endLine": 657,
+      "source": "memory",
+      "snippet": "腳本: v8：`/tmp/intraday-report-v8.js`; **等韋瀚確認後部署到 `/opt/pera57-reporting-bot/intraday-report.js`**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "tmp/intraday-report-v8.js",
+        "腳本",
+        "tmp",
+        "intraday",
+        "report",
+        "確認",
+        "部署",
+        "opt"
+      ]
+    },
+    "memory:memory/2026-04-09.md:660:663": {
+      "key": "memory:memory/2026-04-09.md:660:663",
+      "path": "memory/2026-04-09.md",
+      "startLine": 660,
+      "endLine": 663,
+      "source": "memory",
+      "snippet": "教訓: `/21170` 渠道監控**不可用於每日數據**（只能按時間區段，不是自動每日重置）; `/39081` 按方式 Tab 的渠道下拉是正確的渠道數據源; Ant Design Select 的搜索按鈕有隱藏/可見之分，必須用座標點擊可見的那個; Puppeteer evaluate 點 button 可能點到 DOM 中隱藏的元素",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "的搜索按鈕有隱藏/可見之分",
+        "教訓",
+        "渠道",
+        "不可",
+        "用於",
+        "每日",
+        "數據",
+        "只能"
+      ]
+    },
+    "memory:memory/2026-04-09.md:666:669": {
+      "key": "memory:memory/2026-04-09.md:666:669",
+      "path": "memory/2026-04-09.md",
+      "startLine": 666,
+      "endLine": 669,
+      "source": "memory",
+      "snippet": "即時回報數據源定案（v8）: | 數據 | 頁面 | 備註 | |---|---|---| | 存取款 | `/31690` 平台損益 Tab | 強制設日期 | | 註冊/首充 | `/31672` 活躍用戶分析 | 強制設日期 |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "註冊/首充",
+        "即時",
+        "回報",
+        "數據",
+        "定案",
+        "備註",
+        "存取",
+        "平台"
+      ]
+    },
+    "memory:memory/2026-04-09.md:670:671": {
+      "key": "memory:memory/2026-04-09.md:670:671",
+      "path": "memory/2026-04-09.md",
+      "startLine": 670,
+      "endLine": 671,
+      "source": "memory",
+      "snippet": "即時回報數據源定案（v8）: | 充值方式 | `/39081` 按方式 Tab（全部渠道）| 強制設日期 | | 支付渠道 | `/39081` 按方式 Tab（逐渠道下拉）| 同上，到賬/申請/成功率 |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "到賬/申請/成功率",
+        "即時",
+        "回報",
+        "數據",
+        "定案",
+        "方式",
+        "tab",
+        "全部"
+      ]
+    },
+    "memory:memory/2026-04-09.md:673:673": {
+      "key": "memory:memory/2026-04-09.md:673:673",
+      "path": "memory/2026-04-09.md",
+      "startLine": 673,
+      "endLine": 673,
+      "source": "memory",
+      "snippet": "即時回報數據源定案（v8）: *記錄時間：2026-04-09 10:49（Asia/Taipei）*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "asia/taipei",
+        "即時",
+        "回報",
+        "數據",
+        "定案",
+        "記錄",
+        "時間",
+        "asia"
+      ]
+    },
+    "memory:memory/2026-04-09.md:679:681": {
+      "key": "memory:memory/2026-04-09.md:679:681",
+      "path": "memory/2026-04-09.md",
+      "startLine": 679,
+      "endLine": 681,
+      "source": "memory",
+      "snippet": "問題: 韋瀚指出 v8 渠道統計不完整——下拉選單用了 Ant Design **虛擬列表** (`rc-virtual-list`); 每次只渲染可見的 ~11 個選項，實際共 **18 個渠道**; 截圖確認：需要滾動下方才能看到 LPAY-NEW GCASH、AILE_JL_GOT、VIBRAPAY 等",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "rc-virtual-list",
+        "lpay-new",
+        "aile-jl-got",
+        "問題",
+        "指出",
+        "渠道",
+        "統計",
+        "完整"
+      ]
+    },
+    "memory:memory/2026-04-09.md:684:684": {
+      "key": "memory:memory/2026-04-09.md:684:684",
+      "path": "memory/2026-04-09.md",
+      "startLine": 684,
+      "endLine": 684,
+      "source": "memory",
+      "snippet": "完整渠道清單（18 個）: Masaya, AILE_M, UNF_M, AILE_G, FB, MSY_YS, UNIPAY, MYPAY, SPROUTPAY, LPAY-NEW GCASH 2, AILE_JL_GOT, LPAY-NEW GCASH 3, LPAY-NEW GOTYME, LPAY-NEW GCASH, RCPAY, LPAY-Gcash Redirect, AILE-Gcash Redirect, VIBRAPAY",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "aile-m",
+        "unf-m",
+        "aile-g",
+        "msy-ys",
+        "lpay-new",
+        "aile-jl-got",
+        "lpay-gcash",
+        "aile-gcash"
+      ]
+    },
+    "memory:memory/2026-04-09.md:687:690": {
+      "key": "memory:memory/2026-04-09.md:687:690",
+      "path": "memory/2026-04-09.md",
+      "startLine": 687,
+      "endLine": 690,
+      "source": "memory",
+      "snippet": "技術發現: Ant Design Select 下拉**不支持搜索輸入**（hasSearch = false）; 但直接在下拉打開時打字可以過濾選項（keyboard type 方式）; **虛擬列表滾動收集**：逐步 scrollTop += 80，每次讀 DOM 選項加入 Set，最多 30 次; **渠道選擇策略**：先 keyboard.type 輸入前 8 字元篩選 → 找精確匹配的 option 點擊",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "keyboard.type",
+        "技術",
+        "發現",
+        "ant",
+        "design",
+        "select",
+        "支持",
+        "搜索"
+      ]
+    },
+    "memory:memory/2026-04-09.md:691:691": {
+      "key": "memory:memory/2026-04-09.md:691:691",
+      "path": "memory/2026-04-09.md",
+      "startLine": 691,
+      "endLine": 691,
+      "source": "memory",
+      "snippet": "技術發現: 若篩選失敗則 fallback 到滾動方式逐步找",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "技術",
+        "發現",
+        "篩選",
+        "失敗",
+        "fallback",
+        "滾動",
+        "方式",
+        "逐步"
+      ]
+    },
+    "memory:memory/2026-04-09.md:694:697": {
+      "key": "memory:memory/2026-04-09.md:694:697",
+      "path": "memory/2026-04-09.md",
+      "startLine": 694,
+      "endLine": 697,
+      "source": "memory",
+      "snippet": "v9 修復: 新增 `getAllChannelOptions()` — 滾動虛擬列表收集所有渠道名; 新增 `selectChannel()` — 輸入篩選 + 精確匹配點擊（fallback 滾動點擊）; 新增 `selectAllChannel()` — 重設回「全部」; 逐渠道迴圈：選渠道 → 搜索 → 讀总计 → 只保留有數據的",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "修復",
+        "新增",
+        "getallchanneloptions",
+        "滾動",
+        "虛擬",
+        "列表",
+        "收集",
+        "所有"
+      ]
+    },
+    "memory:memory/2026-04-09.md:700:703": {
+      "key": "memory:memory/2026-04-09.md:700:703",
+      "path": "memory/2026-04-09.md",
+      "startLine": 700,
+      "endLine": 703,
+      "source": "memory",
+      "snippet": "v9 測試結果（11:04）: 成功抓到 6 個有數據的渠道（其餘 12 個申請 0 筆被過濾）; UNF_M: 20/24 (83.33%), FB: 0/1 (0.00%), MSY_YS: 34/37 (91.89%); LPAY-NEW GCASH: 68/77 (88.31%), LPAY-Gcash Redirect: 26/27 (96.30%), VIBRAPAY: 0/1 (0.00%); 已發到韋瀚個人 Signal **等待確認**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "unf-m",
+        "20/24",
+        "83.33",
+        "0/1",
+        "0.00",
+        "msy-ys",
+        "34/37",
+        "91.89"
+      ]
+    },
+    "memory:memory/2026-04-09.md:706:707": {
+      "key": "memory:memory/2026-04-09.md:706:707",
+      "path": "memory/2026-04-09.md",
+      "startLine": 706,
+      "endLine": 707,
+      "source": "memory",
+      "snippet": "腳本: v9: `/tmp/intraday-report-v9.js`; **等韋瀚確認後部署到 `/opt/pera57-reporting-bot/intraday-report.js` 並更新 cron**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "tmp/intraday-report-v9.js",
+        "腳本",
+        "tmp",
+        "intraday",
+        "report",
+        "確認",
+        "部署",
+        "opt"
+      ]
+    },
+    "memory:memory/2026-04-09.md:710:712": {
+      "key": "memory:memory/2026-04-09.md:710:712",
+      "path": "memory/2026-04-09.md",
+      "startLine": 710,
+      "endLine": 712,
+      "source": "memory",
+      "snippet": "狀態: v9 已部署到 VPS `/opt/pera57-reporting-bot/intraday-report.js`; 等韋瀚看 Signal 確認數字後更新 cron 排程; 下次自動 cron: 12:00 Taipei",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "狀態",
+        "部署",
+        "vps",
+        "opt",
+        "pera57",
+        "reporting",
+        "bot",
+        "intraday"
+      ]
+    },
+    "memory:memory/2026-04-09.md:714:714": {
+      "key": "memory:memory/2026-04-09.md:714:714",
+      "path": "memory/2026-04-09.md",
+      "startLine": 714,
+      "endLine": 714,
+      "source": "memory",
+      "snippet": "狀態: *記錄時間：2026-04-09 11:05（Asia/Taipei）*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "asia/taipei",
+        "狀態",
+        "記錄",
+        "時間",
+        "asia",
+        "taipei"
+      ]
+    },
+    "memory:memory/2026-04-09.md:717:720": {
+      "key": "memory:memory/2026-04-09.md:717:720",
+      "path": "memory/2026-04-09.md",
+      "startLine": 717,
+      "endLine": 720,
+      "source": "memory",
+      "snippet": "Heartbeat 檢查（11:19）: **Token 異常消耗監控**：近 2 小時無異常大量 token 消耗（所有 session 使用率正常，最高 70%）; **Anthropic OAuth Token 健康**：使用 env API key，狀態正常; **Puppeteer 殭屍清理**：無超過 30 分鐘的 Chrome for Testing 進程; **Session 滿載檢查**：最高使用率 70%（discord channel），未達 75% 警報線",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "heartbeat",
+        "檢查",
+        "token",
+        "異常",
+        "消耗",
+        "小時",
+        "大量",
+        "所有"
+      ]
+    },
+    "memory:memory/2026-04-09.md:721:724": {
+      "key": "memory:memory/2026-04-09.md:721:724",
+      "path": "memory/2026-04-09.md",
+      "startLine": 721,
+      "endLine": 724,
+      "source": "memory",
+      "snippet": "Heartbeat 檢查（11:19）: **待辦事項狀態**：; 模型配置確認：維持當前配置合理（DeepSeek Reasoner 成本較低）; PERA57 其他站回報需求：韋瀚正在修改中; **系統更新**：OpenClaw 2026.4.9 更新可用，暫不執行",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "2026.4.9",
+        "heartbeat",
+        "檢查",
+        "事項",
+        "狀態",
+        "模型",
+        "配置",
+        "確認"
+      ]
+    },
+    "memory:memory/2026-04-09.md:725:725": {
+      "key": "memory:memory/2026-04-09.md:725:725",
+      "path": "memory/2026-04-09.md",
+      "startLine": 725,
+      "endLine": 725,
+      "source": "memory",
+      "snippet": "Heartbeat 檢查（11:19）: **每日靈感排程**：已設定 cron 任務，每天 10:00 自動發送",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "heartbeat",
+        "檢查",
+        "每日",
+        "靈感",
+        "設定",
+        "cron",
+        "任務",
+        "每天"
+      ]
+    },
+    "memory:memory/2026-04-09.md:727:727": {
+      "key": "memory:memory/2026-04-09.md:727:727",
+      "path": "memory/2026-04-09.md",
+      "startLine": 727,
+      "endLine": 727,
+      "source": "memory",
+      "snippet": "Heartbeat 檢查（11:19）: *記錄時間：2026-04-09 11:19（Asia/Taipei）*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "asia/taipei",
+        "heartbeat",
+        "檢查",
+        "記錄",
+        "時間",
+        "asia",
+        "taipei"
+      ]
+    },
+    "memory:memory/2026-04-09.md:733:736": {
+      "key": "memory:memory/2026-04-09.md:733:736",
+      "path": "memory/2026-04-09.md",
+      "startLine": 733,
+      "endLine": 736,
+      "source": "memory",
+      "snippet": "v10 優化內容: **重構為共用模組架構**：; `/tmp/pera57-shared/lib/browser.js` - Puppeteer 啟動 + Ant Design 登入; `/tmp/pera57-shared/lib/notify.js` - Signal/Telegram 發送 + 錯誤警報; `/tmp/pera57-shared/lib/date-utils.js` - 台北日期、數字格式化",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "tmp/pera57-shared/lib/browser.js",
+        "tmp/pera57-shared/lib/notify.js",
+        "signal/telegram",
+        "v10",
+        "內容",
+        "共用",
+        "模組",
+        "架構"
+      ]
+    },
+    "memory:memory/2026-04-09.md:737:739": {
+      "key": "memory:memory/2026-04-09.md:737:739",
+      "path": "memory/2026-04-09.md",
+      "startLine": 737,
+      "endLine": 739,
+      "source": "memory",
+      "snippet": "v10 優化內容: `/tmp/pera57-shared/lib/scrape-helpers.js` - 日期設定、搜索按鈕、虛擬列表操作; `/tmp/pera57-shared/intraday-report.js` - 即時回報主程式; `/tmp/pera57-shared/daily-report-bot.js` - 每日回報主程式",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "v10",
+        "內容",
+        "tmp",
+        "pera57",
+        "shared",
+        "lib",
+        "scrape",
+        "helpers.js"
+      ]
+    },
+    "memory:memory/2026-04-09.md:741:744": {
+      "key": "memory:memory/2026-04-09.md:741:744",
+      "path": "memory/2026-04-09.md",
+      "startLine": 741,
+      "endLine": 744,
+      "source": "memory",
+      "snippet": "v10 優化內容: **穩定性提升**：; `MAX_RETRIES=1` + 30 秒重試間隔; 失敗時發 Signal 錯誤警報通知; 批次間 5 秒延遲避免登入互搶",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "max-retries",
+        "v10",
+        "內容",
+        "穩定性",
+        "提升",
+        "間隔",
+        "失敗",
+        "signal"
+      ]
+    },
+    "memory:memory/2026-04-09.md:746:748": {
+      "key": "memory:memory/2026-04-09.md:746:748",
+      "path": "memory/2026-04-09.md",
+      "startLine": 746,
+      "endLine": 748,
+      "source": "memory",
+      "snippet": "v10 優化內容: **環境優化**：; `DEBUG=false` 關閉除錯日誌; logrotate 設定（`/etc/logrotate.d/pera57-reporting`）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "etc/logrotate.d/pera57-reporting",
+        "v10",
+        "內容",
+        "環境",
+        "debug",
+        "false",
+        "關閉",
+        "除錯"
+      ]
+    },
+    "memory:memory/2026-04-09.md:750:753": {
+      "key": "memory:memory/2026-04-09.md:750:753",
+      "path": "memory/2026-04-09.md",
+      "startLine": 750,
+      "endLine": 753,
+      "source": "memory",
+      "snippet": "v10 優化內容: **預留多站點擴充**：; 共用模組設計，任何 Ant Design 後台都可調用; 每個站點只要提供 BASE_URL、USER、PASS 即可; notification 模組支援 Signal（主要）+ Telegram（備用）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "base-url",
+        "v10",
+        "內容",
+        "預留",
+        "擴充",
+        "共用",
+        "模組",
+        "設計"
+      ]
+    },
+    "memory:memory/2026-04-09.md:756:759": {
+      "key": "memory:memory/2026-04-09.md:756:759",
+      "path": "memory/2026-04-09.md",
+      "startLine": 756,
+      "endLine": 759,
+      "source": "memory",
+      "snippet": "v10 測試結果（11:43）: ✅ 存取款：65,348 / 38,845 / 26,503; ✅ 用戶：16 註冊 / 5 首充 / 31%; ✅ 充值方式：157/176（89.20%），完整 6 項; ✅ 支付渠道：18 個全部查詢，6 個有數據",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "157/176",
+        "89.20",
+        "v10",
+        "測試",
+        "結果",
+        "存取",
+        "65,348",
+        "38,845"
+      ]
+    },
+    "memory:memory/2026-04-09.md:760:762": {
+      "key": "memory:memory/2026-04-09.md:760:762",
+      "path": "memory/2026-04-09.md",
+      "startLine": 760,
+      "endLine": 762,
+      "source": "memory",
+      "snippet": "v10 測試結果（11:43）: UNF_M 20/24 (83.33%), FB 0/1 (0.00%), MSY_YS 34/37 (91.89%); LPAY-NEW GCASH 69/78 (88.46%), LPAY-Gcash Redirect 27/28 (96.43%), VIBRAPAY 0/1 (0.00%); ✅ 數據一致性：充值方式 157/176 = 支付渠道 sum 157/176",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "unf-m",
+        "20/24",
+        "83.33",
+        "0/1",
+        "0.00",
+        "msy-ys",
+        "34/37",
+        "91.89"
+      ]
+    },
+    "memory:memory/2026-04-09.md:765:766": {
+      "key": "memory:memory/2026-04-09.md:765:766",
+      "path": "memory/2026-04-09.md",
+      "startLine": 765,
+      "endLine": 766,
+      "source": "memory",
+      "snippet": "清理測試腳本: 移除了 65 個 debug/test 腳本到 `/tmp/pera57-shared/archive/`; 只保留生產用：`intraday-report.js` + `daily-report-bot.js` + 共用 lib",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "debug/test",
+        "tmp/pera57-shared/archive",
+        "intraday-report.js",
+        "daily-report-bot.js",
+        "清理",
+        "測試",
+        "腳本",
+        "移除"
+      ]
+    },
+    "memory:memory/2026-04-09.md:769:771": {
+      "key": "memory:memory/2026-04-09.md:769:771",
+      "path": "memory/2026-04-09.md",
+      "startLine": 769,
+      "endLine": 771,
+      "source": "memory",
+      "snippet": "狀態: v10 已部署到 `/opt/pera57-reporting-bot/intraday-report.js`; Cron 排程已指向正確的 script（12:00/18:00/23:59 自動跑）; **等韋瀚指示開始做其他站點（OKE-BET 等）**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "00/18",
+        "00/23",
+        "oke-bet",
+        "狀態",
+        "v10",
+        "部署",
+        "opt",
+        "pera57"
+      ]
+    },
+    "memory:memory/2026-04-09.md:774:777": {
+      "key": "memory:memory/2026-04-09.md:774:777",
+      "path": "memory/2026-04-09.md",
+      "startLine": 774,
+      "endLine": 777,
+      "source": "memory",
+      "snippet": "下一步: 需要韋瀚提供其他站點的：; 後台網址 + 帳密; 如用 API 模式：Bearer Token + User-Agent; Signal 通知目標（個人 UUID 或群組）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "user-agent",
+        "下一步",
+        "需要",
+        "提供",
+        "其他",
+        "後台",
+        "網址",
+        "api"
+      ]
+    },
+    "memory:memory/2026-04-09.md:779:779": {
+      "key": "memory:memory/2026-04-09.md:779:779",
+      "path": "memory/2026-04-09.md",
+      "startLine": 779,
+      "endLine": 779,
+      "source": "memory",
+      "snippet": "下一步: *記錄時間：2026-04-09 11:43（Asia/Taipei）*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "asia/taipei",
+        "下一步",
+        "記錄",
+        "時間",
+        "asia",
+        "taipei"
+      ]
+    },
+    "memory:memory/2026-04-09.md:785:787": {
+      "key": "memory:memory/2026-04-09.md:785:787",
+      "path": "memory/2026-04-09.md",
+      "startLine": 785,
+      "endLine": 787,
+      "source": "memory",
+      "snippet": "重大更新: **OpenClaw 版本升級**：2026.4.5 → 2026.4.8（穩定性修復版本）; **修復核心崩潰**：解決 `Unhandled promise rejection: Error: Agent listener invoked outside active run` 錯誤（Gateway 頻繁重啟主因）; **Gateway 重啟**：PID 50803 穩定運行",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "2026.4.5",
+        "2026.4.8",
+        "重大",
+        "更新",
+        "openclaw",
+        "版本",
+        "升級"
+      ]
+    },
+    "memory:memory/2026-04-09.md:790:793": {
+      "key": "memory:memory/2026-04-09.md:790:793",
+      "path": "memory/2026-04-09.md",
+      "startLine": 790,
+      "endLine": 793,
+      "source": "memory",
+      "snippet": "夢境功能（Dreaming）: **已啟用**：`memory-core.config.dreaming.enabled: true`; **排程時間**：每天凌晨 3:00（Asia/Taipei）; **首次執行**：2026-04-09 03:00（今夜）; **輸出**：將生成 `DREAMS.md`、更新 `MEMORY.md`、`memory/dreaming/` 目錄報告",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "asia/taipei",
+        "dreams.md",
+        "memory.md",
+        "memory/dreaming",
+        "夢境",
+        "功能",
+        "dreaming",
+        "啟用"
+      ]
+    },
+    "memory:memory/2026-04-09.md:797:798": {
+      "key": "memory:memory/2026-04-09.md:797:798",
+      "path": "memory/2026-04-09.md",
+      "startLine": 797,
+      "endLine": 798,
+      "source": "memory",
+      "snippet": "✅ 已自動修復: Discord 串流配置遷移（legacy keys）; Gateway 服務路徑重新安裝",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "自動",
+        "修復",
+        "discord",
+        "配置",
+        "遷移",
+        "legacy",
+        "keys"
+      ]
+    },
+    "memory:memory/2026-04-09.md:801:804": {
+      "key": "memory:memory/2026-04-09.md:801:804",
+      "path": "memory/2026-04-09.md",
+      "startLine": 801,
+      "endLine": 804,
+      "source": "memory",
+      "snippet": "🟡 待優化項目: **MiniMax API 路徑**：`baseUrl` 仍含 `?GroupId=` 參數（應移除，改用 OpenAI 相容端點）; **安全設定**：`tools.exec.security=\"full\"` 建議改為 `\"allowlist\"`; **WhatsApp 配置**：`groupPolicy=\"allowlist\"` 但未設定允許發送者（訊息會被靜默丟棄）; **反向代理信任**：`gateway.trustedProxies` 為空（僅本地使用可忽略）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "openai",
+        "tools.exec.security",
+        "gateway.trustedproxies",
+        "項目",
+        "minimax",
+        "api",
+        "路徑"
+      ]
+    },
+    "memory:memory/2026-04-09.md:807:809": {
+      "key": "memory:memory/2026-04-09.md:807:809",
+      "path": "memory/2026-04-09.md",
+      "startLine": 807,
+      "endLine": 809,
+      "source": "memory",
+      "snippet": "決策: 暫不執行 MiniMax API 路徑修正，等待用戶確認; 保持當前安全設定，用戶了解潛在風險; WhatsApp 非主要頻道，忽略配置警告",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "決策",
+        "執行",
+        "minimax",
+        "api",
+        "路徑",
+        "修正",
+        "等待",
+        "用戶"
+      ]
+    },
+    "memory:memory/2026-04-09.md:812:814": {
+      "key": "memory:memory/2026-04-09.md:812:814",
+      "path": "memory/2026-04-09.md",
+      "startLine": 812,
+      "endLine": 814,
+      "source": "memory",
+      "snippet": "備註: 更新過程中 Gateway 重啟正常，所有頻道（Discord、WebChat）連線穩定; 夢境功能將在深夜自動執行，預計消耗少量 API tokens（10-30 秒運行時間）; 系統目前一切正常，崩潰問題應已解決",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "10-30",
+        "備註",
+        "更新",
+        "過程",
+        "正常",
+        "所有",
+        "頻道"
+      ]
+    },
+    "memory:memory/2026-04-09.md:817:820": {
+      "key": "memory:memory/2026-04-09.md:817:820",
+      "path": "memory/2026-04-09.md",
+      "startLine": 817,
+      "endLine": 820,
+      "source": "memory",
+      "snippet": "Heartbeat 檢查（00:49）: **Puppeteer 殭屍清理**：無超過 30 分鐘的 Chrome for Testing 進程; **Session 滿載檢查**：最高使用率 81%（gemini-3.1-pro-preview Discord 頻道），未達 90% 警報線; **Token 異常消耗監控**：近 2 小時無異常大量 token 消耗（未發現 >50k tokens/hour）; **Anthropic OAuth Token 健康**：使用 env API key（非 OAuth），狀態正常",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gemini-3.1-pro-preview",
+        "tokens/hour",
+        "heartbeat",
+        "檢查",
+        "puppeteer",
+        "殭屍",
+        "清理",
+        "超過"
+      ]
+    },
+    "memory:memory/2026-04-09.md:821:823": {
+      "key": "memory:memory/2026-04-09.md:821:823",
+      "path": "memory/2026-04-09.md",
+      "startLine": 821,
+      "endLine": 823,
+      "source": "memory",
+      "snippet": "Heartbeat 檢查（00:49）: **Tailscale 安裝**：排程於 2026-04-09 10:00 執行; **Google Sheets OAuth**：✅ 韋瀚已完成授權（10:39 確認）; **系統效能**：Mac mini 負載偏高（2.8），記憶體壓縮 4.7GB，建議近期重啟系統",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "2.8",
+        "4.7gb",
+        "heartbeat",
+        "檢查",
+        "tailscale",
+        "安裝",
+        "執行",
+        "google"
+      ]
+    },
+    "memory:memory/2026-04-09.md:825:825": {
+      "key": "memory:memory/2026-04-09.md:825:825",
+      "path": "memory/2026-04-09.md",
+      "startLine": 825,
+      "endLine": 825,
+      "source": "memory",
+      "snippet": "Heartbeat 檢查（00:49）: *記錄時間：2026-04-09 00:15（Asia/Taipei）*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "asia/taipei",
+        "heartbeat",
+        "檢查",
+        "記錄",
+        "時間",
+        "asia",
+        "taipei"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1214:1217": {
+      "key": "memory:memory/2026-04-09.md:1214:1217",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1214,
+      "endLine": 1217,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 854 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "1.00",
+        "3-3",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1220:1222": {
+      "key": "memory:memory/2026-04-09.md:1220:1222",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1220,
+      "endLine": 1222,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: 4. **Token 互搶**：每次 `issue_bot_token` 會讓舊 token 失效，加了 apiCall wrapper 遇 401 自動 refresh 5. **客戶名稱**：sync 時沒抓 customer name，fallback 到 \"Customer\"。加了 `setCustomerName` 在 sync 時設定 6. **摘要 prompt**：原本強制輸出「水單：已提供/未提供」，改成只輸出對話中實際提到的欄位 7. **轉接目標**：LiveChat transfe",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "issue-bot-token",
+        "已提供/未提供",
+        "possible",
+        "lasting",
+        "truths",
+        "token",
+        "每次",
+        "失效"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1229:1231": {
+      "key": "memory:memory/2026-04-09.md:1229:1231",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1229,
+      "endLine": 1231,
+      "source": "memory",
+      "snippet": "重大更新: **OpenClaw 版本升級**：2026.4.5 → 2026.4.8（穩定性修復版本）; **修復核心崩潰**：解決 `Unhandled promise rejection: Error: Agent listener invoked outside active run` 錯誤（Gateway 頻繁重啟主因）; **Gateway 重啟**：PID 50803 穩定運行",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "2026.4.5",
+        "2026.4.8",
+        "重大",
+        "更新",
+        "openclaw",
+        "版本",
+        "升級"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1234:1237": {
+      "key": "memory:memory/2026-04-09.md:1234:1237",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1234,
+      "endLine": 1237,
+      "source": "memory",
+      "snippet": "夢境功能（Dreaming）: **已啟用**：`memory-core.config.dreaming.enabled: true`; **排程時間**：每天凌晨 3:00（Asia/Taipei）; **首次執行**：2026-04-09 03:00（今夜）; **輸出**：將生成 `DREAMS.md`、更新 `MEMORY.md`、`memory/dreaming/` 目錄報告",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "asia/taipei",
+        "dreams.md",
+        "memory.md",
+        "memory/dreaming",
+        "夢境",
+        "功能",
+        "dreaming",
+        "啟用"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1241:1242": {
+      "key": "memory:memory/2026-04-09.md:1241:1242",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1241,
+      "endLine": 1242,
+      "source": "memory",
+      "snippet": "✅ 已自動修復: Discord 串流配置遷移（legacy keys）; Gateway 服務路徑重新安裝",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "自動",
+        "修復",
+        "discord",
+        "配置",
+        "遷移",
+        "legacy",
+        "keys"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1245:1248": {
+      "key": "memory:memory/2026-04-09.md:1245:1248",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1245,
+      "endLine": 1248,
+      "source": "memory",
+      "snippet": "🟡 待優化項目: **MiniMax API 路徑**：`baseUrl` 仍含 `?GroupId=` 參數（應移除，改用 OpenAI 相容端點）; **安全設定**：`tools.exec.security=\"full\"` 建議改為 `\"allowlist\"`; **WhatsApp 配置**：`groupPolicy=\"allowlist\"` 但未設定允許發送者（訊息會被靜默丟棄）; **反向代理信任**：`gateway.trustedProxies` 為空（僅本地使用可忽略）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "openai",
+        "tools.exec.security",
+        "gateway.trustedproxies",
+        "項目",
+        "minimax",
+        "api",
+        "路徑"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1251:1253": {
+      "key": "memory:memory/2026-04-09.md:1251:1253",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1251,
+      "endLine": 1253,
+      "source": "memory",
+      "snippet": "決策: 暫不執行 MiniMax API 路徑修正，等待用戶確認; 保持當前安全設定，用戶了解潛在風險; WhatsApp 非主要頻道，忽略配置警告",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "決策",
+        "執行",
+        "minimax",
+        "api",
+        "路徑",
+        "修正",
+        "等待",
+        "用戶"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1256:1258": {
+      "key": "memory:memory/2026-04-09.md:1256:1258",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1256,
+      "endLine": 1258,
+      "source": "memory",
+      "snippet": "備註: 更新過程中 Gateway 重啟正常，所有頻道（Discord、WebChat）連線穩定; 夢境功能將在深夜自動執行，預計消耗少量 API tokens（10-30 秒運行時間）; 系統目前一切正常，崩潰問題應已解決",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "10-30",
+        "備註",
+        "更新",
+        "過程",
+        "正常",
+        "所有",
+        "頻道"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1261:1264": {
+      "key": "memory:memory/2026-04-09.md:1261:1264",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1261,
+      "endLine": 1264,
+      "source": "memory",
+      "snippet": "Heartbeat 檢查（00:49）: **Puppeteer 殭屍清理**：無超過 30 分鐘的 Chrome for Testing 進程; **Session 滿載檢查**：最高使用率 81%（gemini-3.1-pro-preview Discord 頻道），未達 90% 警報線; **Token 異常消耗監控**：近 2 小時無異常大量 token 消耗（未發現 >50k tokens/hour）; **Anthropic OAuth Token 健康**：使用 env API key（非 OAuth），狀態正常",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gemini-3.1-pro-preview",
+        "tokens/hour",
+        "heartbeat",
+        "檢查",
+        "puppeteer",
+        "殭屍",
+        "清理",
+        "超過"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1265:1267": {
+      "key": "memory:memory/2026-04-09.md:1265:1267",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1265,
+      "endLine": 1267,
+      "source": "memory",
+      "snippet": "Heartbeat 檢查（00:49）: **Tailscale 安裝**：排程於 2026-04-09 10:00 執行; **Google Sheets OAuth**：仍等待韋瀚點擊授權連結; **系統效能**：Mac mini 負載偏高（2.8），記憶體壓縮 4.7GB，建議近期重啟系統",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "2.8",
+        "4.7gb",
+        "heartbeat",
+        "檢查",
+        "tailscale",
+        "安裝",
+        "執行",
+        "google"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1269:1269": {
+      "key": "memory:memory/2026-04-09.md:1269:1269",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1269,
+      "endLine": 1269,
+      "source": "memory",
+      "snippet": "Heartbeat 檢查（00:49）: *記錄時間：2026-04-09 00:15（Asia/Taipei）*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "asia/taipei",
+        "heartbeat",
+        "檢查",
+        "記錄",
+        "時間",
+        "asia",
+        "taipei"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1274:1276": {
+      "key": "memory:memory/2026-04-09.md:1274:1276",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1274,
+      "endLine": 1276,
+      "source": "memory",
+      "snippet": "問題: **06:00 首次 cron 即時回報數據錯誤**：報的是 4/8 昨天的數據，不是 4/9 今天的; 存款 158,414、註冊 36 — 明顯是昨天整天的累積數據; **充值方式和支付渠道也是錯的**（同樣日期問題）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "4/8",
+        "4/9",
+        "問題",
+        "首次",
+        "cron",
+        "即時",
+        "回報",
+        "數據"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1279:1280": {
+      "key": "memory:memory/2026-04-09.md:1279:1280",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1279,
+      "endLine": 1280,
+      "source": "memory",
+      "snippet": "根本原因: **腳本未主動設日期**：依賴後台預設值，但 06:00 cron 在 UTC 22:00 跑，後台 session 可能帶前一天快取; **`/21170` 渠道監控是累積數據**：沒有日期篩選功能，顯示的是全期累積的成功率，不是當天的",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "根本",
+        "原因",
+        "腳本",
+        "主動",
+        "日期",
+        "依賴",
+        "後台",
+        "預設"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1283:1286": {
+      "key": "memory:memory/2026-04-09.md:1283:1286",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1283,
+      "endLine": 1286,
+      "source": "memory",
+      "snippet": "修復（v5 → v6）: **新增 `setDatePickers()` 函數**：每個頁面搜索前強制設定日期選擇器為台北的今天; **新增 `getTaipeiToday()`**：UTC + 8 計算台北日期，不依賴 VPS 系統時區; **數據行匹配改用 `todayStr`**：`cells[0].includes(todayStr)` 確保只抓指定日期的行; **棄用 `/21170` 渠道監控**：改用 `/31690` 支付渠道 Tab（有日期篩選）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "修復",
+        "新增",
+        "setdatepickers",
+        "函數",
+        "每個",
+        "搜索",
+        "強制",
+        "設定"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1287:1288": {
+      "key": "memory:memory/2026-04-09.md:1287:1288",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1287,
+      "endLine": 1288,
+      "source": "memory",
+      "snippet": "修復（v5 → v6）: **充值方式仍用 `/39081` 按方式 Tab**（有日期篩選，數據準確）; **批次間加 5 秒延遲**：避免同時登入被踢",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "修復",
+        "方式",
+        "tab",
+        "日期",
+        "篩選",
+        "數據",
+        "準確",
+        "批次"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1291:1293": {
+      "key": "memory:memory/2026-04-09.md:1291:1293",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1291,
+      "endLine": 1293,
+      "source": "memory",
+      "snippet": "測試結果: v5 測試：批次1 正確（4/9 數據），批次2 登入失敗（同時登入限制）; v6 測試：全部正確，存款 54,691、註冊 16、首充 5、充值方式 128/145（88.28%）; **已發到韋瀚個人 Signal 確認**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "4/9",
+        "128/145",
+        "88.28",
+        "測試",
+        "結果",
+        "批次",
+        "正確",
+        "數據"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1296:1297": {
+      "key": "memory:memory/2026-04-09.md:1296:1297",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1296,
+      "endLine": 1297,
+      "source": "memory",
+      "snippet": "部署: v6 腳本：`/tmp/intraday-report-v6.js`; **等韋瀚確認數字正確後部署到 `/opt/pera57-reporting-bot/intraday-report.js`**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "tmp/intraday-report-v6.js",
+        "部署",
+        "腳本",
+        "tmp",
+        "intraday",
+        "report",
+        "確認",
+        "數字"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1300:1301": {
+      "key": "memory:memory/2026-04-09.md:1300:1301",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1300,
+      "endLine": 1301,
+      "source": "memory",
+      "snippet": "額外動作: **發了更正通知到 PERA57後勤群**：「06:00 數據有誤請忽略」; **發了正確的即時數據到群組**（09:48 台北時間）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "額外",
+        "動作",
+        "發了",
+        "更正",
+        "通知",
+        "pera57",
+        "後勤",
+        "數據"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1304:1307": {
+      "key": "memory:memory/2026-04-09.md:1304:1307",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1304,
+      "endLine": 1307,
+      "source": "memory",
+      "snippet": "充值方式/渠道數據源確認: | 數據 | 正確來源 | 原錯誤來源 | |---|---|---| | 充值方式（到賬/申請/成功率）| `/39081` 按方式 Tab | 同（但沒設日期）| | 支付渠道 | `/31690` 支付渠道 Tab | `/21170`（累積數據，無日期篩選）|",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "充值方式/渠道數據源確認",
+        "到賬/申請/成功率",
+        "方式",
+        "渠道",
+        "數據",
+        "確認",
+        "正確",
+        "來源"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1310:1313": {
+      "key": "memory:memory/2026-04-09.md:1310:1313",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1310,
+      "endLine": 1313,
+      "source": "memory",
+      "snippet": "`/39081` Tab 結構確認: Tab 0: 按日期（預設）; Tab 1: 按方式 ✅; Tab 2: 按金額; Tab 3: 異常IP",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "tab",
+        "結構",
+        "確認",
+        "日期",
+        "預設",
+        "方式",
+        "金額",
+        "異常"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1314:1315": {
+      "key": "memory:memory/2026-04-09.md:1314:1315",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1314,
+      "endLine": 1315,
+      "source": "memory",
+      "snippet": "`/39081` Tab 結構確認: Tab 4: 異常用户; **沒有「按渠道」Tab**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "tab",
+        "結構",
+        "確認",
+        "異常",
+        "用户",
+        "沒有",
+        "渠道"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1317:1317": {
+      "key": "memory:memory/2026-04-09.md:1317:1317",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1317,
+      "endLine": 1317,
+      "source": "memory",
+      "snippet": "`/39081` Tab 結構確認: *記錄時間：2026-04-09 10:09（Asia/Taipei）*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "asia/taipei",
+        "tab",
+        "結構",
+        "確認",
+        "記錄",
+        "時間",
+        "asia",
+        "taipei"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1381:1384": {
+      "key": "memory:memory/2026-04-09.md:1381:1384",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1381,
+      "endLine": 1384,
+      "source": "memory",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 854 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:6-6; note: reflection",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "1.00",
+        "3-3",
+        "4-4",
+        "6-6",
+        "reflections",
+        "theme",
+        "assistant",
+        "kept"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1387:1389": {
+      "key": "memory:memory/2026-04-09.md:1387:1389",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1387,
+      "endLine": 1389,
+      "source": "memory",
+      "snippet": "Possible Lasting Truths: 4. **Token 互搶**：每次 `issue_bot_token` 會讓舊 token 失效，加了 apiCall wrapper 遇 401 自動 refresh 5. **客戶名稱**：sync 時沒抓 customer name，fallback 到 \"Customer\"。加了 `setCustomerName` 在 sync 時設定 6. **摘要 prompt**：原本強制輸出「水單：已提供/未提供」，改成只輸出對話中實際提到的欄位 7. **轉接目標**：LiveChat transfe",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "issue-bot-token",
+        "已提供/未提供",
+        "possible",
+        "lasting",
+        "truths",
+        "token",
+        "每次",
+        "失效"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1396:1398": {
+      "key": "memory:memory/2026-04-09.md:1396:1398",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1396,
+      "endLine": 1398,
+      "source": "memory",
+      "snippet": "重大更新: **OpenClaw 版本升級**：2026.4.5 → 2026.4.8（穩定性修復版本）; **修復核心崩潰**：解決 `Unhandled promise rejection: Error: Agent listener invoked outside active run` 錯誤（Gateway 頻繁重啟主因）; **Gateway 重啟**：PID 50803 穩定運行",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "2026.4.5",
+        "2026.4.8",
+        "重大",
+        "更新",
+        "openclaw",
+        "版本",
+        "升級"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1406:1408": {
+      "key": "memory:memory/2026-04-09.md:1406:1408",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1406,
+      "endLine": 1408,
+      "source": "memory",
+      "snippet": "問題: 韋瀚回報 v6/v7 的**支付渠道沒有成功率**; v6 用 `/31690` 支付渠道 Tab → 只有到賬筆數/金額，沒有成功率; v7 恢復用 `/21170` 渠道監控 → 韋瀚指出 `/21170` 只能按時間區段篩選，不是當日數據",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "v6/v7",
+        "只有到賬筆數/金額",
+        "問題",
+        "回報",
+        "支付",
+        "渠道",
+        "沒有",
+        "成功"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1411:1413": {
+      "key": "memory:memory/2026-04-09.md:1411:1413",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1411,
+      "endLine": 1413,
+      "source": "memory",
+      "snippet": "韋瀚指示: **正確方法**：在 `/39081` 按方式 Tab，上方有「充值渠道」下拉選單; 選擇各渠道（UNF_M、MSY_YS 等）→ 點搜索 → 就能看到該渠道的到賬/申請/成功率; 截圖確認：UNF_M 渠道下 Maya 23/19（82.61%）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "unf-m",
+        "msy-ys",
+        "就能看到該渠道的到賬/申請/成功率",
+        "23/19",
+        "82.61",
+        "指示",
+        "正確",
+        "方法"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1416:1419": {
+      "key": "memory:memory/2026-04-09.md:1416:1419",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1416,
+      "endLine": 1419,
+      "source": "memory",
+      "snippet": "調查發現: `/39081` 按方式 Tab 有 5 個 ant-select：日期選擇器 ×2 + 充值方式 + **充值渠道** + ?; 渠道下拉選項：全部、Masaya、AILE_M、UNF_M、AILE_G、FB、MSY_YS、UNIPAY、MYPAY、SPROUTPAY; **關鍵 bug**：用 `evaluate` 找搜索按鈕會點到隱藏的按鈕（idx 0），真正可見的是 idx 1; 改用 `getBoundingClientRect()` 找可見搜索按鈕後，渠道切換+搜索才生效",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "ant-select",
+        "aile-m",
+        "unf-m",
+        "aile-g",
+        "msy-ys",
+        "調查",
+        "發現",
+        "方式"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1422:1425": {
+      "key": "memory:memory/2026-04-09.md:1422:1425",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1422,
+      "endLine": 1425,
+      "source": "memory",
+      "snippet": "v8 修復: 批次2 改為：先查「全部」→ 充值方式數據，再逐個渠道查詢 → 讀 总计 行; 新增 `clickVisibleSearch()` 函數：用座標點擊可見的搜索按鈕; 渠道迴圈：打開下拉 → 選渠道 → 搜索 → 讀 总计 → 只保留有數據的（申請筆數 > 0）; 渠道格式改為：`到賬/申請（成功率）`，跟充值方式一致",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "到賬/申請",
+        "修復",
+        "批次",
+        "改為",
+        "全部",
+        "方式",
+        "數據",
+        "逐個"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1428:1431": {
+      "key": "memory:memory/2026-04-09.md:1428:1431",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1428,
+      "endLine": 1431,
+      "source": "memory",
+      "snippet": "測試結果: UNF_M：19/23（82.61%）✅ 跟韋瀚截圖吻合; FB：0/1（0.00%）; MSY_YS：32/34（94.12%）; 其他渠道申請 0 筆被過濾掉",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "unf-m",
+        "19/23",
+        "82.61",
+        "0/1",
+        "0.00",
+        "msy-ys",
+        "32/34",
+        "94.12"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1432:1432": {
+      "key": "memory:memory/2026-04-09.md:1432:1432",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1432,
+      "endLine": 1432,
+      "source": "memory",
+      "snippet": "測試結果: **已發到韋瀚個人 Signal 待確認**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "測試",
+        "結果",
+        "發到",
+        "個人",
+        "signal",
+        "確認"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1435:1436": {
+      "key": "memory:memory/2026-04-09.md:1435:1436",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1435,
+      "endLine": 1436,
+      "source": "memory",
+      "snippet": "腳本: v8：`/tmp/intraday-report-v8.js`; **等韋瀚確認後部署到 `/opt/pera57-reporting-bot/intraday-report.js`**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "tmp/intraday-report-v8.js",
+        "腳本",
+        "tmp",
+        "intraday",
+        "report",
+        "確認",
+        "部署",
+        "opt"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1439:1442": {
+      "key": "memory:memory/2026-04-09.md:1439:1442",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1439,
+      "endLine": 1442,
+      "source": "memory",
+      "snippet": "教訓: `/21170` 渠道監控**不可用於每日數據**（只能按時間區段，不是自動每日重置）; `/39081` 按方式 Tab 的渠道下拉是正確的渠道數據源; Ant Design Select 的搜索按鈕有隱藏/可見之分，必須用座標點擊可見的那個; Puppeteer evaluate 點 button 可能點到 DOM 中隱藏的元素",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "的搜索按鈕有隱藏/可見之分",
+        "教訓",
+        "渠道",
+        "不可",
+        "用於",
+        "每日",
+        "數據",
+        "只能"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1445:1448": {
+      "key": "memory:memory/2026-04-09.md:1445:1448",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1445,
+      "endLine": 1448,
+      "source": "memory",
+      "snippet": "即時回報數據源定案（v8）: | 數據 | 頁面 | 備註 | |---|---|---| | 存取款 | `/31690` 平台損益 Tab | 強制設日期 | | 註冊/首充 | `/31672` 活躍用戶分析 | 強制設日期 |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "註冊/首充",
+        "即時",
+        "回報",
+        "數據",
+        "定案",
+        "備註",
+        "存取",
+        "平台"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1449:1450": {
+      "key": "memory:memory/2026-04-09.md:1449:1450",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1449,
+      "endLine": 1450,
+      "source": "memory",
+      "snippet": "即時回報數據源定案（v8）: | 充值方式 | `/39081` 按方式 Tab（全部渠道）| 強制設日期 | | 支付渠道 | `/39081` 按方式 Tab（逐渠道下拉）| 同上，到賬/申請/成功率 |",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "到賬/申請/成功率",
+        "即時",
+        "回報",
+        "數據",
+        "定案",
+        "方式",
+        "tab",
+        "全部"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1452:1452": {
+      "key": "memory:memory/2026-04-09.md:1452:1452",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1452,
+      "endLine": 1452,
+      "source": "memory",
+      "snippet": "即時回報數據源定案（v8）: *記錄時間：2026-04-09 10:49（Asia/Taipei）*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "asia/taipei",
+        "即時",
+        "回報",
+        "數據",
+        "定案",
+        "記錄",
+        "時間",
+        "asia"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1458:1460": {
+      "key": "memory:memory/2026-04-09.md:1458:1460",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1458,
+      "endLine": 1460,
+      "source": "memory",
+      "snippet": "問題: 韋瀚指出 v8 渠道統計不完整——下拉選單用了 Ant Design **虛擬列表** (`rc-virtual-list`); 每次只渲染可見的 ~11 個選項，實際共 **18 個渠道**; 截圖確認：需要滾動下方才能看到 LPAY-NEW GCASH、AILE_JL_GOT、VIBRAPAY 等",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "rc-virtual-list",
+        "lpay-new",
+        "aile-jl-got",
+        "問題",
+        "指出",
+        "渠道",
+        "統計",
+        "完整"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1463:1463": {
+      "key": "memory:memory/2026-04-09.md:1463:1463",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1463,
+      "endLine": 1463,
+      "source": "memory",
+      "snippet": "完整渠道清單（18 個）: Masaya, AILE_M, UNF_M, AILE_G, FB, MSY_YS, UNIPAY, MYPAY, SPROUTPAY, LPAY-NEW GCASH 2, AILE_JL_GOT, LPAY-NEW GCASH 3, LPAY-NEW GOTYME, LPAY-NEW GCASH, RCPAY, LPAY-Gcash Redirect, AILE-Gcash Redirect, VIBRAPAY",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "aile-m",
+        "unf-m",
+        "aile-g",
+        "msy-ys",
+        "lpay-new",
+        "aile-jl-got",
+        "lpay-gcash",
+        "aile-gcash"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1466:1469": {
+      "key": "memory:memory/2026-04-09.md:1466:1469",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1466,
+      "endLine": 1469,
+      "source": "memory",
+      "snippet": "技術發現: Ant Design Select 下拉**不支持搜索輸入**（hasSearch = false）; 但直接在下拉打開時打字可以過濾選項（keyboard type 方式）; **虛擬列表滾動收集**：逐步 scrollTop += 80，每次讀 DOM 選項加入 Set，最多 30 次; **渠道選擇策略**：先 keyboard.type 輸入前 8 字元篩選 → 找精確匹配的 option 點擊",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "keyboard.type",
+        "技術",
+        "發現",
+        "ant",
+        "design",
+        "select",
+        "支持",
+        "搜索"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1470:1470": {
+      "key": "memory:memory/2026-04-09.md:1470:1470",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1470,
+      "endLine": 1470,
+      "source": "memory",
+      "snippet": "技術發現: 若篩選失敗則 fallback 到滾動方式逐步找",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "技術",
+        "發現",
+        "篩選",
+        "失敗",
+        "fallback",
+        "滾動",
+        "方式",
+        "逐步"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1473:1476": {
+      "key": "memory:memory/2026-04-09.md:1473:1476",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1473,
+      "endLine": 1476,
+      "source": "memory",
+      "snippet": "v9 修復: 新增 `getAllChannelOptions()` — 滾動虛擬列表收集所有渠道名; 新增 `selectChannel()` — 輸入篩選 + 精確匹配點擊（fallback 滾動點擊）; 新增 `selectAllChannel()` — 重設回「全部」; 逐渠道迴圈：選渠道 → 搜索 → 讀总计 → 只保留有數據的",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "修復",
+        "新增",
+        "getallchanneloptions",
+        "滾動",
+        "虛擬",
+        "列表",
+        "收集",
+        "所有"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1479:1482": {
+      "key": "memory:memory/2026-04-09.md:1479:1482",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1479,
+      "endLine": 1482,
+      "source": "memory",
+      "snippet": "v9 測試結果（11:04）: 成功抓到 6 個有數據的渠道（其餘 12 個申請 0 筆被過濾）; UNF_M: 20/24 (83.33%), FB: 0/1 (0.00%), MSY_YS: 34/37 (91.89%); LPAY-NEW GCASH: 68/77 (88.31%), LPAY-Gcash Redirect: 26/27 (96.30%), VIBRAPAY: 0/1 (0.00%); 已發到韋瀚個人 Signal **等待確認**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "unf-m",
+        "20/24",
+        "83.33",
+        "0/1",
+        "0.00",
+        "msy-ys",
+        "34/37",
+        "91.89"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1485:1486": {
+      "key": "memory:memory/2026-04-09.md:1485:1486",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1485,
+      "endLine": 1486,
+      "source": "memory",
+      "snippet": "腳本: v9: `/tmp/intraday-report-v9.js`; **等韋瀚確認後部署到 `/opt/pera57-reporting-bot/intraday-report.js` 並更新 cron**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "tmp/intraday-report-v9.js",
+        "腳本",
+        "tmp",
+        "intraday",
+        "report",
+        "確認",
+        "部署",
+        "opt"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1489:1491": {
+      "key": "memory:memory/2026-04-09.md:1489:1491",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1489,
+      "endLine": 1491,
+      "source": "memory",
+      "snippet": "狀態: v9 已部署到 VPS `/opt/pera57-reporting-bot/intraday-report.js`; 等韋瀚看 Signal 確認數字後更新 cron 排程; 下次自動 cron: 12:00 Taipei",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "狀態",
+        "部署",
+        "vps",
+        "opt",
+        "pera57",
+        "reporting",
+        "bot",
+        "intraday"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1493:1493": {
+      "key": "memory:memory/2026-04-09.md:1493:1493",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1493,
+      "endLine": 1493,
+      "source": "memory",
+      "snippet": "狀態: *記錄時間：2026-04-09 11:05（Asia/Taipei）*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "asia/taipei",
+        "狀態",
+        "記錄",
+        "時間",
+        "asia",
+        "taipei"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1496:1499": {
+      "key": "memory:memory/2026-04-09.md:1496:1499",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1496,
+      "endLine": 1499,
+      "source": "memory",
+      "snippet": "Heartbeat 檢查（11:19）: **Token 異常消耗監控**：近 2 小時無異常大量 token 消耗（所有 session 使用率正常，最高 70%）; **Anthropic OAuth Token 健康**：使用 env API key，狀態正常; **Puppeteer 殭屍清理**：無超過 30 分鐘的 Chrome for Testing 進程; **Session 滿載檢查**：最高使用率 70%（discord channel），未達 75% 警報線",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "heartbeat",
+        "檢查",
+        "token",
+        "異常",
+        "消耗",
+        "小時",
+        "大量",
+        "所有"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1500:1503": {
+      "key": "memory:memory/2026-04-09.md:1500:1503",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1500,
+      "endLine": 1503,
+      "source": "memory",
+      "snippet": "Heartbeat 檢查（11:19）: **待辦事項狀態**：; 模型配置確認：維持當前配置合理（DeepSeek Reasoner 成本較低）; PERA57 其他站回報需求：韋瀚正在修改中; **系統更新**：OpenClaw 2026.4.9 更新可用，暫不執行",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "2026.4.9",
+        "heartbeat",
+        "檢查",
+        "事項",
+        "狀態",
+        "模型",
+        "配置",
+        "確認"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1504:1504": {
+      "key": "memory:memory/2026-04-09.md:1504:1504",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1504,
+      "endLine": 1504,
+      "source": "memory",
+      "snippet": "Heartbeat 檢查（11:19）: **每日靈感排程**：已設定 cron 任務，每天 10:00 自動發送",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "heartbeat",
+        "檢查",
+        "每日",
+        "靈感",
+        "設定",
+        "cron",
+        "任務",
+        "每天"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1506:1506": {
+      "key": "memory:memory/2026-04-09.md:1506:1506",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1506,
+      "endLine": 1506,
+      "source": "memory",
+      "snippet": "Heartbeat 檢查（11:19）: *記錄時間：2026-04-09 11:19（Asia/Taipei）*",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "asia/taipei",
+        "heartbeat",
+        "檢查",
+        "記錄",
+        "時間",
+        "asia",
+        "taipei"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1512:1515": {
+      "key": "memory:memory/2026-04-09.md:1512:1515",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1512,
+      "endLine": 1515,
+      "source": "memory",
+      "snippet": "v10 優化內容: **重構為共用模組架構**：; `/tmp/pera57-shared/lib/browser.js` - Puppeteer 啟動 + Ant Design 登入; `/tmp/pera57-shared/lib/notify.js` - Signal/Telegram 發送 + 錯誤警報; `/tmp/pera57-shared/lib/date-utils.js` - 台北日期、數字格式化",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "tmp/pera57-shared/lib/browser.js",
+        "tmp/pera57-shared/lib/notify.js",
+        "signal/telegram",
+        "v10",
+        "內容",
+        "共用",
+        "模組",
+        "架構"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1516:1518": {
+      "key": "memory:memory/2026-04-09.md:1516:1518",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1516,
+      "endLine": 1518,
+      "source": "memory",
+      "snippet": "v10 優化內容: `/tmp/pera57-shared/lib/scrape-helpers.js` - 日期設定、搜索按鈕、虛擬列表操作; `/tmp/pera57-shared/intraday-report.js` - 即時回報主程式; `/tmp/pera57-shared/daily-report-bot.js` - 每日回報主程式",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "v10",
+        "內容",
+        "tmp",
+        "pera57",
+        "shared",
+        "lib",
+        "scrape",
+        "helpers.js"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1520:1523": {
+      "key": "memory:memory/2026-04-09.md:1520:1523",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1520,
+      "endLine": 1523,
+      "source": "memory",
+      "snippet": "v10 優化內容: **穩定性提升**：; `MAX_RETRIES=1` + 30 秒重試間隔; 失敗時發 Signal 錯誤警報通知; 批次間 5 秒延遲避免登入互搶",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "max-retries",
+        "v10",
+        "內容",
+        "穩定性",
+        "提升",
+        "間隔",
+        "失敗",
+        "signal"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1525:1527": {
+      "key": "memory:memory/2026-04-09.md:1525:1527",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1525,
+      "endLine": 1527,
+      "source": "memory",
+      "snippet": "v10 優化內容: **環境優化**：; `DEBUG=false` 關閉除錯日誌; logrotate 設定（`/etc/logrotate.d/pera57-reporting`）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "etc/logrotate.d/pera57-reporting",
+        "v10",
+        "內容",
+        "環境",
+        "debug",
+        "false",
+        "關閉",
+        "除錯"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1529:1532": {
+      "key": "memory:memory/2026-04-09.md:1529:1532",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1529,
+      "endLine": 1532,
+      "source": "memory",
+      "snippet": "v10 優化內容: **預留多站點擴充**：; 共用模組設計，任何 Ant Design 後台都可調用; 每個站點只要提供 BASE_URL、USER、PASS 即可; notification 模組支援 Signal（主要）+ Telegram（備用）",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "base-url",
+        "v10",
+        "內容",
+        "預留",
+        "擴充",
+        "共用",
+        "模組",
+        "設計"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1535:1538": {
+      "key": "memory:memory/2026-04-09.md:1535:1538",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1535,
+      "endLine": 1538,
+      "source": "memory",
+      "snippet": "v10 測試結果（11:43）: ✅ 存取款：65,348 / 38,845 / 26,503; ✅ 用戶：16 註冊 / 5 首充 / 31%; ✅ 充值方式：157/176（89.20%），完整 6 項; ✅ 支付渠道：18 個全部查詢，6 個有數據",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "157/176",
+        "89.20",
+        "v10",
+        "測試",
+        "結果",
+        "存取",
+        "65,348",
+        "38,845"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1539:1541": {
+      "key": "memory:memory/2026-04-09.md:1539:1541",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1539,
+      "endLine": 1541,
+      "source": "memory",
+      "snippet": "v10 測試結果（11:43）: UNF_M 20/24 (83.33%), FB 0/1 (0.00%), MSY_YS 34/37 (91.89%); LPAY-NEW GCASH 69/78 (88.46%), LPAY-Gcash Redirect 27/28 (96.43%), VIBRAPAY 0/1 (0.00%); ✅ 數據一致性：充值方式 157/176 = 支付渠道 sum 157/176",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.62,
+      "maxScore": 0.62,
+      "firstRecalledAt": "2026-04-09T19:00:00.419Z",
+      "lastRecalledAt": "2026-04-09T19:00:00.419Z",
+      "queryHashes": [
+        "84c029107fed"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "unf-m",
+        "20/24",
+        "83.33",
+        "0/1",
+        "0.00",
+        "msy-ys",
+        "34/37",
+        "91.89"
       ]
     }
   }
