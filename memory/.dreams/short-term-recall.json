@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T03:08:27.802Z",
+  "updatedAt": "2026-04-09T03:21:24.848Z",
   "entries": {
     "memory:memory/2026-04-04.md:238:256": {
       "key": "memory:memory/2026-04-04.md:238:256",
@@ -49526,14 +49526,165 @@
       "endLine": 495,
       "source": "memory",
       "snippet": "4. **反向代理信任**：`gateway.trustedProxies` 為空（僅本地使用可忽略） ### 決策 - 暫不執行 MiniMax API 路徑修正，等待用戶確認 - 保持當前安全設定，用戶了解潛在風險 - WhatsApp 非主要頻道，忽略配置警告 ### 備註 - 更新過程中 Gateway 重啟正常，所有頻道（Discord、WebChat）連線穩定 - 夢境功能將在深夜自動執行，預計消耗少量 API tokens（10-30 秒運行時間） - 系統目前一切正常，崩潰問題應已解決 ### Heartbeat 檢查（00:49） - **Puppeteer 殭屍清理**：無超過 30 分鐘的 Chrome for Testing 進程 - **Session 滿載檢查**：最高使用率 81%（gemini-3.1-pro-preview Discord 頻道），未達 90% 警報線 - **Token 異常消耗監控**：近 2 小時無異常大量 token 消耗（未發現 >50k tokens/hour） - **Anthropic OAuth Token 健康**：使用 env API key（非 OAuth），狀態正常 - **Tailscale 安裝**：排程於 2026-04-09 10:00 執行 - **Google Sheets OAuth**：仍等待韋瀚點擊授權連結 - **系統效能**：Mac mini 負載偏高（2.8），記憶體壓縮 4.7GB，建議近期重啟系統 *記錄時間：2026-04-09 00:15（Asia/Taipei）",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "totalScore": 0.9232891892812617,
+      "maxScore": 0.5609998142145045,
+      "firstRecalledAt": "2026-04-09T03:08:27.802Z",
+      "lastRecalledAt": "2026-04-09T03:21:24.848Z",
+      "queryHashes": [
+        "8003b42130d3",
+        "73ab336e76f4"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "gateway.trustedproxies",
+        "10-30",
+        "gemini-3.1-pro-preview",
+        "tokens/hour",
+        "2.8",
+        "4.7gb",
+        "asia/taipei"
+      ]
+    },
+    "memory:memory/2026-04-09.md:84:104": {
+      "key": "memory:memory/2026-04-09.md:84:104",
+      "path": "memory/2026-04-09.md",
+      "startLine": 84,
+      "endLine": 104,
+      "source": "memory",
+      "snippet": "- status: staged - Candidate: Heartbeat 檢查（00:49）: **Tailscale 安裝**：排程於 2026-04-09 10:00 執行; **Google Sheets OAuth**：仍等待韋瀚點擊授權連結; **系統效能**：Mac mini 負載偏高（2.8），記憶體壓縮 4.7GB，建議近期重啟系統 - confidence: 0.00 - evidence: memory/2026-04-09.md:42-44 - recalls: 0 - status: staged - Candidate: Heartbeat 檢查（00:49）: *記錄時間：2026-04-09 00:15（Asia/Taipei）* - confidence: 0.00 - evidence: memory/2026-04-09.md:46-46 - recalls: 0 - status: staged - Candidate: Reflections: Theme: `assistant` kept surfacing across 821 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:6",
       "recallCount": 1,
       "dailyCount": 0,
-      "totalScore": 0.3622893750667572,
-      "maxScore": 0.3622893750667572,
-      "firstRecalledAt": "2026-04-09T03:08:27.802Z",
-      "lastRecalledAt": "2026-04-09T03:08:27.802Z",
+      "totalScore": 0.5993656963988716,
+      "maxScore": 0.5993656963988716,
+      "firstRecalledAt": "2026-04-09T03:21:24.848Z",
+      "lastRecalledAt": "2026-04-09T03:21:24.848Z",
       "queryHashes": [
-        "8003b42130d3"
+        "73ab336e76f4"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "2.8",
+        "4.7gb",
+        "0.00",
+        "memory/2026-04-09.md",
+        "42-44",
+        "asia/taipei",
+        "46-46",
+        "1.00"
+      ]
+    },
+    "memory:memory/2026-04-09.md:576:598": {
+      "key": "memory:memory/2026-04-09.md:576:598",
+      "path": "memory/2026-04-09.md",
+      "startLine": 576,
+      "endLine": 598,
+      "source": "memory",
+      "snippet": "- status: staged - Candidate: Heartbeat 檢查（00:49）: **Tailscale 安裝**：排程於 2026-04-09 10:00 執行; **Google Sheets OAuth**：仍等待韋瀚點擊授權連結; **系統效能**：Mac mini 負載偏高（2.8），記憶體壓縮 4.7GB，建議近期重啟系統 - confidence: 0.00 - evidence: memory/2026-04-09.md:42-44 - recalls: 0 - status: staged - Candidate: Heartbeat 檢查（00:49）: *記錄時間：2026-04-09 00:15（Asia/Taipei）* - confidence: 0.00 - evidence: memory/2026-04-09.md:46-46 - recalls: 0 - status: staged - Candidate: Reflections: Theme: `assistant` kept surfacing across 821 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:6",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.5985280192687954,
+      "maxScore": 0.5985280192687954,
+      "firstRecalledAt": "2026-04-09T03:21:24.848Z",
+      "lastRecalledAt": "2026-04-09T03:21:24.848Z",
+      "queryHashes": [
+        "73ab336e76f4"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "2.8",
+        "4.7gb",
+        "0.00",
+        "memory/2026-04-09.md",
+        "42-44",
+        "asia/taipei",
+        "46-46",
+        "1.00"
+      ]
+    },
+    "memory:memory/2026-04-09.md:69:86": {
+      "key": "memory:memory/2026-04-09.md:69:86",
+      "path": "memory/2026-04-09.md",
+      "startLine": 69,
+      "endLine": 86,
+      "source": "memory",
+      "snippet": "- status: staged - Candidate: 決策: 暫不執行 MiniMax API 路徑修正，等待用戶確認; 保持當前安全設定，用戶了解潛在風險; WhatsApp 非主要頻道，忽略配置警告 - confidence: 0.00 - evidence: memory/2026-04-09.md:28-30 - recalls: 0 - status: staged - Candidate: 備註: 更新過程中 Gateway 重啟正常，所有頻道（Discord、WebChat）連線穩定; 夢境功能將在深夜自動執行，預計消耗少量 API tokens（10-30 秒運行時間）; 系統目前一切正常，崩潰問題應已解決 - confidence: 0.00 - evidence: memory/2026-04-09.md:33-35 - recalls: 0 - status: staged - Candidate: Heartbeat 檢查（00:49）: **Puppeteer 殭屍清理**：無超過 30 分鐘的 Chrome for Testing 進程; **Session 滿載檢查**：最高使用率 81%（gemini-3.1-pro-preview Discord 頻道），未達 90% 警報線; **Token 異常消耗監控**：近 2 小時無異常大量 token 消耗（未發現 >50k tokens/hour）; **Anthropic OAuth Token 健康**：使用 env API key（非 OAuth），",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.5679352815057153,
+      "maxScore": 0.5679352815057153,
+      "firstRecalledAt": "2026-04-09T03:21:24.848Z",
+      "lastRecalledAt": "2026-04-09T03:21:24.848Z",
+      "queryHashes": [
+        "73ab336e76f4"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "0.00",
+        "memory/2026-04-09.md",
+        "28-30",
+        "10-30",
+        "33-35",
+        "gemini-3.1-pro-preview",
+        "tokens/hour"
+      ]
+    },
+    "memory:memory/2026-04-09.md:561:578": {
+      "key": "memory:memory/2026-04-09.md:561:578",
+      "path": "memory/2026-04-09.md",
+      "startLine": 561,
+      "endLine": 578,
+      "source": "memory",
+      "snippet": "- status: staged - Candidate: 決策: 暫不執行 MiniMax API 路徑修正，等待用戶確認; 保持當前安全設定，用戶了解潛在風險; WhatsApp 非主要頻道，忽略配置警告 - confidence: 0.00 - evidence: memory/2026-04-09.md:28-30 - recalls: 0 - status: staged - Candidate: 備註: 更新過程中 Gateway 重啟正常，所有頻道（Discord、WebChat）連線穩定; 夢境功能將在深夜自動執行，預計消耗少量 API tokens（10-30 秒運行時間）; 系統目前一切正常，崩潰問題應已解決 - confidence: 0.00 - evidence: memory/2026-04-09.md:33-35 - recalls: 0 - status: staged - Candidate: Heartbeat 檢查（00:49）: **Puppeteer 殭屍清理**：無超過 30 分鐘的 Chrome for Testing 進程; **Session 滿載檢查**：最高使用率 81%（gemini-3.1-pro-preview Discord 頻道），未達 90% 警報線; **Token 異常消耗監控**：近 2 小時無異常大量 token 消耗（未發現 >50k tokens/hour）; **Anthropic OAuth Token 健康**：使用 env API key（非 OAuth），",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.5679352815057153,
+      "maxScore": 0.5679352815057153,
+      "firstRecalledAt": "2026-04-09T03:21:24.848Z",
+      "lastRecalledAt": "2026-04-09T03:21:24.848Z",
+      "queryHashes": [
+        "73ab336e76f4"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "0.00",
+        "memory/2026-04-09.md",
+        "28-30",
+        "10-30",
+        "33-35",
+        "gemini-3.1-pro-preview",
+        "tokens/hour"
+      ]
+    },
+    "memory:memory/2026-04-09.md:25:49": {
+      "key": "memory:memory/2026-04-09.md:25:49",
+      "path": "memory/2026-04-09.md",
+      "startLine": 25,
+      "endLine": 49,
+      "source": "memory",
+      "snippet": "4. **反向代理信任**：`gateway.trustedProxies` 為空（僅本地使用可忽略） ### 決策 - 暫不執行 MiniMax API 路徑修正，等待用戶確認 - 保持當前安全設定，用戶了解潛在風險 - WhatsApp 非主要頻道，忽略配置警告 ### 備註 - 更新過程中 Gateway 重啟正常，所有頻道（Discord、WebChat）連線穩定 - 夢境功能將在深夜自動執行，預計消耗少量 API tokens（10-30 秒運行時間） - 系統目前一切正常，崩潰問題應已解決 ### Heartbeat 檢查（00:49） - **Puppeteer 殭屍清理**：無超過 30 分鐘的 Chrome for Testing 進程 - **Session 滿載檢查**：最高使用率 81%（gemini-3.1-pro-preview Discord 頻道），未達 90% 警報線 - **Token 異常消耗監控**：近 2 小時無異常大量 token 消耗（未發現 >50k tokens/hour） - **Anthropic OAuth Token 健康**：使用 env API key（非 OAuth），狀態正常 - **Tailscale 安裝**：排程於 2026-04-09 10:00 執行 - **Google Sheets OAuth**：仍等待韋瀚點擊授權連結 - **系統效能**：Mac mini 負載偏高（2.8），記憶體壓縮 4.7GB，建議近期重啟系統 *記錄時間：2026-04-09 00:15（Asia/Taipei）",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "totalScore": 0.5401964560383333,
+      "maxScore": 0.5401964560383333,
+      "firstRecalledAt": "2026-04-09T03:21:24.848Z",
+      "lastRecalledAt": "2026-04-09T03:21:24.848Z",
+      "queryHashes": [
+        "73ab336e76f4"
       ],
       "recallDays": [
         "2026-04-09"
