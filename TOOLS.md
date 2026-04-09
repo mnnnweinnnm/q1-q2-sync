@@ -24,6 +24,8 @@ Things like:
 ### SSH
 
 - VPS (CS-Bot) → 128.199.249.195 (DigitalOcean SGP1)
+  - **登入指令**：`ssh -i ~/.ssh/id_ed25519 root@128.199.249.195`
+  - **權限**：本機已經設定好 SSH key，可直接透過 `exec` 工具無密碼登入 root。
 - cPanel → sg1-ts5.a2hosting.com:2083 (user: shane042)
 
 ### 🔑 API Key / Token 管理（macOS Keychain）
