@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-09T01:00:02.022Z",
+  "updatedAt": "2026-04-09T01:30:02.103Z",
   "entries": {
     "memory:memory/2026-04-04.md:238:256": {
       "key": "memory:memory/2026-04-04.md:238:256",
@@ -612,7 +612,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -643,7 +643,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -674,7 +674,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -705,7 +705,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -736,7 +736,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -767,7 +767,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -798,7 +798,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -829,7 +829,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -860,7 +860,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -1106,7 +1106,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "b1f16f36272f"
       ],
@@ -1138,7 +1138,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "b1f16f36272f"
       ],
@@ -1170,7 +1170,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "b1f16f36272f"
       ],
@@ -1202,7 +1202,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "b1f16f36272f"
       ],
@@ -1234,7 +1234,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "b1f16f36272f"
       ],
@@ -1266,7 +1266,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "b1f16f36272f"
       ],
@@ -1298,7 +1298,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "b1f16f36272f"
       ],
@@ -8584,7 +8584,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
@@ -8616,7 +8616,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
@@ -8648,7 +8648,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
@@ -8680,7 +8680,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
@@ -8712,7 +8712,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
@@ -8744,7 +8744,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
@@ -8776,7 +8776,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "5215110c3ca9"
       ],
@@ -8808,7 +8808,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "13e32ff48659"
       ],
@@ -8840,7 +8840,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "13e32ff48659"
       ],
@@ -8872,7 +8872,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "13e32ff48659"
       ],
@@ -8904,7 +8904,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "13e32ff48659"
       ],
@@ -8936,7 +8936,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "13e32ff48659"
       ],
@@ -8968,7 +8968,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "13e32ff48659"
       ],
@@ -9000,7 +9000,7 @@
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T19:00:00.411Z",
-      "lastRecalledAt": "2026-04-09T01:00:00.781Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "13e32ff48659"
       ],
@@ -23790,13 +23790,13 @@
       "startLine": 425,
       "endLine": 428,
       "source": "memory",
-      "snippet": "Reflections: Theme: `assistant` kept surfacing across 355 memories.; confidence: 0.91; evidence: memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:6-6; note: reflection",
+      "snippet": "Reflections: Theme: `assistant` kept surfacing across 821 memories.; confidence: 1.00; evidence: memory/.dreams/session-corpus/2026-04-07.txt:3-3, memory/.dreams/session-corpus/2026-04-07.txt:4-4, memory/.dreams/session-corpus/2026-04-07.txt:6-6; note: reflection",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T20:30:00.502Z",
-      "lastRecalledAt": "2026-04-08T20:30:00.502Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -23805,7 +23805,7 @@
         "2026-04-08"
       ],
       "conceptTags": [
-        "0.91",
+        "1.00",
         "3-3",
         "4-4",
         "6-6",
@@ -23821,13 +23821,13 @@
       "startLine": 431,
       "endLine": 433,
       "source": "memory",
-      "snippet": "Possible Lasting Truths: 6. **摘要 prompt**：原本強制輸出「水單：已提供/未提供」，改成只輸出對話中實際提到的欄位 7. **轉接目標**：LiveChat transfer 從 Group 0 改 Group 11（測試期間），Telegram 通知改發到 PERA CSR Test 群 - 部署檔案：livechat-v3.js、poller-v3.js、handler-v2.js → VPS `/opt/cs-bot/src/` - **現在 E2E 流程可用**：客戶開 chat → 填表 → bot 歡迎",
+      "snippet": "Possible Lasting Truths: 4. **Token 互搶**：每次 `issue_bot_token` 會讓舊 token 失效，加了 apiCall wrapper 遇 401 自動 refresh 5. **客戶名稱**：sync 時沒抓 customer name，fallback 到 \"Customer\"。加了 `setCustomerName` 在 sync 時設定 6. **摘要 prompt**：原本強制輸出「水單：已提供/未提供」，改成只輸出對話中實際提到的欄位 7. **轉接目標**：LiveChat transfe",
       "recallCount": 0,
       "dailyCount": 1,
       "totalScore": 0.62,
       "maxScore": 0.62,
       "firstRecalledAt": "2026-04-08T20:30:00.502Z",
-      "lastRecalledAt": "2026-04-08T20:30:00.502Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
       "queryHashes": [
         "84c029107fed"
       ],
@@ -23836,14 +23836,14 @@
         "2026-04-08"
       ],
       "conceptTags": [
+        "issue-bot-token",
         "已提供/未提供",
-        "livechat-v3.js",
-        "poller-v3.js",
-        "handler-v2.js",
-        "opt/cs-bot/src",
         "possible",
         "lasting",
-        "truths"
+        "truths",
+        "token",
+        "每次",
+        "失效"
       ]
     },
     "memory:memory/.dreams/session-corpus/2026-04-07.txt:300:300": {
@@ -47265,6 +47265,2228 @@
         "確認",
         "模組",
         "可以"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:483:483": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:483:483",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 483,
+      "endLine": 483,
+      "source": "memory",
+      "snippet": "Assistant: <final>✅ **好了，設定已更新並生效！** 目前的模型 Fallback 鏈如下： 1. **第一順位 (Primary)**：`minimax/minimax-m2.5` (MiniMax 2.5) — $1.50/M 2. **第二順位 (Fallback 1)**：`deepseek/deepseek-reasoner` (DeepSeek Reasoner) — $0.70/M 3. **第三順位 (Fallback 2)**：`anthropic/claude-opus-4-6` (Claude Opus) — $",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "minimax/minimax-m2.5",
+        "2.5",
+        "1.50/m",
+        "deepseek/deepseek-reasoner",
+        "0.70/m",
+        "anthropic/claude-opus-4-6",
+        "assistant",
+        "final"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:484:484": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:484:484",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 484,
+      "endLine": 484,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 19:56 GMT+8] 我看你現在還是Gemini 3 切換為 MINIMAX",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:485:485": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:485:485",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 485,
+      "endLine": 485,
+      "source": "memory",
+      "snippet": "Assistant: <final>抱歉，因為目前的對話 Session 之前綁定了 Gemini，所以雖然全域設定改了，但對話中可能還沒跳轉。 我剛剛已經手動執行了 **Session 模型強制切換**： ✅ **當前對話模型已切換為**：`minimax/minimax-m2.5` 現在我們之後的對話都會直接使用 MiniMax 2.5 了！</final>",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "minimax/minimax-m2.5",
+        "2.5",
+        "assistant",
+        "final",
+        "抱歉",
+        "因為",
+        "目前",
+        "對話"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:486:486": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:486:486",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 486,
+      "endLine": 486,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 19:57 GMT+8] OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:487:487": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:487:487",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 487,
+      "endLine": 487,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 19:57 GMT+8] OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:488:488": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:488:488",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 488,
+      "endLine": 488,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 19:57 GMT+8] 為什麼會跳４０４",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:489:489": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:489:489",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 489,
+      "endLine": 489,
+      "source": "memory",
+      "snippet": "Assistant: **需要更多上下文來判斷是哪個服務出現了 404 錯誤：** 1. **Discord 上的 404**：是指傳送指令給 Q1 Bot 時，Discord 顯示 404 錯誤嗎？ 2. **控制界面 (Control UI) 404**：是在瀏覽 `http://127.0.0.1:18789/` 或 `http://127.0.0.1:18789/__openclaw__/canvas/` 時看到的嗎？ 3. **其他網頁/API**：是否在測試其他整合時遇到？ --- ### **🛠️ 初步排查** - ✅ Gateway 狀",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "127.0.0.1",
+        "其他網頁/api",
+        "assistant",
+        "需要",
+        "更多",
+        "上下文",
+        "判斷"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:490:490": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:490:490",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 490,
+      "endLine": 490,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 19:59 GMT+8] 看這張圖",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:491:491": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:491:491",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 491,
+      "endLine": 491,
+      "source": "memory",
+      "snippet": "Assistant: **我沒有在系統中看到任何新圖片附件。為了分析圖片，我需要確認：** ### **📍 圖片在哪裡？** 1. **在 Discord 傳送**：請確認是否已在 Discord 頻道/私訊中傳送圖片給 @Q1 Bot 2. **提供圖片連結**：可以將圖片上傳到 imgur/twitter 後提供連結 3. **WebChat 上傳**：目前 WebChat 控制界面不支援直接上傳圖片檔案 ### **🔍 系統狀態檢查** - ✅ Discord bot 連線正常 - ⚠️ 日誌中**無圖片下載記錄**（可能未收到或權限問題） -",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "頻道/私訊中傳送圖片給",
+        "imgur/twitter",
+        "assistant",
+        "沒有",
+        "系統",
+        "看到",
+        "任何",
+        "圖片"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:492:492": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:492:492",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 492,
+      "endLine": 492,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:00 GMT+8] 之前都可以在Webchat上傳圖片 為什麼現在不行了？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:493:493": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:493:493",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 493,
+      "endLine": 493,
+      "source": "memory",
+      "snippet": "Assistant: **需要你提供更多細節才能精準定位問題：** ### **🔍 問題細節** 1. **上傳流程**： - 是在 `http://127.0.0.1:18789/` 控制界面中點擊「上傳圖片」按鈕嗎？ - 還是透過拖放檔案到聊天框？ - 上傳後**具體出現什麼錯誤**（404 頁面、上傳失敗提示、還是無反應）？ 2. **瀏覽器資訊**： - 使用的瀏覽器（Chrome/Safari）？ - 瀏覽器開發者工具（F12）→ 網路（Network）標籤中有無紅色錯誤？ ### **🛠️ 系統狀態** - ✅ Gateway 正常運行（",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "network",
+        "127.0.0.1",
+        "chrome/safari",
+        "assistant",
+        "需要",
+        "提供",
+        "更多"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:494:494": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:494:494",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 494,
+      "endLine": 494,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:03 GMT+8] 為什麼你一直從MINIMAX FALLBACK 是不是沒接好 我也沒看到MINIMAX後台有花費",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:495:495": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:495:495",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 495,
+      "endLine": 495,
+      "source": "memory",
+      "snippet": "Assistant: <final>✅ **好了，設定已更新並生效！** 目前的模型 Fallback 鏈如下： 1. **第一順位 (Primary)**：`minimax/minimax-m2.5` (MiniMax 2.5) — $1.50/M 2. **第二順位 (Fallback 1)**：`deepseek/deepseek-reasoner` (DeepSeek Reasoner) — $0.70/M 3. **第三順位 (Fallback 2)**：`anthropic/claude-opus-4-6` (Claude Opus) — $",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "minimax/minimax-m2.5",
+        "2.5",
+        "1.50/m",
+        "deepseek/deepseek-reasoner",
+        "0.70/m",
+        "anthropic/claude-opus-4-6",
+        "assistant",
+        "final"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:496:496": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:496:496",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 496,
+      "endLine": 496,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 19:56 GMT+8] 我看你現在還是Gemini 3 切換為 MINIMAX",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:497:497": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:497:497",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 497,
+      "endLine": 497,
+      "source": "memory",
+      "snippet": "Assistant: <final>抱歉，因為目前的對話 Session 之前綁定了 Gemini，所以雖然全域設定改了，但對話中可能還沒跳轉。 我剛剛已經手動執行了 **Session 模型強制切換**： ✅ **當前對話模型已切換為**：`minimax/minimax-m2.5` 現在我們之後的對話都會直接使用 MiniMax 2.5 了！</final>",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "minimax/minimax-m2.5",
+        "2.5",
+        "assistant",
+        "final",
+        "抱歉",
+        "因為",
+        "目前",
+        "對話"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:498:498": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:498:498",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 498,
+      "endLine": 498,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 19:57 GMT+8] OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:499:499": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:499:499",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 499,
+      "endLine": 499,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 19:57 GMT+8] OK",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:500:500": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:500:500",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 500,
+      "endLine": 500,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 19:57 GMT+8] 為什麼會跳４０４",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:501:501": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:501:501",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 501,
+      "endLine": 501,
+      "source": "memory",
+      "snippet": "Assistant: **需要更多上下文來判斷是哪個服務出現了 404 錯誤：** 1. **Discord 上的 404**：是指傳送指令給 Q1 Bot 時，Discord 顯示 404 錯誤嗎？ 2. **控制界面 (Control UI) 404**：是在瀏覽 `http://127.0.0.1:18789/` 或 `http://127.0.0.1:18789/__openclaw__/canvas/` 時看到的嗎？ 3. **其他網頁/API**：是否在測試其他整合時遇到？ --- ### **🛠️ 初步排查** - ✅ Gateway 狀",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "127.0.0.1",
+        "其他網頁/api",
+        "assistant",
+        "需要",
+        "更多",
+        "上下文",
+        "判斷"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:502:502": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:502:502",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 502,
+      "endLine": 502,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 19:59 GMT+8] 看這張圖",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:503:503": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:503:503",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 503,
+      "endLine": 503,
+      "source": "memory",
+      "snippet": "Assistant: **我沒有在系統中看到任何新圖片附件。為了分析圖片，我需要確認：** ### **📍 圖片在哪裡？** 1. **在 Discord 傳送**：請確認是否已在 Discord 頻道/私訊中傳送圖片給 @Q1 Bot 2. **提供圖片連結**：可以將圖片上傳到 imgur/twitter 後提供連結 3. **WebChat 上傳**：目前 WebChat 控制界面不支援直接上傳圖片檔案 ### **🔍 系統狀態檢查** - ✅ Discord bot 連線正常 - ⚠️ 日誌中**無圖片下載記錄**（可能未收到或權限問題） -",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "頻道/私訊中傳送圖片給",
+        "imgur/twitter",
+        "assistant",
+        "沒有",
+        "系統",
+        "看到",
+        "任何",
+        "圖片"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:504:504": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:504:504",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 504,
+      "endLine": 504,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:00 GMT+8] 之前都可以在Webchat上傳圖片 為什麼現在不行了？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:505:505": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:505:505",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 505,
+      "endLine": 505,
+      "source": "memory",
+      "snippet": "Assistant: **需要你提供更多細節才能精準定位問題：** ### **🔍 問題細節** 1. **上傳流程**： - 是在 `http://127.0.0.1:18789/` 控制界面中點擊「上傳圖片」按鈕嗎？ - 還是透過拖放檔案到聊天框？ - 上傳後**具體出現什麼錯誤**（404 頁面、上傳失敗提示、還是無反應）？ 2. **瀏覽器資訊**： - 使用的瀏覽器（Chrome/Safari）？ - 瀏覽器開發者工具（F12）→ 網路（Network）標籤中有無紅色錯誤？ ### **🛠️ 系統狀態** - ✅ Gateway 正常運行（",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "gateway",
+        "network",
+        "127.0.0.1",
+        "chrome/safari",
+        "assistant",
+        "需要",
+        "提供",
+        "更多"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:506:506": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:506:506",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 506,
+      "endLine": 506,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:03 GMT+8] 為什麼你一直從MINIMAX FALLBACK 是不是沒接好 我也沒看到MINIMAX後台有花費",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:507:507": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:507:507",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 507,
+      "endLine": 507,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] **✅ 後台查詢模組已部署到 CS Bot！** ### 已完成： - **Puppeteer** 已安裝到 `/opt/cs-bot/` - **`backend-query.js`** 已部署到 `/opt/cs-bot/src/` - **22 個後台頁面** 已建檔（玩家充值、提現、交易查詢、損益總表等） - `.env` 已加入 `BACKEND_URL`、`BACKEND_USER`、`BACKEND_PASS` 佔位符 ### 模組功能： - **自動登入**：密碼驗證開關 →",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "opt/cs-bot",
+        "backend-query.js",
+        "opt/cs-bot/src",
+        "backend-url",
+        "backend-user",
+        "backend-pass",
+        "assistant"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:508:508": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:508:508",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 508,
+      "endLine": 508,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1491320707882287164\", \"sender_id\": \"515130023532036096\", \"conversation_label\": \"Guild #回報機器人 channel id:1490873797358911631\", \"sender\": \"mnnnweinnnm\", \"timestamp\": \"Wed 2026-04-08 14:16 GMT+8\", \"group_space\":",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "conversation-label",
+        "group-space",
+        "user",
+        "conversation",
+        "info",
+        "untrusted"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:509:509": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:509:509",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 509,
+      "endLine": 509,
+      "source": "memory",
+      "snippet": "Assistant: 帳密已填入。現在測試登入：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "填入",
+        "現在",
+        "測試",
+        "登入"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:510:510": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:510:510",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 510,
+      "endLine": 510,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] **✅ CS Bot 後台查詢模組測試成功！** `peraaitest1` 帳號登入正常，數據抓取正確： **📊 即時數據（剛抓到的）：** - 註冊：25 人 - 登入：1,009 人 - 充值：117 人 / 107,514 - 提現：31 人 / 178,163 - 充提差：-70,649 - 毛利：-71,090 --- **CS Bot 現在已具備後台查詢能力。** 等您定義好觸發方式跟查詢範圍後，我就把它接到 AI handler 裡面，讓客服 AI 能自動查後台回覆客戶。",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "assistant",
+        "bot",
+        "後台",
+        "查詢",
+        "模組",
+        "測試",
+        "成功"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:511:511": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:511:511",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 511,
+      "endLine": 511,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1491321988747362396\", \"sender_id\": \"515130023532036096\", \"conversation_label\": \"Guild #回報機器人 channel id:1490873797358911631\", \"sender\": \"mnnnweinnnm\", \"timestamp\": \"Wed 2026-04-08 14:21 GMT+8\", \"group_space\":",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "conversation-label",
+        "group-space",
+        "user",
+        "conversation",
+        "info",
+        "untrusted"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:512:512": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:512:512",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 512,
+      "endLine": 512,
+      "source": "memory",
+      "snippet": "Assistant: 我需要寫一個專門的抓取腳本，從多個頁面收集數據。讓我先分析每個指標的數據來源： - **新用戶數 / 活躍人數**：首頁（註冊人數、登入人數）或活躍用戶分析 `/31672` - **首充人數 / 存款人數 / 總存款金額**：首頁今日小結 - **注充率**：首充人數 / 新用戶數（計算） - **總取款金額 / 存提差額**：首頁今日小結（計算） - **出款人次 / 出款率**：提現頁面 `/20008`（計算） - **投注人數 / 總投注 / 派彩**：首頁今日小結 - **投注筆數 / 有效投注**：玩家遊戲統計 `/3",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "需要",
+        "一個",
+        "專門",
+        "抓取",
+        "腳本",
+        "多個",
+        "收集"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:513:513": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:513:513",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 513,
+      "endLine": 513,
+      "source": "memory",
+      "snippet": "Assistant: 現在執行查詢 4/7 的數據：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "4/7",
+        "assistant",
+        "現在",
+        "執行",
+        "查詢",
+        "數據"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:514:514": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:514:514",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 514,
+      "endLine": 514,
+      "source": "memory",
+      "snippet": "Assistant: 登入之後導航超時。可能是因為首頁目前顯示的是「今日」數據，而非 4/7 的。讓我調整——先查詢「今日」的首頁數據，然後再到損益總表和其他頁面用日期篩選去拿 4/7 的：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "4/7",
+        "assistant",
+        "登入",
+        "之後",
+        "導航",
+        "可能是",
+        "因為",
+        "首頁"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:515:515": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:515:515",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 515,
+      "endLine": 515,
+      "source": "memory",
+      "snippet": "Assistant: `waitForNavigation` 超時——可能是 SPA 點擊登入按鈕後不觸發傳統導航。讓我改成等待特定元素出現，而非等 navigation：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "waitfornavigation",
+        "可能是",
+        "spa",
+        "登入",
+        "按鈕",
+        "觸發",
+        "傳統"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:516:516": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:516:516",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 516,
+      "endLine": 516,
+      "source": "memory",
+      "snippet": "Assistant: Shell 引號問題。讓我改用檔案方式：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "shell",
+        "引號",
+        "問題",
+        "改用",
+        "檔案",
+        "方式"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:517:517": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:517:517",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 517,
+      "endLine": 517,
+      "source": "memory",
+      "snippet": "Assistant: 登入後等不到 `.ant-table-cell`。可能是用 `peraaitest` 帳號（回報機器人的帳號）登入時跳轉的頁面結構不同。之前的 `scrape.js` 用了 `waitForNavigation` 成功，我來改回那個方式並加截圖 debug：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "ant-table-cell",
+        "scrape.js",
+        "assistant",
+        "登入",
+        "不到",
+        "ant",
+        "table",
+        "cell"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:518:518": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:518:518",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 518,
+      "endLine": 518,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1491323600681041920\", \"sender_id\": \"515130023532036096\", \"conversation_label\": \"Guild #回報機器人 channel id:1490873797358911631\", \"sender\": \"mnnnweinnnm\", \"timestamp\": \"Wed 2026-04-08 14:27 GMT+8\", \"group_space\":",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "conversation-label",
+        "group-space",
+        "user",
+        "conversation",
+        "info",
+        "untrusted"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:519:519": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:519:519",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 519,
+      "endLine": 519,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:06 GMT+8] 發生什麼事？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:520:520": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:520:520",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 520,
+      "endLine": 520,
+      "source": "memory",
+      "snippet": "Assistant: **🔍 問題診斷完成** --- ### **⚠️ 發現的問題** MiniMax API 連接失敗，原因如下： 1. **配置錯誤**：`baseUrl` 設定為 `https://api.minimaxi.chat/v1?GroupId=2041757586977464398`（帶參數的 URL） 2. **API 回應 404**：OpenClaw 調用時獲得 404 錯誤 3. **自動 Fallback**：系統偵測到失敗，自動切換到 DeepSeek Reasoner ### **🔧 已執行的修復** 1. **修正",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "api.minimaxi.chat/v1",
+        "assistant",
+        "問題",
+        "診斷",
+        "完成",
+        "發現",
+        "minimax",
+        "api"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:521:521": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:521:521",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 521,
+      "endLine": 521,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:07 GMT+8] 切換回MINIMAX",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:522:522": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:522:522",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 522,
+      "endLine": 522,
+      "source": "memory",
+      "snippet": "Assistant: **✅ 已切換回 MINIMAX M2.5** --- ### **🔄 當前狀態** - **模型**：`minimax/minimax-m2.5` - **API Key**：使用 `env: MINIMAX_API_KEY` 憑證 - **配置**：已修正參數格式，API 連線正常 - **Fallback 鏈**：MiniMax 2.5 → DeepSeek Reasoner → Claude Opus ### **🔍 花費追蹤說明** 之前「看不到 MINIMAX 後台花費」的原因： 1. **API 連線失敗**：舊配",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "m2.5",
+        "minimax/minimax-m2.5",
+        "minimax-api-key",
+        "2.5",
+        "assistant",
+        "切換",
+        "minimax",
+        "當前"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:523:523": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:523:523",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 523,
+      "endLine": 523,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:18 GMT+8] 我看到還是deepseek reasoner在回覆我",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:524:524": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:524:524",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 524,
+      "endLine": 524,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:19 GMT+8] 現在是MINIMAX了嗎？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:525:525": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:525:525",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 525,
+      "endLine": 525,
+      "source": "memory",
+      "snippet": "User: Pre-compaction memory flush. Store durable memories only in memory/2026-04-08.md (create memory/ if needed). Treat workspace bootstrap/reference files such as MEMORY.md, DREAMS.md, SOUL.md, TOOLS.md, and AGENTS.md as read-only during this flush; never overwrite, replace, or",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "pre-compaction",
+        "memory/2026-04-08.md",
+        "bootstrap/reference",
+        "memory.md",
+        "dreams.md",
+        "soul.md",
+        "tools.md",
+        "agents.md"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:526:526": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:526:526",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 526,
+      "endLine": 526,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:20 GMT+8] ？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:527:527": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:527:527",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 527,
+      "endLine": 527,
+      "source": "memory",
+      "snippet": "User: Pre-compaction memory flush. Store durable memories only in memory/2026-04-08.md (create memory/ if needed). Treat workspace bootstrap/reference files such as MEMORY.md, DREAMS.md, SOUL.md, TOOLS.md, and AGENTS.md as read-only during this flush; never overwrite, replace, or",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "pre-compaction",
+        "memory/2026-04-08.md",
+        "bootstrap/reference",
+        "memory.md",
+        "dreams.md",
+        "soul.md",
+        "tools.md",
+        "agents.md"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:528:528": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:528:528",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 528,
+      "endLine": 528,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:21 GMT+8] 我看不到你的回覆",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:529:529": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:529:529",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 529,
+      "endLine": 529,
+      "source": "memory",
+      "snippet": "User: Pre-compaction memory flush. Store durable memories only in memory/2026-04-08.md (create memory/ if needed). Treat workspace bootstrap/reference files such as MEMORY.md, DREAMS.md, SOUL.md, TOOLS.md, and AGENTS.md as read-only during this flush; never overwrite, replace, or",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "pre-compaction",
+        "memory/2026-04-08.md",
+        "bootstrap/reference",
+        "memory.md",
+        "dreams.md",
+        "soul.md",
+        "tools.md",
+        "agents.md"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:530:530": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:530:530",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 530,
+      "endLine": 530,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:31 GMT+8] 正常了嗎？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:531:531": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:531:531",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 531,
+      "endLine": 531,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:06 GMT+8] 發生什麼事？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:532:532": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:532:532",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 532,
+      "endLine": 532,
+      "source": "memory",
+      "snippet": "Assistant: **🔍 問題診斷完成** --- ### **⚠️ 發現的問題** MiniMax API 連接失敗，原因如下： 1. **配置錯誤**：`baseUrl` 設定為 `https://api.minimaxi.chat/v1?GroupId=2041757586977464398`（帶參數的 URL） 2. **API 回應 404**：OpenClaw 調用時獲得 404 錯誤 3. **自動 Fallback**：系統偵測到失敗，自動切換到 DeepSeek Reasoner ### **🔧 已執行的修復** 1. **修正",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "api.minimaxi.chat/v1",
+        "assistant",
+        "問題",
+        "診斷",
+        "完成",
+        "發現",
+        "minimax",
+        "api"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:533:533": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:533:533",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 533,
+      "endLine": 533,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:07 GMT+8] 切換回MINIMAX",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:534:534": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:534:534",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 534,
+      "endLine": 534,
+      "source": "memory",
+      "snippet": "Assistant: **✅ 已切換回 MINIMAX M2.5** --- ### **🔄 當前狀態** - **模型**：`minimax/minimax-m2.5` - **API Key**：使用 `env: MINIMAX_API_KEY` 憑證 - **配置**：已修正參數格式，API 連線正常 - **Fallback 鏈**：MiniMax 2.5 → DeepSeek Reasoner → Claude Opus ### **🔍 花費追蹤說明** 之前「看不到 MINIMAX 後台花費」的原因： 1. **API 連線失敗**：舊配",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "m2.5",
+        "minimax/minimax-m2.5",
+        "minimax-api-key",
+        "2.5",
+        "assistant",
+        "切換",
+        "minimax",
+        "當前"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:535:535": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:535:535",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 535,
+      "endLine": 535,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:18 GMT+8] 我看到還是deepseek reasoner在回覆我",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:536:536": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:536:536",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 536,
+      "endLine": 536,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:19 GMT+8] 現在是MINIMAX了嗎？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:537:537": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:537:537",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 537,
+      "endLine": 537,
+      "source": "memory",
+      "snippet": "User: Pre-compaction memory flush. Store durable memories only in memory/2026-04-08.md (create memory/ if needed). Treat workspace bootstrap/reference files such as MEMORY.md, DREAMS.md, SOUL.md, TOOLS.md, and AGENTS.md as read-only during this flush; never overwrite, replace, or",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "pre-compaction",
+        "memory/2026-04-08.md",
+        "bootstrap/reference",
+        "memory.md",
+        "dreams.md",
+        "soul.md",
+        "tools.md",
+        "agents.md"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:538:538": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:538:538",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 538,
+      "endLine": 538,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:20 GMT+8] ？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:539:539": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:539:539",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 539,
+      "endLine": 539,
+      "source": "memory",
+      "snippet": "User: Pre-compaction memory flush. Store durable memories only in memory/2026-04-08.md (create memory/ if needed). Treat workspace bootstrap/reference files such as MEMORY.md, DREAMS.md, SOUL.md, TOOLS.md, and AGENTS.md as read-only during this flush; never overwrite, replace, or",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "pre-compaction",
+        "memory/2026-04-08.md",
+        "bootstrap/reference",
+        "memory.md",
+        "dreams.md",
+        "soul.md",
+        "tools.md",
+        "agents.md"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:540:540": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:540:540",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 540,
+      "endLine": 540,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:21 GMT+8] 我看不到你的回覆",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:541:541": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:541:541",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 541,
+      "endLine": 541,
+      "source": "memory",
+      "snippet": "User: Pre-compaction memory flush. Store durable memories only in memory/2026-04-08.md (create memory/ if needed). Treat workspace bootstrap/reference files such as MEMORY.md, DREAMS.md, SOUL.md, TOOLS.md, and AGENTS.md as read-only during this flush; never overwrite, replace, or",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "pre-compaction",
+        "memory/2026-04-08.md",
+        "bootstrap/reference",
+        "memory.md",
+        "dreams.md",
+        "soul.md",
+        "tools.md",
+        "agents.md"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:542:542": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:542:542",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 542,
+      "endLine": 542,
+      "source": "memory",
+      "snippet": "User: Sender (untrusted metadata): ```json { \"label\": \"openclaw-control-ui\", \"id\": \"openclaw-control-ui\" } ``` [Wed 2026-04-08 20:31 GMT+8] 正常了嗎？",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "openclaw-control-ui",
+        "user",
+        "sender",
+        "untrusted",
+        "metadata",
+        "label",
+        "openclaw",
+        "control"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:543:543": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:543:543",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 543,
+      "endLine": 543,
+      "source": "memory",
+      "snippet": "Assistant: Session 似乎被清掉了。讓我重新跑一次：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "似乎",
+        "掉了",
+        "重新",
+        "一次"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:544:544": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:544:544",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 544,
+      "endLine": 544,
+      "source": "memory",
+      "snippet": "Assistant: 問題找到了！**登入失敗** — 頁面停留在登入頁。看起來這個後台的登入頁已經改版了（顯示「登入您的帐户」而非之前的版本，且密碼 placeholder 不再是 `用户名称`）。 讓我截圖看看登入頁長什麼樣：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "問題",
+        "找到",
+        "登入",
+        "失敗",
+        "停留在",
+        "看起來",
+        "這個"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:545:545": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:545:545",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 545,
+      "endLine": 545,
+      "source": "memory",
+      "snippet": "Assistant: 找到了！問題是 **密碼驗證開關 (`ant-switch`) 的 `aria-checked` 是 `false`**，所以第二個 input 顯示的是 `Google 验证码` 而非 `密码`。需要先點擊開關切換到密碼模式。 之前腳本的邏輯是：如果 `aria-checked` 不是 `true` 就點擊。但現在看來 `isChecked` 判斷有問題——開關的 checked 狀態是 `false`，表示「密碼驗證」模式是**關閉**的（預設是 Google 驗證碼）。 腳本確實有做 `if (!isChecked) { cl",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "ant-switch",
+        "aria-checked",
+        "assistant",
+        "找到",
+        "問題",
+        "密碼",
+        "驗證",
+        "開關"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:546:546": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:546:546",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 546,
+      "endLine": 546,
+      "source": "memory",
+      "snippet": "Assistant: 切換開關成功了（`true`），密碼欄也出現了，但**登入後還是停在登入頁**。帳密可能輸入錯了。讓我檢查 `.env` 裡的帳密：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "切換",
+        "開關",
+        "成功",
+        "true",
+        "密碼",
+        "出現",
+        "登入"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:547:547": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:547:547",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 547,
+      "endLine": 547,
+      "source": "memory",
+      "snippet": "Assistant: 帳密正確，就是之前成功用過的那組。可能是登入頁有驗證碼、或是密碼欄沒清空就輸入了。讓我加入截圖在輸入帳密後、點登入前：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "正確",
+        "就是",
+        "之前",
+        "成功",
+        "可能是",
+        "登入",
+        "驗證"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:548:548": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:548:548",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 548,
+      "endLine": 548,
+      "source": "memory",
+      "snippet": "Assistant: 登入沒有任何錯誤訊息但也沒跳轉。讓我看看截圖：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "登入",
+        "沒有",
+        "任何",
+        "錯誤",
+        "訊息",
+        "也沒",
+        "看看"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:549:549": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:549:549",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 549,
+      "endLine": 549,
+      "source": "memory",
+      "snippet": "Assistant: 帳密都有填入，但點登入後頁面沒變化。可能是有隱藏的下拉選單（語言）或是帳號被鎖了。讓我仔細看那個下拉選單和頁面互動：",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "都有",
+        "填入",
+        "登入",
+        "變化",
+        "可能是",
+        "隱藏",
+        "選單"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:550:550": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:550:550",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 550,
+      "endLine": 550,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] **找到問題了！** 後台 API 回傳了 500 錯誤： > `\"OPERATOR_IS_DEACTIVATE_PW_ERROR_AND_OTP_NOT_ACTIVE\"` > **「no password login allowed, and otp is not active」** 意思是：**`peraaitest` 帳號的密碼登入權限已被停用，且 OTP（Google 驗證碼）也未啟用。** 換句話說，這個帳號目前**兩種登入方式都不能用**。 --- ### 可能原因： 1. **",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "assistant",
+        "找到",
+        "問題",
+        "後台",
+        "api",
+        "錯誤",
+        "password"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:551:551": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:551:551",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 551,
+      "endLine": 551,
+      "source": "memory",
+      "snippet": "User: [Queued messages while agent was busy] --- Queued #1 Conversation info (untrusted metadata): ```json { \"message_id\": \"1491325170005049407\", \"sender_id\": \"515130023532036096\", \"conversation_label\": \"Guild #回報機器人 channel id:1490873797358911631\", \"sender\": \"mnnnweinnnm\", \"time",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "conversation-label",
+        "user",
+        "queued",
+        "messages",
+        "while",
+        "was"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:552:552": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:552:552",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 552,
+      "endLine": 552,
+      "source": "memory",
+      "snippet": "Assistant: [[reply_to_current]] **👍 好的，您先測試。等帳號權限調好了再告訴我！**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "reply-to-current",
+        "assistant",
+        "好的",
+        "測試",
+        "帳號",
+        "權限",
+        "好了",
+        "告訴"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:553:553": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:553:553",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 553,
+      "endLine": 553,
+      "source": "memory",
+      "snippet": "Assistant: **👍 好的，您先測試。等帳號權限調好了再告訴我！**",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "assistant",
+        "好的",
+        "測試",
+        "帳號",
+        "權限",
+        "好了",
+        "告訴"
+      ]
+    },
+    "memory:memory/.dreams/session-corpus/2026-04-08.txt:554:554": {
+      "key": "memory:memory/.dreams/session-corpus/2026-04-08.txt:554:554",
+      "path": "memory/.dreams/session-corpus/2026-04-08.txt",
+      "startLine": 554,
+      "endLine": 554,
+      "source": "memory",
+      "snippet": "User: Conversation info (untrusted metadata): ```json { \"message_id\": \"1491325830847139920\", \"sender_id\": \"515130023532036096\", \"conversation_label\": \"Guild #回報機器人 channel id:1490873797358911631\", \"sender\": \"mnnnweinnnm\", \"timestamp\": \"Wed 2026-04-08 14:36 GMT+8\", \"group_space\":",
+      "recallCount": 0,
+      "dailyCount": 1,
+      "totalScore": 0.58,
+      "maxScore": 0.58,
+      "firstRecalledAt": "2026-04-09T01:30:00.821Z",
+      "lastRecalledAt": "2026-04-09T01:30:00.821Z",
+      "queryHashes": [
+        "dd2a162d175b"
+      ],
+      "recallDays": [
+        "2026-04-08",
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "message-id",
+        "sender-id",
+        "conversation-label",
+        "group-space",
+        "user",
+        "conversation",
+        "info",
+        "untrusted"
       ]
     }
   }
