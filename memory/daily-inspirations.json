@@ -108,5 +108,280 @@
       "3. 發送到專案頻道",
       "4. 設定 cron 每小時執行"
     ]
+  },
+  {
+    "title": "AI 客服情緒分析儀表板",
+    "description": "分析 CS-Bot 對話情緒，視覺化客服質量",
+    "features": ["text analysis", "node.js", "Discord/Telegram alert"],
+    "steps": [
+      "1. 從 LiveChat 同步對話記錄",
+      "2. 用情緒分析 API 評分每段對話",
+      "3. 生成每日情緒報告圖表",
+      "4. 異常低分時發送警報"
+    ]
+  },
+  {
+    "title": "自動截圖比對報警系統",
+    "description": "定時截取網站頁面，比對像素差異自動報警",
+    "features": ["puppeteer", "image comparison", "cron job"],
+    "steps": [
+      "1. 用 Puppeteer 定時截取網站截圖",
+      "2. 比對與上一版本的像素差異",
+      "3. 若差異過大（如頁面崩潰、亂碼），發送警報",
+      "4. 設定 cron 每小時執行"
+    ]
+  },
+  {
+    "title": "語音指令轉任務機器人",
+    "description": "接收語音訊息，轉換成文字後自動執行對應任務",
+    "features": ["STT (speech-to-text)", "exec tools", "Discord/Telegram"],
+    "steps": [
+      "1. 用戶發送語音訊息到頻道",
+      "2. 用 STT 轉換成文字指令",
+      "3. 解析指令並執行對應動作（如查天氣、開燈）",
+      "4. 回傳執行結果"
+    ]
+  },
+  {
+    "title": "多平台內容同步機器人",
+    "description": "將一段文字/圖片自動發布到多個社交平台",
+    "features": ["message tool", "image_generate", "cron job"],
+    "steps": [
+      "1. 用戶提供內容和目標平台清單",
+      "2. 自動調整內容格式適應各平台",
+      "3. 用 message 工具發送到不同頻道",
+      "4. 追蹤各平台互動數據"
+    ]
+  },
+  {
+    "title": "智慧型鬧鐘與提醒系統",
+    "description": "根據行事曆和交通狀況，智能調整提醒時間",
+    "features": ["gog (Calendar)", "weather skill", "cron job"],
+    "steps": [
+      "1. 讀取 Google Calendar 今日行程",
+      "2. 查詢天氣和交通預估時間",
+      "3. 計算最佳出發時間和提醒時機",
+      "4. 發送個性化提醒到手機"
+    ]
+  },
+  {
+    "title": "AI 生成的每日挑戰",
+    "description": "每天生成一個編程或創意挑戰，激發團隊靈感",
+    "features": ["AI generation", "Discord message", "cron job"],
+    "steps": [
+      "1. 用 AI 生成當日挑戰主題",
+      "2. 格式化成有趣題目",
+      "3. 發送到團隊頻道",
+      "4. 追蹤參與和成果"
+    ]
+  },
+  {
+    "title": "自動化會議記錄員",
+    "description": "錄音會議並自動生成摘要與待辦事項",
+    "features": ["STT", "text summarization", "gog (Docs)"],
+    "steps": [
+      "1. 錄製會議音頻",
+      "2. 用 STT 轉文字",
+      "3. AI 摘要重點和待辦",
+      "4. 寫入 Google Docs 並分享"
+    ]
+  },
+  {
+    "title": "智能食譜推薦系統",
+    "description": "根據冰箱庫存和飲食偏好推薦食譜",
+    "features": ["Google Sheets", "web_fetch", "Discord message"],
+    "steps": [
+      "1. 讀取 Google Sheets 中的庫存清單",
+      "2. 查詢食譜資料庫匹配可用食材",
+      "3. 推薦 3 道菜並附上做法連結",
+      "4. 發送到家庭群組"
+    ]
+  },
+  {
+    "title": "寵物監控與自動餵食整合",
+    "description": "監控寵物活動，定時提醒餵食和互動",
+    "features": ["camera API", "cron job", "Discord alert"],
+    "steps": [
+      "1. 連接寵物攝影機 API",
+      "2. 分析寵物活動模式",
+      "3. 定時發送餵食提醒",
+      "4. 異常安靜時發送警報"
+    ]
+  },
+  {
+    "title": "學習進度追蹤助手",
+    "description": "追蹤線上課程進度，定期提醒和總結",
+    "features": ["web_fetch", "cron job", "Discord message"],
+    "steps": [
+      "1. 爬取課程平台進度數據",
+      "2. 計算每日應完成進度",
+      "3. 發送進度提醒和鼓勵",
+      "4. 每週生成學習報告"
+    ]
+  },
+  {
+    "title": "智慧型存錢計畫",
+    "description": "根據消費習慣建議儲蓄目標和提醒",
+    "features": ["Google Sheets", "AI analysis", "cron job"],
+    "steps": [
+      "1. 分析 Google Sheets 中的消費記錄",
+      "2. AI 識別可節省項目",
+      "3. 設定個人化儲蓄目標",
+      "4. 每週發送進度報告"
+    ]
+  },
+  {
+    "title": "自動化新聞摘要播報",
+    "description": "每日抓取指定主題新聞，生成語音摘要",
+    "features": ["web_fetch", "TTS", "cron job"],
+    "steps": [
+      "1. 抓取 RSS/新聞網站頭條",
+      "2. AI 生成 3 分鐘摘要",
+      "3. 用 TTS 轉成語音檔",
+      "4. 發送到音頻頻道"
+    ]
+  },
+  {
+    "title": "團隊士氣溫度計",
+    "description": "匿名收集團隊回饋，分析士氣趨勢",
+    "features": ["Google Forms", "Google Sheets", "data visualization"],
+    "steps": [
+      "1. 設置匿名 Google Form",
+      "2. 定期請團隊成員填寫",
+      "3. 分析數據生成士氣圖表",
+      "4. 分享洞察給管理者"
+    ]
+  },
+  {
+    "title": "程式碼審查助手",
+    "description": "自動審查 GitHub PR，標註潛在問題",
+    "features": ["github skill", "code analysis", "Discord alert"],
+    "steps": [
+      "1. 監控 GitHub repo 的新 PR",
+      "2. 用 AI 分析程式碼品質",
+      "3. 標註潛在 bug 和改進點",
+      "4. 發送摘要到開發頻道"
+    ]
+  },
+  {
+    "title": "個人知識庫自動整理",
+    "description": "將散落的筆記、連結、檔案自動分類建檔",
+    "features": ["file system", "text analysis", "cron job"],
+    "steps": [
+      "1. 掃描指定資料夾的文件",
+      "2. AI 分析內容並分類",
+      "3. 自動重新組織檔案結構",
+      "4. 生成分類索引文件"
+    ]
+  },
+  {
+    "title": "智慧型電器排程優化",
+    "description": "根據用電峰谷時段，優化家電運行時間",
+    "features": ["IoT APIs", "cron job", "data analysis"],
+    "steps": [
+      "1. 連接智慧插座 API",
+      "2. 查詢電價時段資料",
+      "3. 排程家電在低價時段運行",
+      "4. 每月計算節省電費"
+    ]
+  },
+  {
+    "title": "旅行規劃小助手",
+    "description": "根據預算和偏好，推薦旅行行程和預訂提醒",
+    "features": ["web_fetch", "Google Sheets", "cron job"],
+    "steps": [
+      "1. 收集旅行偏好和預算",
+      "2. 爬取機票住宿資訊",
+      "3. 推薦最佳行程方案",
+      "4. 設定重要日期提醒"
+    ]
+  },
+  {
+    "title": "冥想引導與進度追蹤",
+    "description": "每日提供冥想引導，追蹤堅持天數和成效",
+    "features": ["TTS", "Google Sheets", "cron job"],
+    "steps": [
+      "1. 生成每日冥想引導文字",
+      "2. 用 TTS 轉成引導音頻",
+      "3. 發送到用戶頻道",
+      "4. 追蹤完成狀態和 streak"
+    ]
+  },
+  {
+    "title": "自動化投資組合再平衡",
+    "description": "監控投資組合比例，自動提醒再平衡時機",
+    "features": ["financial APIs", "Google Sheets", "alert system"],
+    "steps": [
+      "1. 連接投資帳戶 API 讀取持倉",
+      "2. 計算當前資產配置比例",
+      "3. 偏離目標配置時發送提醒",
+      "4. 建議具體調整動作"
+    ]
+  },
+  {
+    "title": "環保習慣養成遊戲",
+    "description": "追蹤減碳行動，遊戲化鼓勵永續生活",
+    "features": ["Google Forms", "points system", "Discord leaderboard"],
+    "steps": [
+      "1. 設計環保行動清單",
+      "2. 用戶回報完成行動",
+      "3. 計算減碳量和積分",
+      "4. 每週公布排行榜"
+    ]
+  },
+  {
+    "title": "AI 生成的藝術品策展",
+    "description": "每天生成一個主題藝術品集，介紹藝術風格",
+    "features": ["image_generate", "art APIs", "Discord message"],
+    "steps": [
+      "1. 選擇每日藝術主題",
+      "2. 生成或收集相關藝術品",
+      "3. 撰寫風格介紹和歷史",
+      "4. 發送到藝術頻道"
+    ]
+  },
+  {
+    "title": "智能水族箱管理系統",
+    "description": "監控水質、溫度，自動提醒換水和餵食",
+    "features": ["IoT sensors", "cron job", "alert system"],
+    "steps": [
+      "1. 連接水族箱感測器",
+      "2. 監控水質參數",
+      "3. 異常時發送警報",
+      "4. 定時提醒維護任務"
+    ]
+  },
+  {
+    "title": "語言學習對話夥伴",
+    "description": "每天提供一個主題對話練習，糾正發音和文法",
+    "features": ["TTS", "STT", "language APIs"],
+    "steps": [
+      "1. 生成每日對話主題",
+      "2. 用 TTS 朗讀範例句型",
+      "3. 分析用戶語音回覆",
+      "4. 提供改進建議"
+    ]
+  },
+  {
+    "title": "自動化社群媒體聆聽",
+    "description": "監控品牌提及，自動摘要輿情趨勢",
+    "features": ["social media APIs", "sentiment analysis", "cron job"],
+    "steps": [
+      "1. 監控關鍵字在社群媒體的提及",
+      "2. 分析情緒傾向",
+      "3. 生成每日輿情報告",
+      "4. 異常負面時立即警報"
+    ]
+  },
+  {
+    "title": "智慧型衣櫥管理",
+    "description": "根據天氣和行程推薦穿搭，追蹤衣物使用頻率",
+    "features": ["weather skill", "Google Calendar", "image analysis"],
+    "steps": [
+      "1. 建立數位衣櫥目錄",
+      "2. 讀取今日天氣和行程",
+      "3. 推薦合適穿搭組合",
+      "4. 追蹤衣物使用數據"
+    ]
   }
 ]
