@@ -39,6 +39,17 @@
 - **狀態**：✅ 程式架構完成 → 🔴 等 Signal 註冊 → 待部署到 VPS → 待連接 PERA57 網站 → 待系統測試
 - **詳細記錄**：`memory/projects/pera57-reporting-bot.md`
 
+### Wheel Arcade（輪盤產品）
+- 建立日：2026-04-12
+- 目錄：`~/.openclaw/workspace/wheel-arcade/`
+- 技術：Node.js + Express + PostgreSQL 16 (Docker) + Canvas
+- 狀態：**P0+P1 完成**，PostgreSQL 遷移完成（原 SQLite）
+- 線上：https://arcade.gameistan-promo.com/
+- 後台：https://arcade.gameistan-promo.com/admin/
+- VPS：128.199.249.195 (DO SGP1)，Caddy + systemd
+- 下一步：Docker 容器化 → Hetzner SGP → Cloudflare → P2 支付
+- 詳細記錄：`memory/projects/wheel-arcade.md`
+
 ### 網頁主機管理
 - Cloudflare 183 zone 整理完、後門已清、Origin Cert 已簽
 - 🔴 usdt-bet.com 管理員密碼未重設、FTP 密碼太弱
