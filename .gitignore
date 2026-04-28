@@ -11,3 +11,5 @@
 !memory/**
 # 排除身份檔案，各自維護
 IDENTITY.md
+# 排除 dreaming 內部資料（local only）
+memory/.dreams/
