@@ -115,3 +115,13 @@
 
 <!-- openclaw-memory-promotion:memory:memory/2026-04-04.md:238:256 -->
 - 6. **摘要 prompt**：原本強制輸出「水單：已提供/未提供」，改成只輸出對話中實際提到的欄位 7. **轉接目標**：LiveChat transfer 從 Group 0 改 Group 11（測試期間），Telegram 通知改發到 PERA CSR Test 群 - 部署檔案：livechat-v3.js、poller-v3.js、handler-v2.js → VPS `/opt/cs-bot/src/` - **現在 E2E 流程可用**：客戶開 chat → 填表 → bot 歡迎 → 客戶發訊息 → AI 回覆 → 需要時 escalate 到 Telegram test 群 - 韋瀚正在持續測試中 ## CS-Bot 路由修復 & 全面 Review（18:00-19:30） - **核心 bug**：所有 chat（包括用 `direct.lc.chat/15555654/11` 進入的）都被路由到 Group 0，而非 Group 11 - 原因：`continuous_chat=1` 和 `chat_between_groups=1` 設定讓有歷史的客戶繼續分配到上次的 group（Group 0） - 新客戶（無歷史）正確進 Group 11；有歷史的全部到 Group 0 - **修復動作**： 1. 關閉 `continuous_chat` 和 `chat_between_groups`（LiveChat API v2） 2. Poller 加 botMember 過濾 — 只處理 bot 是成員的 chat，避免處理 Group 0 的 chat 導致 403 3. Bot 啟動時自動設 routing status = accepting_chats - **完整 Review 結果（19:13）**： - ✅ Docker 運行正常、health check OK - ✅ Bot token 自動簽發 + 401 自動刷新 - ✅ Group 11 設定正確（PERA57 bot = first priority） - ✅ Group 11 Greetings 文字都是 PERA57 GAMING [score=0.802 recalls=7 avg=0.423 source=memory/2026-04-04.md:238-256]
+
+## Promoted From Short-Term Memory (2026-05-05)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-04-27.md:267:269 -->
+- - Candidate: Possible Lasting Truths: Possible Lasting Truths: ✅ 已自動修復: Discord 串流配置遷移（legacy keys）; Gateway 服務路徑重新安裝 [confidence=0.58 evidence=memory/2026-04-09.md:18-19]; 🟡 待優化項目: **MiniMax API 路徑**：`baseUrl` 仍含 `?GroupId=` 參數（應移除，改用 OpenAI 相容端點）; **安全設定**：`tools.exec.security="full"` 建議改為 - confidence: 0.62 - evidence: memory/2026-04-26.md:247-249 [score=0.913 recalls=0 avg=0.620 source=memory/2026-04-27.md:38-40]
+
+## Promoted From Short-Term Memory (2026-05-06)
+
+<!-- openclaw-memory-promotion:memory:memory/2026-04-28.md:302:304 -->
+- - Candidate: Possible Lasting Truths: Possible Lasting Truths: ✅ 已自動修復: Discord 串流配置遷移（legacy keys）; Gateway 服務路徑重新安裝 [confidence=0.58 evidence=memory/2026-04-09.md:18-19]; 🟡 待優化項目: **MiniMax API 路徑**：`baseUrl` 仍含 `?GroupId=` 參數（應移除，改用 OpenAI 相容端點）; **安全設定**：`tools.exec.security="full"` 建議改為 - confidence: 0.62 - evidence: memory/2026-04-26.md:247-249 [score=0.936 recalls=0 avg=0.620 source=memory/2026-04-28.md:233-235]
